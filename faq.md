@@ -117,7 +117,7 @@ réponses seraient trop subjectives ou pourraient mener à des discussions.
 Soyez clair, concis, précis et, si possible, illustrez votre réponse d'un ou
 plusieurs
 [ECM](http://gte.univ-littoral.fr/members/dbitouze/pub/latex/webographie/#x1-210005.3)... voire
-d'images illustrant ces [ECM](#generer-image).
+d'[images illustrant ces ECM](#generer-image).
 
 ## Que dois-je éviter dans mes réponses ?
 
