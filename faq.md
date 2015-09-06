@@ -115,7 +115,9 @@ réponses seraient trop subjectives ou pourraient mener à des discussions.
 ## Comment rendre mes réponses aussi utiles que possibles
 
 Soyez clair, concis, précis et, si possible, illustrez votre réponse d'un ou
-plusieurs ECM... voire d'images illustrant ces ECM.
+plusieurs
+[ECM](http://gte.univ-littoral.fr/members/dbitouze/pub/latex/webographie/#x1-210005.3)... voire
+d'images illustrant ces [ECM](#generer-image).
 
 ## Que dois-je éviter dans mes réponses ?
 
@@ -229,7 +231,7 @@ Dans une liste :
 * un **nouvel item** est introduit par **un retour chariot** ;
 * la **sortie** se fait au moyen de **deux retours chariot consécutifs**.
 
-## Comment générer une image du fichier .pdf (ou .dvi) que j'obtiens pour que les autres voient immédiatement le problème que je rencontre ou la solution que je propose ?
+## <a name="generer-image"></a>Comment générer une image du fichier .pdf (ou .dvi) que j'obtiens pour que les autres voient immédiatement le problème que je rencontre ou la solution que je propose ?
 
 Il suffit de recourir à la classe `standalone` avec l'option `convert` et de
 compiler avec l'option `-shell-escape`. Par exemple, le fichier (disons
