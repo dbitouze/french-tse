@@ -237,7 +237,7 @@ Dans une liste :
 * un **nouvel item** est introduit par **un retour chariot** ;
 * la **sortie** se fait au moyen de **deux retours chariot consécutifs**.
 
-## <a name="generer-image"></a>Comment générer une image du fichier .pdf (ou .dvi) que j'obtiens pour que les autres voient immédiatement le problème que je rencontre ou la solution que je propose ?
+## <a name="generer-image"></a>Comment générer une image du fichier `.pdf` (ou `.dvi`) que j'obtiens pour que les autres voient immédiatement le problème que je rencontre ou la solution que je propose ?
 
 Il suffit de recourir à la classe `standalone` avec l'option `convert` et de
 compiler avec l'option `-shell-escape`. Par exemple, le fichier (disons
