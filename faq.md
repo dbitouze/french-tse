@@ -150,6 +150,13 @@ Utilisez les commentaires sur les questions ou réponses par exemple pour :
 <!-- Évitez de poser des questions qui ne sont pas relatives à (La)TeX, dont les -->
 <!-- réponses seraient trop subjectives ou pourraient mener à des discussions. -->
 
+## Pourquoi est-il si important de formuler les titres sous forme de questions ?
+
+Vous êtes ici sur un site de *questions* et *réponses* et il est donc logique
+que les questions soient intitulées sous forme de... questions ! Cela aide
+également ceux qui sont disposés à vous aider : ils savent ainsi précisément
+à quelle *question* répondre.
+
 # <a name="forme-des-contributions"></a>Forme des contributions
 
 Veillez à vous assurer de la *lisibilité* des vos contributions (questions,
