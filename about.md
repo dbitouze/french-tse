@@ -5,6 +5,11 @@ améliorées. Les questions peuvent être **marquées** avec des mots-clés
 pertinents afin d'en simplifier l'accès futur et d'organiser le contenu
 accumulé.
 
+La licence s'appliquant à toutes les contributions (questions, réponses,
+commentaires) des utilisateurs du présent site est la licence
+[Creative Commons Partage dans les mêmes conditions 3.0 France](https://creativecommons.org/licenses/by-sa/3.0/fr/)
+(cc-by-sa 3.0 fr).
+
 Ce site de <span class ="orange">Q & A</span> (en français « Q & R », soit
 « questions & réponses ») est animé par ses membres dont, nous l'espérons,
 vous-même !
