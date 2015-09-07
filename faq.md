@@ -119,16 +119,9 @@ mots-clés (*tags*).
 Évitez de poser des questions qui ne sont pas relatives à (La)TeX, dont les
 réponses seraient trop subjectives ou pourraient mener à des discussions.
 
-## Comment rendre mes réponses aussi utiles que possibles
-
-Soyez clair, concis, précis et, si possible, illustrez votre réponse d'un ou
-plusieurs
-[ECM](http://gte.univ-littoral.fr/members/dbitouze/pub/latex/webographie/#x1-210005.3)... voire
-d'[images illustrant ces ECM](#generer-image).
-
 ## Que dois-je éviter dans mes réponses ?
 
-* Veillez à *ne pas confondre* réponses et commentaires : la zone de texte
+* Veillez à *ne pas confondre* **réponses** et **commentaires** : la zone de texte
   « Votre réponse » est réservée aux... *réponses* qui, donc, sont censées
   fournir une *solution* à la question posée. Pour demander par exemple des
   éclaircissements ou des précisions sur la question ou sur une de ses réponses,
@@ -150,7 +143,21 @@ Utilisez les commentaires sur les questions ou réponses par exemple pour :
 * demander des éclaircissements ou des précisions ;
 * signaler des alternatives ;
 * indiquer (gentiment) à l'auteur de la question ou réponse comment il pourrait
-  la prochaine fois mieux formuler sa contribution.
+la prochaine fois mieux formuler sa contribution.
+
+## Comment rendre mes contributions aussi utiles que possibles ?
+
+* Soyez clair, précis, concis. En particulier, **évitez** :
+    * **les formules de politesse** (« Bonjour », « Merci. », etc.) ou marques
+      d'opinion (« +1 », etc.) qui ne sont en rien utiles et ont tendance à rendre
+      moins lisible, voire brouillent, ce que d'autres personnes chercheront
+      ici : des solutions (et seulement des solutions) optimales à des questions
+      concernant (La)TeX ;
+    * **les signatures** qui sont redondantes : votre nom est automatiquement
+      affiché en dessous de votre contribution.
+* Si possible, illustrez vos questions et réponses d'un ou plusieurs
+[ECM](http://gte.univ-littoral.fr/members/dbitouze/pub/latex/webographie/#x1-210005.3)... voire
+d'[images illustrant ces ECM](#generer-image).
 
 <!-- ## Quel type de commentaires devraient être évité ? -->
 <!--  -->
