@@ -59,7 +59,15 @@ unique, associé à votre adresse courriel. Il s'agit simplement d'une image
 affichée à côté de vos messages sur les sites qui prennent en charge le
 protocole gravatar. Le gravatar par défaut est un carré contenant une image
 semblable à un flocon de neige. Vous pouvez configurer cette image sur
-[gravatar.com](http://gravatar.com)
+[gravatar.com](http://gravatar.com).
+
+On peut considérer le service gravatar comme un mouchard.
+Néanmoins, nous le considérons comme globalement inoffensif.
+En témoignent, pour les lecteurs anglophones, la page suivante :
+https://apps.ghostery.com/fr/apps/gravatar
+... ainsi que celle-ci ( https://automattic.com/privacy )
+qui précise les conditions d'utilisation des données recueillies
+par les serveurs de la société-mère de gravatar, automattic.com.
 
 ## Pourquoi les notifications par courriel sont-elles si importantes ?
 
