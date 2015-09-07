@@ -171,11 +171,13 @@ réponses et commentaires).
     * **liens** :
         * raccourci : <kbd>Ctrl</kbd>+<kbd>l</kbd>
         * syntaxe : cf. [http://daringfireball.net/projects/markdown/syntax#link](http://daringfireball.net/projects/markdown/syntax#link)
-    * **code** (soit « en ligne », soit hors-texte) :
+    * **code** sous forme soit « en ligne » (court extrait à l'intérieur d'un
+      paragraphe de texte), soit « hors texte » (bloc détaché des paragraphes pour
+      afficher le source d'un fichier `.tex` ou autre) :
         * raccourci : <kbd>Ctrl</kbd>+<kbd>k</kbd>
         * syntaxe :
             * code en ligne : `` `code` ``
-            * code hors-texte : laisser 4 espaces en début de chaque ligne
+            * code hors texte : laisser 4 espaces en début de chaque ligne
     * **image** :
         * raccourci : <kbd>Ctrl</kbd>+<kbd>g</kbd>
         * syntaxe : cf. [http://daringfireball.net/projects/markdown/syntax#img](http://daringfireball.net/projects/markdown/syntax#img)
@@ -216,13 +218,17 @@ dédiée aux questions ou réponses, il suffit de :
 3. Sélectionner ce code.
 4. Saisir le raccourci <kbd>Ctrl</kbd>+<kbd>k</kbd> ou cliquer sur le bouton de
    code (« Code Sample... »).
-5. Laisser une ligne vide après le code.
+5. Laisser une ligne vide après le code (sauf en fin de contribution).
 
-## Comment, dans un paragraphe de texte, faire ressortir une commande (La)TeX ou le nom d'un package
+## Comment, dans un paragraphe de texte, faire ressortir une commande (La)TeX ou le nom d'un package ?
 
-Il suffit de recourir au raccourci <kbd>Ctrl</kbd>+<kbd>k</kbd> (ou de cliquer
-sur le bouton de code (« Code Sample... »)) avant de saisir la commande ou le
-nom du package (ou après mais dans ce cas avec sélection préalable).
+Il suffit de les afficher en tant qu'extrait de code en recourant au raccourci
+<kbd>Ctrl</kbd>+<kbd>k</kbd> ou en cliquant sur le bouton de code (« Code
+Sample... ») :
+
+* soit avant la saisie ce qui est à faire ressortir ;
+* soit après la saisie de ce qui est à faire ressortir mais en l'ayant alors
+  préalablement sélectionné.
 
 ## Dans une liste, comment ajouter un nouvel item et comment en sortir ?
 
