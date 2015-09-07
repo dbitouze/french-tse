@@ -243,13 +243,13 @@ Il suffit de recourir à la classe `standalone` avec l'option `convert` et de
 compiler avec l'option `-shell-escape`. Par exemple, le fichier (disons
 `test.tex`) suivant :
 
-`\documentclass[convert]{standalone}
-\begin{document}
-\begin{tabular}{|*{3}{p{.5cm}|}}
-  \multicolumn{1}{c}{A} & \multicolumn{1}{c}{EA} & \multicolumn{1}{c}{NA} \\\hline
+    \documentclass[convert]{standalone}
+    \begin{document}
+        \begin{tabular}{|*{3}{p{.5cm}|}}
+            \multicolumn{1}{c}{A} & \multicolumn{1}{c}{EA} & \multicolumn{1}{c}{NA} \\\hline
                         &                        &                        \\\hline
-\end{tabular}
-\end{document}`
+        \end{tabular}
+    \end{document}`
 
 compilé avec `pdflatex` lancé avec l'option `-shell-escape` génère le fichier
 `test.png` suivant :
