@@ -23,9 +23,17 @@ posées et des réponses clairement formulées.
 
 ## Pour participer à cette communauté, dois-je créer un nouveau compte ?
 
-Non, ce n'est pas nécessaire. Vous pouvez vous connecter grâce à un service qui
-prend en charge OpenID, par exemple, Google, Yahoo, AOL, etc. [Connectez-vous
-maintenant!](/osqa/compte/connexion/ "Connexion de l'utilisateur")
+* Si vous possédez déjà un
+  [OpenID](http://openid.net/get-an-openid/what-is-openid/) grâce à un service
+  qui le prend en charge (par exemple Google, Yahoo, AOL, etc.), vous pouvez
+  [directement vous connecter au site](/osqa/compte/connexion/ "Connexion de
+  l'utilisateur") par ce biais-là.
+* Sinon, vous devez vous créer préalablement un
+  [nouveau compte](/osqa/compte/local/inscription/).
+
+<!-- Vous pouvez le faire, mais ce n'est pas indispensable : il vous est également -->
+<!-- possible de vous connecter grâce à un service qui prend en charge OpenID (par -->
+<!-- exemple, Google, Yahoo, AOL, etc.). -->
 
 ## Comment fonctionne le système de points ?
 
