@@ -128,6 +128,24 @@ mots-clés (*tags*).
 Évitez de poser des questions qui ne sont pas relatives à (La)TeX, dont les
 réponses seraient trop subjectives ou pourraient mener à des discussions.
 
+## Que dois-je faire quand une réponse à ma question a été postée ?
+
+Si la réponse :
+
+* **ne vous satisfait pas**, notamment si elle ne solutionne pas (complètement)
+  votre problème ou si vous souhaitez par exemple qu'elle soit plus développée
+  ou davantage détaillée, ajoutez un commentaire en cliquant sur le lien
+  correspondant sous cette réponse ;
+* **vous satisfait**, veillez à ne pas oublier de le faire savoir :
+    * **non pas** au moyen d'un commentaire ;
+    * **mais** en « acceptant » cette réponse. Pour cela, il suffit de cliquer
+      sur l'icône
+      correspondante : ![Accepter cette réponse](/osqa/m/default/media/images/vote-accepted.png)
+      → ![Réponse acceptée](/osqa/m/default/media/images/vote-accepted-on.png),
+      et ce choix est réversible à tout moment en cliquant à nouveau sur cette
+      icône ;
+    * en votant pour cette réponse.
+
 ## Que dois-je éviter dans mes réponses ?
 
 * Veillez à *ne pas confondre* **réponses** et **commentaires** : la zone de texte
