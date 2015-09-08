@@ -325,7 +325,7 @@ compilé avec `pdflatex` lancé avec l'option `-shell-escape` génère le fichie
  ![Cases à cocher][1]
 
 
-  [1]: http://texnique.fr:80/osqa/upfiles/test.png
+  [1]: /osqa/upfiles/test.png
 
 **Attention !** Deux points sont à noter : la classe `standalone` avec l'option `convert`
 
