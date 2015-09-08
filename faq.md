@@ -63,10 +63,12 @@ semblable à un flocon de neige. Vous pouvez configurer cette image sur
 
 On peut considérer le service gravatar comme un mouchard.  Néanmoins, nous le
 considérons comme globalement inoffensif.  En témoignent, pour les lecteurs
-anglophones, la page https://apps.ghostery.com/fr/apps/gravatar ... ainsi que
-[celle-ci](https://automattic.com/privacy) qui précise les conditions
-d'utilisation des données recueillies par les serveurs de la société mère de
-[gravatar.com](http://gravatar.com), [automattic.com](http://automattic.com).
+anglophones, la page
+[https://apps.ghostery.com/fr/apps/gravatar](https://apps.ghostery.com/fr/apps/gravatar)... ainsi
+que [celle-ci](https://automattic.com/privacy) qui précise les conditions
+d'utilisation des données recueillies par les serveurs de
+[automattic.com](http://automattic.com), société mère de
+[gravatar.com](http://gravatar.com).
 
 ## Pourquoi les notifications par courriel sont-elles si importantes ?
 
