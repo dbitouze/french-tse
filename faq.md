@@ -24,8 +24,7 @@ posées et des réponses clairement formulées.
 ## Pour participer à cette communauté, dois-je créer un nouveau compte ?
 
 * Si vous possédez déjà un
-  [OpenID](http://openid.net/get-an-openid/what-is-openid/) grâce à un service
-  qui le prend en charge (par exemple Google, Yahoo, AOL, etc.), vous pouvez
+  [OpenID](http://openid.net/get-an-openid/what-is-openid/), vous pouvez
   [directement vous connecter au site](/osqa/compte/connexion/ "Connexion de
   l'utilisateur") par ce biais-là.
 * Sinon, vous devez vous créer préalablement un
