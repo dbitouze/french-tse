@@ -34,7 +34,7 @@ posées et des réponses clairement formulées.
 <!-- possible de vous connecter grâce à un service qui prend en charge OpenID (par -->
 <!-- exemple, Google, Yahoo, AOL, etc.). -->
 
-## Comment fonctionne le système de points ?
+## <a name="points"></a>Comment fonctionne le système de points ?
 
 Quand une question ou une réponse reçoit un vote positif, l'utilisateur qui en
 est l'auteur gagne quelques points appelés « points de karma ». Ces points
@@ -179,6 +179,26 @@ Vous êtes ici sur un site de *questions* et *réponses* et il est donc logique
 que les questions soient intitulées sous forme de... questions ! Cela aide
 également ceux qui sont disposés à vous aider : ils savent ainsi précisément
 à quelle *question* répondre.
+
+## À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?
+
+Une fois connecté, vous pouvez **participer à la vie** de ce site en :
+
+1. **votant** pour les différentes questions et réponses
+   **positivement** : ![J'aime cet article](/osqa/m/default/media/images/vote-arrow-up.png)
+   → ![J'aime cet article](/osqa/m/default/media/images/vote-arrow-up-on.png) ou
+   **négativement** ![Je n'aime pas cet article](/osqa/m/default/media/images/vote-arrow-down.png)
+   → ![Je n'aime pas cet article](/osqa/m/default/media/images/vote-arrow-down-on.png),
+   choix réversibles à tout moment en cliquant à nouveau sur ces icônes ;
+2. **aidant les novices** à mieux l'utiliser, notamment par le biais de
+      commentaires pour expliquer par exemple :
+    * comment mieux poser les questions ;
+    * qu'il ne faut pas confondre réponses et commentaires ;
+    * qu'il faut penser :
+        * à accepter une réponse si elle est satisfaisante ;
+        * à voter pour les questions ou réponses ;
+3. **le modérant** (si vous avez acquis suffisamment de points pour cela), les
+   différentes actions de modération étant listées [ici](#points).
 
 # <a name="forme-des-contributions"></a>Forme des contributions
 
