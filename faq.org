@@ -179,6 +179,14 @@ Si la réponse vous semble :
   (La)TeX. Vous pouvez bien sûr faire de brèves remarques en postant des
   commentaires.
 
+*** Je pense pouvoir répondre à une question mais je ne suis pas certain de l'avoir bien comprise. Que puis-je faire ?
+
+Si une question ne vous semble pas claire, n'hésitez pas à y ajouter un
+commentaire pour demander à l'auteur de l'éditer pour la préciser ou de la
+rendre plus parlante en y ajoutant un ECM, voire une image illustrant ce que lui
+obtient.
+
+
 ** Commentaires
 *** Quel type de commentaires puis-je poser ici ?
 
