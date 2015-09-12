@@ -2,7 +2,7 @@
 <h2>Table des matières</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgheadline10">1. Généralités</a>
+<li><a href="#orgheadline10">1. À propos de ce site</a>
 <ul>
 <li><a href="#orgheadline1">1.1. En quoi ce site de questions/réponses diffère-t-il d&rsquo;un forum typique ?</a></li>
 <li><a href="#orgheadline2">1.2. Qui anime cette communauté ?</a></li>
@@ -67,7 +67,7 @@
 </div>
 
 
-# Généralités<a id="orgheadline10"></a>
+# À propos de ce site<a id="orgheadline10"></a>
 
 ## En quoi ce site de questions/réponses diffère-t-il d&rsquo;un forum typique ?<a id="orgheadline1"></a>
 
