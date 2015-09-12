@@ -103,10 +103,13 @@ connaissance sur (La)TeX en :
 
 Un élément important de ce site étant la qualité (clarté, concision, précision,
 etc.) des questions, réponses et commentaires, n'hésitez pas à consulter les
-recommandations et astuces, tant pour le [[fond][fond]] que pour la [[forme][forme]] des
+recommandations et astuces, tant pour le [[id:b14c6bad-9eda-476c-bd2f-6afbc6c2733c][fond]] que pour la [[id:acb73bf3-1a4f-43da-8acd-8be8b02b59f5][forme]] des
 contributions.
 
-* Fond des contributions<<fond>>
+* Fond des contributions
+:PROPERTIES:
+:ID:       b14c6bad-9eda-476c-bd2f-6afbc6c2733c
+:END:
 ** En général
 *** Comment rendre mes contributions aussi utiles que possibles ?
 
@@ -119,7 +122,7 @@ contributions.
   - *les signatures* qui sont redondantes : votre nom est automatiquement affiché
     en dessous de votre contribution.
 - Si possible, *illustrez* vos questions et réponses d'un ou plusieurs [[http://gte.univ-littoral.fr/members/dbitouze/pub/latex/webographie/#x1-210005.3][ECM]]...
-  voire d'[[generer-image][images illustrant ces ECM]].
+  voire d'[[id:3b3dcba6-e9b2-4d54-9c38-c92bd94fb241][images illustrant ces ECM]].
 - N'hésitez pas à *éditer* vos contributions *pour* les *peaufiner* en cliquant sur :
   - le lien « éditer » pour les questions et réponses ;
   - l'icône [[/osqa/m/default/media/images/comment-edit.png]] pour les commentaires.
@@ -211,7 +214,10 @@ Veillez à /ne pas confondre/ *réponses* et *commentaires* :
   réponse correspondante.
 
 
-* Forme des contributions<<forme>>
+* Forme des contributions
+:PROPERTIES:
+:ID:       acb73bf3-1a4f-43da-8acd-8be8b02b59f5
+:END:
 
 Veillez à vous assurer de la /lisibilité/ des vos contributions (questions,
 réponses et commentaires).
@@ -291,7 +297,10 @@ Dans une liste :
 - un *nouvel item* est introduit par *un retour chariot* ;
 - la *sortie* se fait au moyen de *deux retours chariot consécutifs*.
 
-** Comment faire figurer une image du fichier =.pdf= (ou =.dvi=) que j'obtiens pour que les autres voient immédiatement le problème que je rencontre ou la solution que je propose ?<<generer-image>>
+** Comment faire figurer une image du fichier =.pdf= (ou =.dvi=) que j'obtiens pour que les autres voient immédiatement le problème que je rencontre ou la solution que je propose ?
+:PROPERTIES:
+:ID:       3b3dcba6-e9b2-4d54-9c38-c92bd94fb241
+:END:
 
 Il suffit de générer une image =.png= du =.pdf= (ou =.dvi=) obtenu.
 
