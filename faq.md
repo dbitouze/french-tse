@@ -346,7 +346,7 @@ le fichier (disons `test.tex`) suivant :
     \begin{document}
         \begin{tabular}{|*{3}{p{.5cm}|}}
             \multicolumn{1}{c}{A} & \multicolumn{1}{c}{EA} & \multicolumn{1}{c}{NA} \\\hline
-                        &                        &                        \\\hline
+                                  &                        &                        \\\hline
         \end{tabular}
     \end{document}
 
