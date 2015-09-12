@@ -1,5 +1,5 @@
 <div id="table-of-contents">
-<h2>Table of Contents</h2>
+<h2>Table des matières</h2>
 <div id="text-table-of-contents">
 <ul>
 <li><a href="#orgheadline9">1. Généralités</a>
@@ -248,7 +248,7 @@ Une fois connecté, vous pouvez **participer à la vie** de ce site en :
         -   à voter pour les questions ou réponses, *y compris* celles postées par
             d&rsquo;autres ;
 3.  **le modérant** (si vous avez acquis suffisamment de points pour cela),
-    les différentes actions de modération étant listées ici (See section 1.5).
+    les différentes actions de modération étant listées ici (cf. section 1.5).
 
 # Forme des contributions<a id="orgtarget3"></a><a id="orgheadline25"></a>
 
@@ -348,7 +348,7 @@ le fichier (disons `test.tex`) suivant :
             \multicolumn{1}{c}{A} & \multicolumn{1}{c}{EA} & \multicolumn{1}{c}{NA} \\\hline
                         &                        &                        \\\hline
         \end{tabular}
-    \end{document}`
+    \end{document}
 
 compilé avec `pdflatex` lancé avec l&rsquo;option `-shell-escape`, génère le fichier
 `test.png` suivant :
