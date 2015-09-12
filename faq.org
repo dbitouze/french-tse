@@ -107,8 +107,22 @@ recommandations et astuces, tant pour le [[fond][fond]] que pour la [[forme][for
 contributions.
 
 * Fond des contributions<<fond>>
+** En général
+*** Comment rendre mes contributions aussi utiles que possibles ?
 
-** Quel type de questions puis-je poser ici ?
+- Soyez clair, précis, concis. En particulier, *évitez* :
+  - *les formules de politesse* (« Bonjour », « Merci. », etc.) ou marques
+    d'opinion (« +1 », etc.) qui ne sont en rien utiles et ont tendance
+    à rendre moins lisible, voire brouillent, ce que d'autres personnes
+    chercheront ici : des solutions (et seulement des solutions) optimales
+    à des questions concernant (La)TeX ;
+  - *les signatures* qui sont redondantes : votre nom est automatiquement affiché
+    en dessous de votre contribution.
+- Si possible, illustrez vos questions et réponses d'un ou plusieurs [[http://gte.univ-littoral.fr/members/dbitouze/pub/latex/webographie/#x1-210005.3][ECM]]...
+  voire d'[[generer-image][images illustrant ces ECM]].
+
+** Questions
+*** Quel type de questions puis-je poser ici ?
 
 Avant tout, les questions posées doivent être pertinentes pour la communauté
 (La)TeX. Avant de poser une question, assurez-vous qu'une question similaire n'a
@@ -116,12 +130,19 @@ pas déjà été posée : cela fera gagner du temps à vous et aux contributeurs
 site. Vous pouvez rechercher des questions par leur titre, leur contenu ou leurs
 mots-clés (/tags/).
 
-** Quel type de questions devraient être évité ?
+*** Quel type de questions devraient être évité ?
 
 Évitez de poser des questions qui ne sont pas relatives à (La)TeX, dont les
 réponses seraient trop subjectives ou pourraient mener à des discussions.
 
-** Que dois-je faire quand une réponse à ma question a été postée ?
+*** Pourquoi est-il si important de formuler les titres sous forme de questions ?
+
+Vous êtes ici sur un site de /questions/ et /réponses/ et il est donc logique que
+les questions soient intitulées sous forme de... questions !  Cela aide
+également ceux qui sont disposés à vous aider : ils savent ainsi précisément
+à quelle /question/ répondre.
+
+*** Que dois-je faire quand une réponse à ma question a été postée ?
 
 Si la réponse vous semble :
 - *non satisfaisante*, notamment si elle ne solutionne pas (complètement) votre
@@ -135,7 +156,7 @@ Si la réponse vous semble :
      [[/osqa/m/default/media/images/vote-accepted-on.png]] ;
    - *en votant* pour cette réponse.
 
-** J'ai accepté une réponse mais une autre qui vient d'être publiée est également satisfaisante. Pourquoi ne puis-je pas l'accepter aussi ?
+*** J'ai accepté une réponse à ma question mais une autre qui vient d'être publiée est également satisfaisante. Pourquoi ne puis-je pas l'accepter aussi ?
 
 - L'idée est d'indiquer quelle réponse apporte la *meilleure* solution à la
   question que vous avez posée. Si la nouvelle réponse est « meilleure », vous
@@ -144,7 +165,8 @@ Si la réponse vous semble :
 - Vous pouvez toujours indiquer que les deux réponses apportent des solutions
   satisfaisantes en votant positivement pour chacune d'elles.
 
-** Que dois-je éviter dans mes réponses ?
+** Réponses
+*** Que dois-je éviter dans mes réponses ?
 
 - Veillez à /ne pas confondre/ *réponses* et *commentaires* :
   - la zone de texte « *Votre réponse* » est réservée aux... *réponses* qui, donc,
@@ -160,7 +182,8 @@ Si la réponse vous semble :
   (La)TeX. Vous pouvez bien sûr faire de brèves remarques en postant des
   commentaires.
 
-** Quel type de commentaires puis-je poser ici ?
+** Commentaires
+*** Quel type de commentaires puis-je poser ici ?
 
 Utilisez les commentaires sur les questions ou réponses par exemple pour :
 - formuler de brèves remarques ;
@@ -168,46 +191,6 @@ Utilisez les commentaires sur les questions ou réponses par exemple pour :
 - signaler des alternatives ;
 - indiquer (gentiment) à l'auteur de la question ou réponse comment il pourrait
   mieux formuler sa contribution la prochaine fois.
-
-** Comment rendre mes contributions aussi utiles que possibles ?
-
-- Soyez clair, précis, concis. En particulier, *évitez* :
-   - *les formules de politesse* (« Bonjour », « Merci. », etc.) ou marques
-     d'opinion (« +1 », etc.) qui ne sont en rien utiles et ont tendance
-     à rendre moins lisible, voire brouillent, ce que d'autres personnes
-     chercheront ici : des solutions (et seulement des solutions) optimales
-     à des questions concernant (La)TeX ;
-   - *les signatures* qui sont redondantes : votre nom est automatiquement affiché
-     en dessous de votre contribution.
-- Si possible, illustrez vos questions et réponses d'un ou plusieurs [[http://gte.univ-littoral.fr/members/dbitouze/pub/latex/webographie/#x1-210005.3][ECM]]...
-  voire d'[[generer-image][images illustrant ces ECM]].
-
-** Pourquoi est-il si important de formuler les titres sous forme de questions ?
-
-Vous êtes ici sur un site de /questions/ et /réponses/ et il est donc logique que
-les questions soient intitulées sous forme de... questions !  Cela aide
-également ceux qui sont disposés à vous aider : ils savent ainsi précisément
-à quelle /question/ répondre.
-
-** À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?
-
-Une fois connecté, vous pouvez *participer à la vie* de ce site en :
-1. *votant* pour les différentes questions et réponses *positivement* :
-   [[/osqa/m/default/media/images/vote-arrow-up.png]] →
-   [[/osqa/m/default/media/images/vote-arrow-up-on.png]] ou
-   *négativement* [[/osqa/m/default/media/images/vote-arrow-down.png]] →
-   [[/osqa/m/default/media/images/vote-arrow-down-on.png]], choix
-   réversibles à tout moment en cliquant à nouveau sur ces icônes ;
-2. *aidant les novices* à mieux l'utiliser, notamment par le biais de commentaires
-   pour expliquer par exemple :
-   - comment mieux poser les questions ;
-   - qu'il ne faut pas confondre réponses et commentaires ;
-   - qu'il faut penser :
-      - à accepter une réponse si elle est satisfaisante ;
-      - à voter pour les questions ou réponses, /y compris/ celles postées par
-        d'autres ;
-3. *le modérant* (si vous avez acquis suffisamment de points pour cela),
-   les différentes actions de modération étant listées [[id:570799ec-a372-48e3-935a-6cfc858b1df2][ici]].
 
 * Forme des contributions<<forme>>
 
@@ -321,3 +304,25 @@ compilé avec =pdflatex= lancé avec l'option =-shell-escape=, génère le fichi
 
 Au cas où cette méthode échoue (ou ne soit pas adaptée en raison des points
 ci-dessus), [[http://tex.stackexchange.com/q/11866/18401][d'autres possibilités existent]].
+
+* Divers
+
+** À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?
+
+Une fois connecté, vous pouvez *participer à la vie* de ce site en :
+1. *votant* pour les différentes questions et réponses *positivement* :
+   [[/osqa/m/default/media/images/vote-arrow-up.png]] →
+   [[/osqa/m/default/media/images/vote-arrow-up-on.png]] ou
+   *négativement* [[/osqa/m/default/media/images/vote-arrow-down.png]] →
+   [[/osqa/m/default/media/images/vote-arrow-down-on.png]], choix
+   réversibles à tout moment en cliquant à nouveau sur ces icônes ;
+2. *aidant les novices* à mieux l'utiliser, notamment par le biais de commentaires
+   pour expliquer par exemple :
+   - comment mieux poser les questions ;
+   - qu'il ne faut pas confondre réponses et commentaires ;
+   - qu'il faut penser :
+      - à accepter une réponse si elle est satisfaisante ;
+      - à voter pour les questions ou réponses, /y compris/ celles postées par
+        d'autres ;
+3. *le modérant* (si vous avez acquis suffisamment de points pour cela),
+   les différentes actions de modération étant listées [[id:570799ec-a372-48e3-935a-6cfc858b1df2][ici]].
