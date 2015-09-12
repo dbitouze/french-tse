@@ -93,6 +93,13 @@ Si vous êtes déjà membre de cette communauté et n'avez pas validé votre adr
 courriel, vous pouvez le faire [[/osqa/compte/valider/][ici]].  Si vous n'êtes pas encore membre de cette
 communauté, vous pouvez la rejoindre en vous [[/osqa/compte/local/inscription/][inscrivant]].
 
+** Comment modifier mon profil, par exemple mes notifications par courriel ?
+
+Pour modifier votre profil, cliquez sur votre nom tout en haut des pages du site
+puis cliquer sur « Outils pour l'utilisateur » pour choisir le type de
+modifications que vous souhaitez, par exemple « configuration des notifications
+par courriel ».
+
 ** Et maintenant ?
 
 Vous pouvez nous aider à améliorer notre site et enrichir la base de
@@ -212,6 +219,19 @@ Veillez à /ne pas confondre/ *réponses* et *commentaires* :
   cliquant sur le lien « *ajouter un commentaire* » sous la question ou la
   réponse correspondante.
 
+*** Qu'est-ce que ces « =@⟨nom⟩= » qui introduisent les commentaires et pourquoi devrais-je y recourir ?
+
+Ce sont des liens qui mènent au profil de celui à qui s'adresse le commentaire.
+
+Cela présentent plusieurs avantages :
+1. si plusieurs personnes ont commenté avant vous la contribution, on sait ainsi
+   à qui s'adresse le vôtre ;
+2. la personne à qui vous vous adressez pourra être informée du commentaire que
+   vous lui adressez (selon la configuration des notifications par courriel
+   qu'elle aura choisie).
+
+Pour y recourir, saisissez simplement « =@= » suivi du nom qui apparaît en
+signature du commentaire que vous vous apprêtez à commenter.
 
 * Forme des contributions
 :PROPERTIES:
