@@ -128,7 +128,7 @@ contributions.
     à des questions concernant (La)TeX ;
   - *les signatures* qui sont redondantes : votre nom est automatiquement affiché
     en dessous de votre contribution.
-- Si possible, *illustrez* vos questions et réponses d'un ou plusieurs [[http://gte.univ-littoral.fr/members/dbitouze/pub/latex/webographie/#x1-210005.3][ECM]]...
+- Si possible, *illustrez* vos questions et réponses d'un ou plusieurs [[id:31890423-4e15-4560-b8ef-c11cec0c6efd][ECM]]...
   voire d'[[id:3b3dcba6-e9b2-4d54-9c38-c92bd94fb241][images illustrant ces ECM]].
 - N'hésitez pas à *éditer* vos contributions *pour* les *peaufiner* en cliquant sur :
   - le lien « éditer » pour les questions et réponses ;
@@ -154,6 +154,37 @@ Vous êtes ici sur un site de /questions/ et /réponses/ et il est donc logique 
 les questions soient intitulées sous forme de... questions !  Cela aide
 également ceux qui sont disposés à vous aider : ils savent ainsi précisément
 à quelle /question/ répondre.
+
+*** Qu'est-ce qu'un ECM et pourquoi est-il si important d'en fournir un ?
+:PROPERTIES:
+:ID:       31890423-4e15-4560-b8ef-c11cec0c6efd
+:END:
+
+Un *exemple complet minimal* (*ECM*) est un fichier source :
+
+- *mettant en évidence le problème* rencontré ;
+- *complet*, c’est-à-dire contenant tout ce qui permet de le compiler (de
+  =\documentclass= à =\end{document}= en passant par =\begin{document}=) ;
+- *minimal*, c’est-à-dire *allégé* de tout ce qui n'est *pas en rapport direct* avec
+  la question posée :
+  - *packages* (sauf éventuellement =inputenc=, =fontenc=, =lmodern= et, dans une
+    moindre mesure, =babel=) ;
+  - *définitions* de macros personnelles ;
+  - *texte* ;
+  - etc.
+
+Que ce soit ici ou sur tout autre lieu d’entraide à LaTeX, il est recommandé
+d’accompagner la question qu’on pose d’un ECM. Ainsi, *vous aidez ceux qui
+veulent vous aider* en leur permettant de :
+
+1. reproduire sur leur machine (ou sur le site de test) /exactement/ le problème
+   que vous rencontrez ;
+2. ne pas avoir faire /eux-mêmes/ le ménage dans votre code source pour isoler la
+   cause de ce problème.
+
+Il est donc important de fournir un ECM car, ainsi :
+- vous montrez votre bonne volonté ;
+- vous augmentez les chances d'être aidé, et de l'être rapidement.
 
 *** Que dois-je faire quand une réponse à ma question a été postée ?
 
