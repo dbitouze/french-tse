@@ -221,17 +221,19 @@ Veillez à /ne pas confondre/ *réponses* et *commentaires* :
 
 *** Qu'est-ce que ces « =@⟨nom⟩= » qui introduisent les commentaires et pourquoi devrais-je y recourir ?
 
-Ce sont des liens qui mènent au profil de celui à qui s'adresse le commentaire.
+La mention « =@⟨nom⟩= » indique le =⟨nom⟩= (et est un lien menant au profil) de la
+personne à qui s'adresse le commentaire : « =@= » signifie « /at/ » soit « à ».
 
-Cela présentent plusieurs avantages :
-1. si plusieurs personnes ont commenté avant vous la contribution, on sait ainsi
-   à qui s'adresse le vôtre ;
-2. la personne à qui vous vous adressez pourra être informée du commentaire que
-   vous lui adressez (selon la configuration des notifications par courriel
-   qu'elle aura choisie).
+Elle présente plusieurs avantages :
+1. si des commentaires de plusieurs personnes précèdent le vôtre, on sait ainsi
+   à qui vous répondez ;
+2. la personne à qui vous vous adressez pourra être notifiée de la publication
+   de votre commentaire (selon la configuration qu'elle aura choisie pour ses
+   notifications par courriel).
 
-Pour y recourir, saisissez simplement « =@= » suivi du nom qui apparaît en
-signature du commentaire que vous vous apprêtez à commenter.
+Pour faire figurer ce type de mention, saisissez simplement « =@= » suivi
+(immédiatement) du nom qui apparaît en signature de la contribution à laquelle
+vous voulez répondre.
 
 * Forme des contributions
 :PROPERTIES:
