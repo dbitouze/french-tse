@@ -297,15 +297,15 @@ Pour cela, un moyen consiste à recourir à la classe =standalone= avec l'option
 =convert= et de compiler le fichier =.tex= avec l'option =-shell-escape=. Par exemple,
 le fichier (disons =test.tex=) suivant :
 
-#+BEGIN_EXAMPLE
+#+BEGIN_SRC latex :exports code
 \documentclass[convert]{standalone}
 \begin{document}
     \begin{tabular}{|*{3}{p{.5cm}|}}
         \multicolumn{1}{c}{A} & \multicolumn{1}{c}{EA} & \multicolumn{1}{c}{NA} \\\hline
                     &                        &                        \\\hline
     \end{tabular}
-\end{document}`
-#+END_EXAMPLE
+\end{document}
+#+END_SRC
 
 compilé avec =pdflatex= lancé avec l'option =-shell-escape=, génère le fichier
 =test.png= suivant :
