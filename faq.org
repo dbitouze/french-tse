@@ -171,13 +171,7 @@ Si la réponse vous semble :
 ** Réponses
 *** Que dois-je éviter dans mes réponses ?
 
-- Veillez à /ne pas confondre/ *réponses* et *commentaires* :
-  - la zone de texte « *Votre réponse* » est réservée aux... *réponses* qui, donc,
-    sont censées fournir une /solution/ à la question posée ;
-  - pour demander par exemple des éclaircissements ou des précisions sur la
-    question ou sur une de ses réponses, veillez à utiliser les *commentaires* en
-    cliquant sur le lien « *ajouter un commentaire* » sous la question ou la
-    réponse correspondante.
+- Veillez à /ne pas confondre/ *réponses* et *commentaires* (plus de détails [[id:49f30532-a963-4c35-9ceb-d3e0ed107108][ici]]).
 - Ceci est un site de questions et réponses et pas un groupe de
   discussion. Évitez de tenir des débats dans vos réponses car ils ont tendance
   à rendre moins lisible ce que d'autres personnes chercheront ici : des
@@ -194,6 +188,20 @@ Utilisez les commentaires sur les questions ou réponses par exemple pour :
 - signaler des alternatives ;
 - indiquer (gentiment) à l'auteur de la question ou réponse comment il pourrait
   mieux formuler sa contribution la prochaine fois.
+
+*** Qu'est-ce qui différencie un commentaire d'une réponse ?
+:PROPERTIES:
+:ID:       49f30532-a963-4c35-9ceb-d3e0ed107108
+:END:
+
+Veillez à /ne pas confondre/ *réponses* et *commentaires* :
+- la zone de texte « *Votre réponse* » est réservée aux... *réponses* qui, donc,
+  sont censées fournir une /solution/ à la question posée ;
+- pour demander par exemple des éclaircissements ou des précisions sur la
+  question ou sur une de ses réponses, veillez à utiliser les *commentaires* en
+  cliquant sur le lien « *ajouter un commentaire* » sous la question ou la
+  réponse correspondante.
+
 
 * Forme des contributions<<forme>>
 
