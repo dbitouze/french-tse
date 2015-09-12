@@ -412,8 +412,8 @@ Une fois connecté, vous pouvez *participer à la vie* de ce site en :
       - à accepter une réponse si elle est satisfaisante ;
       - à voter pour les questions ou réponses, /y compris/ celles postées par
         d'autres ;
-3. *le modérant* (si vous avez acquis suffisamment de points pour cela),
-   les différentes actions de modération étant listées [[id:570799ec-a372-48e3-935a-6cfc858b1df2][ici]].
+3. *le modérant* (si vous avez acquis suffisamment de points pour cela), les
+   différentes actions de modération étant listées [[id:570799ec-a372-48e3-935a-6cfc858b1df2][ici]].
 
 ** Je voudrais tester un [[id:31890423-4e15-4560-b8ef-c11cec0c6efd][ECM]] illustrant une question ou une réponse mais (La)TeX n'est pas installé sur ma machine. Que puis-je faire ?
 :PROPERTIES:
