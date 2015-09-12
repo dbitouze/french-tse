@@ -40,7 +40,7 @@
 </li>
 <li><a href="#orgheadline26">2.4. Commentaires</a>
 <ul>
-<li><a href="#orgheadline23">2.4.1. Quel type de commentaires puis-je poser ici ?</a></li>
+<li><a href="#orgheadline23">2.4.1. Quel type de commentaires puis-je poster ici ?</a></li>
 <li><a href="#orgheadline24">2.4.2. En quoi un commentaire diffère-t-il d&rsquo;une réponse ?</a></li>
 <li><a href="#orgheadline25">2.4.3. Qu&rsquo;est-ce que ces « <code>@⟨nom⟩</code> » qui introduisent les commentaires et pourquoi devrais-je y recourir ?</a></li>
 </ul>
@@ -56,9 +56,10 @@
 <li><a href="#orgheadline32">3.5. Comment faire figurer une image du fichier <code>.pdf</code> (ou <code>.dvi</code>) que j&rsquo;obtiens pour que les autres voient immédiatement le problème que je rencontre ou la solution que je propose ?</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline35">4. Divers</a>
+<li><a href="#orgheadline36">4. Divers</a>
 <ul>
 <li><a href="#orgheadline34">4.1. À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?</a></li>
+<li><a href="#orgheadline35">4.2. Je voudrais tester un ECM illustrant une question ou une réponse mais (La)TeX n&rsquo;est pas installé sur ma machine. Que puis-je faire ?</a></li>
 </ul>
 </li>
 </ul>
@@ -223,8 +224,9 @@ les questions soient intitulées sous forme de&#x2026; questions !  Cela aide
 Un **exemple complet minimal** (**ECM**) est un fichier source :
 
 -   **mettant en évidence le problème** rencontré ;
--   **complet**, c’est-à-dire contenant tout ce qui permet de le compiler (de
-    `\documentclass` à `\end{document}` en passant par `\begin{document}`) ;
+-   **complet**, c’est-à-dire contenant tout ce qui permet de le **compiler directement**
+    (de `\documentclass` à `\end{document}` en passant par `\begin{document}`), sans
+    devoir ajouter une seule ligne ;
 -   **minimal**, c’est-à-dire **allégé** de tout ce qui n&rsquo;est **pas en rapport direct** avec
     la question posée :
     -   **packages** (sauf éventuellement `inputenc`, `fontenc`, `lmodern` et, dans une
@@ -233,11 +235,11 @@ Un **exemple complet minimal** (**ECM**) est un fichier source :
     -   **texte** ;
     -   etc.
 
-Que ce soit ici ou sur tout autre lieu d’entraide à LaTeX, il est recommandé
+Que ce soit ici ou sur tout autre lieu d’entraide à LaTeX, il est important
 d’accompagner la question qu’on pose d’un ECM. Ainsi, **vous aidez ceux qui
 veulent vous aider** en leur permettant de :
 
-1.  reproduire sur leur machine (ou sur le site de test) *exactement* le problème
+1.  reproduire sur leur machine (ou sur le site de test (cf. section 4.2)) *exactement* le problème
     que vous rencontrez ;
 2.  ne pas avoir faire *eux-mêmes* le ménage dans votre code source pour isoler la
     cause de ce problème.
@@ -246,6 +248,13 @@ Il est donc important de fournir un ECM car, ainsi :
 
 -   vous montrez votre bonne volonté ;
 -   vous augmentez les chances d&rsquo;être aidé, et de l&rsquo;être rapidement.
+
+La production d&rsquo;un ECM est un exercice difficile (surtout au début) mais
+instructif et souvent suffisant pour résoudre le problème. N&rsquo;hésitez pas
+à commenter/décommenter des portions de code pour que votre *exemple* devienne
+effectivement *complet* et *minimal*.
+
+N&rsquo;oubliez pas : « Aide-toi, [texnique.fr](http://texnique.fr/) t&rsquo;aidera. » :-)
 
 ### Que dois-je faire quand une réponse à ma question a été postée ?<a id="orgheadline17"></a>
 
@@ -292,7 +301,7 @@ obtient.
 
 ## Commentaires<a id="orgheadline26"></a>
 
-### Quel type de commentaires puis-je poser ici ?<a id="orgheadline23"></a>
+### Quel type de commentaires puis-je poster ici ?<a id="orgheadline23"></a>
 
 Utilisez les commentaires sur les questions ou réponses par exemple pour :
 
@@ -445,7 +454,7 @@ compilé avec `pdflatex` lancé avec l&rsquo;option `-shell-escape`, génère le
 Au cas où cette méthode échoue (ou ne soit pas adaptée en raison des points
 ci-dessus), [d'autres possibilités existent](http://tex.stackexchange.com/q/11866/18401).
 
-# Divers<a id="orgheadline35"></a>
+# Divers<a id="orgheadline36"></a>
 
 ## À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?<a id="orgheadline34"></a>
 
@@ -465,5 +474,12 @@ Une fois connecté, vous pouvez **participer à la vie** de ce site en :
         -   à accepter une réponse si elle est satisfaisante ;
         -   à voter pour les questions ou réponses, *y compris* celles postées par
             d&rsquo;autres ;
-3.  **le modérant** (si vous avez acquis suffisamment de points pour cela),
-    les différentes actions de modération étant listées ici (cf. section 1.5).
+3.  **le modérant** (si vous avez acquis suffisamment de points pour cela), les
+    différentes actions de modération étant listées ici (cf. section 1.5).
+
+## Je voudrais tester un ECM (cf. section 2.2.4) illustrant une question ou une réponse mais (La)TeX n&rsquo;est pas installé sur ma machine. Que puis-je faire ?<a id="orgheadline35"></a>
+
+Il suffit de cliquer sur le lien « Ouvrir dans l&rsquo;éditeur » situé juste au-dessus
+de cet ECM. Il sera alors ouvert et compilé sur le site [Overleaf](https://www.overleaf.com/) qui permet
+notamment l&rsquo;édition (éventuellement collaborative) et la compilation en ligne de
+fichiers LaTeX.
