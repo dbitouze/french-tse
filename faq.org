@@ -59,9 +59,9 @@ de karma pour chaque compétence de modération.
 
 ** Qu'est-ce qu'un « gravatar » ?
 
-Votre gravatar (« Globally Recognized avatar ») est l'avatar, sous forme d'image
-unique, associé à votre adresse courriel. Il s'agit simplement d'une image
-affichée à côté de vos messages sur les sites qui prennent en charge le
+Votre « gravatar » (« /Globally Recognized avatar/ ») est l'avatar, sous forme
+d'image unique, associé à votre adresse courriel. Il s'agit simplement d'une
+image affichée à côté de vos messages sur les sites qui prennent en charge le
 protocole gravatar. Le gravatar par défaut est un carré contenant une image
 semblable à un flocon de neige. Vous pouvez configurer cette image sur
 [[http://gravatar.com][gravatar.com]].
