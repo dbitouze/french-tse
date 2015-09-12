@@ -1,6 +1,6 @@
 #+LANGUAGE: fr
 #+OPTIONS: ^:{}
-* Généralités
+* À propos de ce site
 
 ** En quoi ce site de questions/réponses diffère-t-il d'un forum typique ?
 
