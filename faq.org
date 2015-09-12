@@ -120,12 +120,12 @@ contributions.
     en dessous de votre contribution.
 - Si possible, *illustrez* vos questions et réponses d'un ou plusieurs [[http://gte.univ-littoral.fr/members/dbitouze/pub/latex/webographie/#x1-210005.3][ECM]]...
   voire d'[[generer-image][images illustrant ces ECM]].
-- N'hésitez pas à *éditer* vos contribution *pour* les *peaufiner* en cliquant sur :
+- N'hésitez pas à *éditer* vos contributions *pour* les *peaufiner* en cliquant sur :
   - le lien « éditer » pour les questions et réponses ;
   - l'icône [[/osqa/m/default/media/images/comment-edit.png]] pour les commentaires.
 
 ** Questions
-*** Quel type de questions puis-je poser ici ?
+*** Quelles questions puis-je poser ici ?
 
 Avant tout, les questions posées doivent être pertinentes pour la communauté
 (La)TeX. Avant de poser une question, assurez-vous qu'une question similaire n'a
@@ -133,12 +133,12 @@ pas déjà été posée : cela fera gagner du temps à vous et aux contributeurs
 site. Vous pouvez rechercher des questions par leur titre, leur contenu ou leurs
 mots-clés (/tags/).
 
-*** Quel type de questions devraient être évité ?
+*** Quelles questions devraient être évitées ?
 
 Évitez de poser des questions qui ne sont pas relatives à (La)TeX, dont les
-réponses seraient trop subjectives ou pourraient mener à des discussions.
+réponses seraient trop subjectives ou qui pourraient mener à des débats.
 
-*** Pourquoi est-il si important de formuler les titres sous forme de questions ?
+*** Pourquoi est-il si important de formuler les titres des questions sous forme interrogative ?
 
 Vous êtes ici sur un site de /questions/ et /réponses/ et il est donc logique que
 les questions soient intitulées sous forme de... questions !  Cela aide
@@ -154,7 +154,7 @@ Si la réponse vous semble :
   correspondant sous cette réponse ;
 - *satisfaisante*, veillez à *le faire savoir* :
    - *pas* au moyen d'*un commentaire* ;
-   - *en « acceptant » cette réponse** : pour cela, il suffit de cliquer sur
+   - *en « acceptant » cette réponse* : pour cela, il suffit de cliquer sur
      l'icône correspondante : [[/osqa/m/default/media/images/vote-accepted.png]] →
      [[/osqa/m/default/media/images/vote-accepted-on.png]] ;
    - *en votant* pour cette réponse.
