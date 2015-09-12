@@ -163,8 +163,9 @@ les questions soient intitulées sous forme de... questions !  Cela aide
 Un *exemple complet minimal* (*ECM*) est un fichier source :
 
 - *mettant en évidence le problème* rencontré ;
-- *complet*, c’est-à-dire contenant tout ce qui permet de le compiler (de
-  =\documentclass= à =\end{document}= en passant par =\begin{document}=) ;
+- *complet*, c’est-à-dire contenant tout ce qui permet de le *compiler directement*
+  (de =\documentclass= à =\end{document}= en passant par =\begin{document}=), sans
+  devoir ajouter une seule ligne ;
 - *minimal*, c’est-à-dire *allégé* de tout ce qui n'est *pas en rapport direct* avec
   la question posée :
   - *packages* (sauf éventuellement =inputenc=, =fontenc=, =lmodern= et, dans une
@@ -173,11 +174,11 @@ Un *exemple complet minimal* (*ECM*) est un fichier source :
   - *texte* ;
   - etc.
 
-Que ce soit ici ou sur tout autre lieu d’entraide à LaTeX, il est recommandé
+Que ce soit ici ou sur tout autre lieu d’entraide à LaTeX, il est important
 d’accompagner la question qu’on pose d’un ECM. Ainsi, *vous aidez ceux qui
 veulent vous aider* en leur permettant de :
 
-1. reproduire sur leur machine (ou sur le site de test) /exactement/ le problème
+1. reproduire sur leur machine (ou sur [[id:39e3eeff-57bf-49f2-8c34-0e2ed4bbe3d7][le site de test]]) /exactement/ le problème
    que vous rencontrez ;
 2. ne pas avoir faire /eux-mêmes/ le ménage dans votre code source pour isoler la
    cause de ce problème.
@@ -185,6 +186,13 @@ veulent vous aider* en leur permettant de :
 Il est donc important de fournir un ECM car, ainsi :
 - vous montrez votre bonne volonté ;
 - vous augmentez les chances d'être aidé, et de l'être rapidement.
+
+La production d'un ECM est un exercice difficile (surtout au début) mais
+instructif et souvent suffisant pour résoudre le problème. N'hésitez pas
+à commenter/décommenter des portions de code pour que votre /exemple/ devienne
+effectivement /complet/ et /minimal/.
+
+N'oubliez pas : « Aide-toi, [[http://texnique.fr/][texnique.fr]] t'aidera. » :-)
 
 *** Que dois-je faire quand une réponse à ma question a été postée ?
 
