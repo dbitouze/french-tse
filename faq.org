@@ -246,8 +246,8 @@ réponses et commentaires).
 ** Comment mettre en forme ma contribution ?
 
 - *Questions ou réponses :* dans les zones dédiées aux questions ou réponses, une
-  mise en forme basique du texte est possible et facilitée par des boutons (et
-  raccourcis claviers) :
+  mise en forme basique du texte est possible, et facilitée par des raccourcis
+  claviers et boutons :
   - *gras* :
     - raccourci : <kbd>Ctrl</kbd>+<kbd>b</kbd>
     - syntaxe : =**gras**=
@@ -260,13 +260,13 @@ réponses et commentaires).
   - *liens* :
     - raccourci : <kbd>Ctrl</kbd>+<kbd>l</kbd>
     - syntaxe : cf. [[http://daringfireball.net/projects/markdown/syntax#link]]
-  - *code* sous forme soit « en ligne » (court extrait à l'intérieur d'un
-    paragraphe de texte), soit « hors texte » (bloc détaché des paragraphes
+  - *code* sous forme soit « *en ligne* » (court extrait à l'intérieur d'un
+    paragraphe de texte), soit « *hors texte* » (bloc détaché des paragraphes
     pour afficher le source d'un fichier =.tex= ou autre) :
     - raccourci : <kbd>Ctrl</kbd>+<kbd>k</kbd>
     - syntaxe :
-      - code en ligne : =`code`=
-      - code hors texte : laisser 4 espaces en début de chaque ligne
+      - code *en ligne* : =`code`=
+      - code *hors texte* : laisser 4 espaces en début de chaque ligne
   - *image* :
     - raccourci : <kbd>Ctrl</kbd>+<kbd>g</kbd>
     - syntaxe : cf. [[http://daringfireball.net/projects/markdown/syntax#img]]
@@ -308,7 +308,7 @@ aux questions ou réponses, il suffit de :
 
 Il suffit de les afficher en tant qu'extrait de code. Pour cela, recourir au
 raccourci <kbd>Ctrl</kbd>+<kbd>k</kbd> ou cliquer sur le bouton de code (« Code
-Sample...  »), ce qui est à faire ressortir étant saisi :
+Sample... »), ce qui est à faire ressortir étant saisi :
 - soit après ;
 - soit avant, mais alors étant préalablement sélectionné.
 
