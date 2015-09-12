@@ -148,7 +148,7 @@ mots-clés (/tags/).
 Évitez de poser des questions qui ne sont pas relatives à (La)TeX, dont les
 réponses seraient trop subjectives ou qui pourraient mener à des débats.
 
-*** Pourquoi est-il si important de formuler les titres des questions sous forme interrogative ?
+*** On me demande de reformuler le titre de ma question sous forme interrogative. Pourquoi ?
 
 Vous êtes ici sur un site de /questions/ et /réponses/ et il est donc logique que
 les questions soient intitulées sous forme de... questions !  Cela aide
