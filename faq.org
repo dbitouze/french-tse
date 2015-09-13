@@ -16,7 +16,7 @@ La réponse courte est : vous... et nous. Ce site est animé par ses
 utilisateurs. Un système de points (cf. ci-dessous) permet aux utilisateurs
 d'acquérir certaines compétences de modération.
 
-** Pourquoi d'autres personnes peuvent modifier mes questions/réponses/commentaires ?
+** Pourquoi d'autres personnes peuvent-elles modifier mes questions/réponses/commentaires ?
 
 Pour améliorer la qualité globale de la base de connaissances de ce site, les
 membres expérimentés de sa communauté peuvent de remanier les contributions des
@@ -45,8 +45,8 @@ utile, votre contribution recevra un vote positif. En revanche, une réponse
 fausse ou trompeuse recevra un vote négatif. Chaque vote positif
 générera |REP\under{}GAIN\under{}BY\under{}UPVOTED| points, chaque vote négatif
 soustraira |REP\under{}LOST\under{}BY\under{}DOWNVOTED| points. Un maximum de 200 points peut être
-atteint par une question ou une réponse. La liste suivante indique les exigences
-de karma pour chaque compétence de modération.
+atteint par une question ou une réponse. La liste suivante indique le seuil minimal
+de karma pour obtenir chaque compétence de modération.
 
 - Ajouter des commentaires → |REP\under{}TO\under{}COMMENT|
 - Supprimer les commentaires → |REP\under{}TO\under{}DELETE\under{}COMMENTS|
@@ -96,7 +96,7 @@ communauté, vous pouvez la rejoindre en vous [[/osqa/compte/local/inscription/]
 ** Comment modifier mon profil, par exemple mes notifications par courriel ?
 
 Pour modifier votre profil, cliquez sur votre nom tout en haut des pages du site
-puis cliquer sur « Outils pour l'utilisateur » pour choisir le type de
+puis cliquez sur « Outils pour l'utilisateur » pour choisir le type de
 modifications que vous souhaitez, par exemple « configuration des notifications
 par courriel ».
 
@@ -113,12 +113,12 @@ etc.) des questions, réponses et commentaires, n'hésitez pas à consulter les
 recommandations et astuces, tant pour le [[id:b14c6bad-9eda-476c-bd2f-6afbc6c2733c][fond]] que pour la [[id:acb73bf3-1a4f-43da-8acd-8be8b02b59f5][forme]] des
 contributions.
 
-* Fond des contributions
+* Fonds des contributions
 :PROPERTIES:
 :ID:       b14c6bad-9eda-476c-bd2f-6afbc6c2733c
 :END:
 ** En général
-*** Comment rendre mes contributions aussi utiles que possibles ?
+*** Comment rendre mes contributions aussi utiles que possible ?
 
 - Soyez *clair*, *précis*, *concis*. En particulier, *évitez* :
   - *les formules de politesse* (« Bonjour », « Merci. », etc.) ou marques
@@ -243,7 +243,7 @@ Utilisez les commentaires sur les questions ou réponses par exemple pour :
 - demander des éclaircissements ou des précisions ;
 - signaler des alternatives ;
 - indiquer (gentiment) à l'auteur de la question ou réponse comment il pourrait
-  mieux formuler sa contribution la prochaine fois.
+  mieux formuler sa contribution.
 
 *** En quoi un commentaire diffère-t-il d'une réponse ?
 :PROPERTIES:
@@ -279,7 +279,7 @@ vous voulez répondre.
 :ID:       acb73bf3-1a4f-43da-8acd-8be8b02b59f5
 :END:
 
-Veillez à vous assurer de la /lisibilité/ des vos contributions (questions,
+Veillez à vous assurer de la /lisibilité/ de vos contributions (questions,
 réponses et commentaires).
 
 ** Comment mettre en forme ma contribution ?
