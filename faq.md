@@ -15,7 +15,7 @@
 <li><a href="#orgheadline9">1.9. Et maintenant ?</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline27">2. Fonds des contributions</a>
+<li><a href="#orgheadline27">2. Fond des contributions</a>
 <ul>
 <li><a href="#orgheadline12">2.1. En général</a>
 <ul>
@@ -59,7 +59,7 @@
 <li><a href="#orgheadline36">4. Divers</a>
 <ul>
 <li><a href="#orgheadline34">4.1. À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?</a></li>
-<li><a href="#orgheadline35">4.2. Je voudrais tester un ECM illustrant une question ou une réponse mais (La)TeX n&rsquo;est pas installé sur ma machine. Que puis-je faire ?</a></li>
+<li><a href="#orgheadline35">4.2. Je voudrais tester un ECM illustrant une question ou une réponse mais (La)TeX n&rsquo;est pas installé sur la machine que j&rsquo;utilise actuellement. Que puis-je faire ?</a></li>
 </ul>
 </li>
 </ul>
@@ -177,7 +177,7 @@ etc.) des questions, réponses et commentaires, n&rsquo;hésitez pas à consulte
 recommandations et astuces, tant pour le fond (cf. section 2) que pour la forme (cf. section 3) des
 contributions.
 
-# Fonds des contributions<a id="orgheadline27"></a>
+# Fond des contributions<a id="orgheadline27"></a>
 
 ## En général<a id="orgheadline12"></a>
 
@@ -477,9 +477,9 @@ Une fois connecté, vous pouvez **participer à la vie** de ce site en :
 3.  **le modérant** (si vous avez acquis suffisamment de points pour cela), les
     différentes actions de modération étant listées ici (cf. section 1.5).
 
-## Je voudrais tester un ECM (cf. section 2.2.4) illustrant une question ou une réponse mais (La)TeX n&rsquo;est pas installé sur ma machine. Que puis-je faire ?<a id="orgheadline35"></a>
+## Je voudrais tester un ECM (cf. section 2.2.4) illustrant une question ou une réponse mais (La)TeX n&rsquo;est pas installé sur la machine que j&rsquo;utilise actuellement. Que puis-je faire ?<a id="orgheadline35"></a>
 
 Il suffit de cliquer sur le lien « Ouvrir dans l&rsquo;éditeur » situé juste au-dessus
-de cet ECM. Il sera alors ouvert et compilé sur le site [Overleaf](https://www.overleaf.com/) qui permet
-notamment l&rsquo;édition (éventuellement collaborative) et la compilation en ligne de
-fichiers LaTeX.
+de cet ECM : son code source sera alors ouvert puis automatiquement compilé et
+le PDF correspondant affiché sur le [Overleaf](https://www.overleaf.com/). Ce site permet notamment l&rsquo;édition
+(éventuellement collaborative) et la compilation en ligne de fichiers LaTeX.

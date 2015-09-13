@@ -113,7 +113,7 @@ etc.) des questions, réponses et commentaires, n'hésitez pas à consulter les
 recommandations et astuces, tant pour le [[id:b14c6bad-9eda-476c-bd2f-6afbc6c2733c][fond]] que pour la [[id:acb73bf3-1a4f-43da-8acd-8be8b02b59f5][forme]] des
 contributions.
 
-* Fonds des contributions
+* Fond des contributions
 :PROPERTIES:
 :ID:       b14c6bad-9eda-476c-bd2f-6afbc6c2733c
 :END:
@@ -415,12 +415,12 @@ Une fois connecté, vous pouvez *participer à la vie* de ce site en :
 3. *le modérant* (si vous avez acquis suffisamment de points pour cela), les
    différentes actions de modération étant listées [[id:570799ec-a372-48e3-935a-6cfc858b1df2][ici]].
 
-** Je voudrais tester un [[id:31890423-4e15-4560-b8ef-c11cec0c6efd][ECM]] illustrant une question ou une réponse mais (La)TeX n'est pas installé sur ma machine. Que puis-je faire ?
+** Je voudrais tester un [[id:31890423-4e15-4560-b8ef-c11cec0c6efd][ECM]] illustrant une question ou une réponse mais (La)TeX n'est pas installé sur la machine que j'utilise actuellement. Que puis-je faire ?
 :PROPERTIES:
 :ID:       39e3eeff-57bf-49f2-8c34-0e2ed4bbe3d7
 :END:
 
 Il suffit de cliquer sur le lien « Ouvrir dans l'éditeur » situé juste au-dessus
-de cet ECM. Il sera alors ouvert et compilé sur le site [[https://www.overleaf.com/][Overleaf]] qui permet
-notamment l'édition (éventuellement collaborative) et la compilation en ligne de
-fichiers LaTeX.
+de cet ECM : son code source sera alors ouvert puis automatiquement compilé et
+le PDF correspondant affiché sur le [[https://www.overleaf.com/][Overleaf]]. Ce site permet notamment l'édition
+(éventuellement collaborative) et la compilation en ligne de fichiers LaTeX.
