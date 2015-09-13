@@ -6,7 +6,7 @@
 <ul>
 <li><a href="#orgheadline1">1.1. En quoi ce site de questions/réponses diffère-t-il d&rsquo;un forum typique ?</a></li>
 <li><a href="#orgheadline2">1.2. Qui anime cette communauté ?</a></li>
-<li><a href="#orgheadline3">1.3. Pourquoi d&rsquo;autres personnes peuvent modifier mes questions/réponses/commentaires ?</a></li>
+<li><a href="#orgheadline3">1.3. Pourquoi d&rsquo;autres personnes peuvent-elles modifier mes questions/réponses/commentaires ?</a></li>
 <li><a href="#orgheadline4">1.4. Pour participer à cette communauté, dois-je créer un nouveau compte ?</a></li>
 <li><a href="#orgheadline5">1.5. Comment fonctionne le système de points ?</a></li>
 <li><a href="#orgheadline6">1.6. Qu&rsquo;est-ce qu&rsquo;un « gravatar » ?</a></li>
@@ -15,11 +15,11 @@
 <li><a href="#orgheadline9">1.9. Et maintenant ?</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline27">2. Fond des contributions</a>
+<li><a href="#orgheadline27">2. Fonds des contributions</a>
 <ul>
 <li><a href="#orgheadline12">2.1. En général</a>
 <ul>
-<li><a href="#orgheadline11">2.1.1. Comment rendre mes contributions aussi utiles que possibles ?</a></li>
+<li><a href="#orgheadline11">2.1.1. Comment rendre mes contributions aussi utiles que possible ?</a></li>
 </ul>
 </li>
 <li><a href="#orgheadline19">2.2. Questions</a>
@@ -83,7 +83,7 @@ La réponse courte est : vous&#x2026; et nous. Ce site est animé par ses
 utilisateurs. Un système de points (cf. ci-dessous) permet aux utilisateurs
 d&rsquo;acquérir certaines compétences de modération.
 
-## Pourquoi d&rsquo;autres personnes peuvent modifier mes questions/réponses/commentaires ?<a id="orgheadline3"></a>
+## Pourquoi d&rsquo;autres personnes peuvent-elles modifier mes questions/réponses/commentaires ?<a id="orgheadline3"></a>
 
 Pour améliorer la qualité globale de la base de connaissances de ce site, les
 membres expérimentés de sa communauté peuvent de remanier les contributions des
@@ -109,8 +109,8 @@ utile, votre contribution recevra un vote positif. En revanche, une réponse
 fausse ou trompeuse recevra un vote négatif. Chaque vote positif
 générera |REP_GAIN_BY_UPVOTED| points, chaque vote négatif
 soustraira |REP_LOST_BY_DOWNVOTED| points. Un maximum de 200 points peut être
-atteint par une question ou une réponse. La liste suivante indique les exigences
-de karma pour chaque compétence de modération.
+atteint par une question ou une réponse. La liste suivante indique le seuil minimal
+de karma pour obtenir chaque compétence de modération.
 
 -   Ajouter des commentaires → |REP_TO_COMMENT|
 -   Supprimer les commentaires → |REP_TO_DELETE_COMMENTS|
@@ -160,7 +160,7 @@ communauté, vous pouvez la rejoindre en vous [inscrivant](file:///osqa/compte/l
 ## Comment modifier mon profil, par exemple mes notifications par courriel ?<a id="orgheadline8"></a>
 
 Pour modifier votre profil, cliquez sur votre nom tout en haut des pages du site
-puis cliquer sur « Outils pour l&rsquo;utilisateur » pour choisir le type de
+puis cliquez sur « Outils pour l&rsquo;utilisateur » pour choisir le type de
 modifications que vous souhaitez, par exemple « configuration des notifications
 par courriel ».
 
@@ -177,11 +177,11 @@ etc.) des questions, réponses et commentaires, n&rsquo;hésitez pas à consulte
 recommandations et astuces, tant pour le fond (cf. section 2) que pour la forme (cf. section 3) des
 contributions.
 
-# Fond des contributions<a id="orgheadline27"></a>
+# Fonds des contributions<a id="orgheadline27"></a>
 
 ## En général<a id="orgheadline12"></a>
 
-### Comment rendre mes contributions aussi utiles que possibles ?<a id="orgheadline11"></a>
+### Comment rendre mes contributions aussi utiles que possible ?<a id="orgheadline11"></a>
 
 -   Soyez **clair**, **précis**, **concis**. En particulier, **évitez** :
     -   **les formules de politesse** (« Bonjour », « Merci. », etc.) ou marques
@@ -309,7 +309,7 @@ Utilisez les commentaires sur les questions ou réponses par exemple pour :
 -   demander des éclaircissements ou des précisions ;
 -   signaler des alternatives ;
 -   indiquer (gentiment) à l&rsquo;auteur de la question ou réponse comment il pourrait
-    mieux formuler sa contribution la prochaine fois.
+    mieux formuler sa contribution.
 
 ### En quoi un commentaire diffère-t-il d&rsquo;une réponse ?<a id="orgheadline24"></a>
 
@@ -341,7 +341,7 @@ vous voulez répondre.
 
 # Forme des contributions<a id="orgheadline33"></a>
 
-Veillez à vous assurer de la *lisibilité* des vos contributions (questions,
+Veillez à vous assurer de la *lisibilité* de vos contributions (questions,
 réponses et commentaires).
 
 ## Comment mettre en forme ma contribution ?<a id="orgheadline28"></a>
