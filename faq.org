@@ -29,10 +29,7 @@ des réponses clairement formulées.
   site]] par ce biais-là.
 - Sinon, vous devez vous créer préalablement un [[/osqa/compte/local/inscription/][nouveau compte]].
 
-** Comment fonctionne le système de points ?
-:PROPERTIES:
-:ID:       570799ec-a372-48e3-935a-6cfc858b1df2
-:END:
+** <<sec:points>>Comment fonctionne le système de points ?
 
 Quand une question ou une réponse reçoit un vote positif, l'utilisateur qui en
 est l'auteur gagne quelques points appelés « points de karma ».  Ces points
@@ -110,29 +107,28 @@ connaissance sur (La)TeX en :
 
 Un élément important de ce site étant la qualité (clarté, concision, précision,
 etc.) des questions, réponses et commentaires, n'hésitez pas à consulter les
-recommandations et astuces, tant pour le [[id:b14c6bad-9eda-476c-bd2f-6afbc6c2733c][fond]] que pour la [[id:acb73bf3-1a4f-43da-8acd-8be8b02b59f5][forme]] des
+recommandations et astuces, tant pour le [[sec:fond][fond]] que pour la [[sec:forme][forme]] des
 contributions.
 
-* Fond des contributions
-:PROPERTIES:
-:ID:       b14c6bad-9eda-476c-bd2f-6afbc6c2733c
-:END:
+* <<sec:fond>>Fond des contributions
 ** En général
 *** Comment rendre mes contributions aussi utiles que possible ?
 
-- Soyez *clair*, *précis*, *concis*. En particulier, *évitez* :
-  - *les formules de politesse* (« Bonjour », « Merci. », etc.) ou marques
-    d'opinion (« +1 », etc.) qui ne sont en rien utiles et ont tendance
-    à rendre moins lisible, voire brouillent, ce que d'autres personnes
-    chercheront ici : des solutions (et seulement des solutions) optimales
-    à des questions concernant (La)TeX ;
-  - *les signatures* qui sont redondantes : votre nom est automatiquement affiché
-    en dessous de votre contribution.
-- Si possible, *illustrez* vos questions et réponses d'un ou plusieurs [[id:31890423-4e15-4560-b8ef-c11cec0c6efd][ECM]]...
-  voire d'[[id:3b3dcba6-e9b2-4d54-9c38-c92bd94fb241][images illustrant ces ECM]].
-- N'hésitez pas à *éditer* vos contributions *pour* les *peaufiner* en cliquant sur :
-  - le lien « éditer » pour les questions et réponses ;
-  - l'icône [[/osqa/m/default/media/images/comment-edit.png]] pour les commentaires.
+1. Soyez *clair*, *précis*, *concis*. En particulier, *évitez* :
+   - *les formules de politesse* (« Bonjour », « Merci. », etc.) ou marques
+     d'opinion (« +1 », etc.) qui ne sont en rien utiles et ont tendance
+     à rendre moins lisible, voire brouillent, ce que d'autres personnes
+     chercheront ici : des solutions (et seulement des solutions) optimales
+     à des questions concernant (La)TeX ;
+   - *les signatures* qui sont redondantes : votre nom est automatiquement
+     affiché en dessous de votre contribution.
+2. Si possible, *illustrez* vos questions et réponses d'un ou plusieurs [[sec:ecm][ECM]]...
+   voire d'[[sec:image-pdf-dvi][images illustrant ces ECM]].
+3. N'hésitez pas à *éditer* vos contributions *pour* les *peaufiner* en cliquant
+   sur :
+   - le lien « éditer » pour les questions et réponses ;
+   - l'icône [[/osqa/m/default/media/images/comment-edit.png]] pour les
+     commentaires.
 
 ** Questions
 *** Quelles questions puis-je poser ici ?
@@ -155,10 +151,7 @@ les questions soient intitulées sous forme de... questions !  Cela aide
 également ceux qui sont disposés à vous aider : ils savent ainsi précisément
 à quelle /question/ répondre.
 
-*** Qu'est-ce qu'un ECM et pourquoi est-il si important d'en fournir un ?
-:PROPERTIES:
-:ID:       31890423-4e15-4560-b8ef-c11cec0c6efd
-:END:
+*** <<sec:ecm>>Qu'est-ce qu'un ECM et pourquoi est-il si important d'en fournir un ?
 
 Un *exemple complet minimal* (*ECM*) est un fichier source :
 
@@ -178,7 +171,7 @@ Que ce soit ici ou sur tout autre lieu d’entraide à LaTeX, il est important
 d’accompagner la question qu’on pose d’un ECM. Ainsi, *vous aidez ceux qui
 veulent vous aider* en leur permettant de :
 
-1. reproduire sur leur machine (ou sur [[id:39e3eeff-57bf-49f2-8c34-0e2ed4bbe3d7][le site de test]]) /exactement/ le problème
+1. reproduire sur leur machine (ou sur [[sec:editeur][le site de test]]) /exactement/ le problème
    que vous rencontrez ;
 2. ne pas avoir faire /eux-mêmes/ le ménage dans votre code source pour isoler la
    cause de ce problème.
@@ -220,7 +213,7 @@ Si la réponse vous semble :
 ** Réponses
 *** Que dois-je éviter dans mes réponses ?
 
-- Veillez à /ne pas confondre/ *réponses* et *commentaires* (plus de détails [[id:49f30532-a963-4c35-9ceb-d3e0ed107108][ici]]).
+- Veillez à /ne pas confondre/ *réponses* et *commentaires* (plus de détails [[sec:commentaire-reponse][ici]]).
 - Ceci est un site de questions et réponses et pas un groupe de
   discussion. Évitez de tenir des débats dans vos réponses car ils ont tendance
   à rendre moins lisible ce que d'autres personnes chercheront ici : des
@@ -245,10 +238,7 @@ Utilisez les commentaires sur les questions ou réponses par exemple pour :
 - indiquer (gentiment) à l'auteur de la question ou réponse comment il pourrait
   mieux formuler sa contribution.
 
-*** En quoi un commentaire diffère-t-il d'une réponse ?
-:PROPERTIES:
-:ID:       49f30532-a963-4c35-9ceb-d3e0ed107108
-:END:
+*** <<sec:commentaire-reponse>>En quoi un commentaire diffère-t-il d'une réponse ?
 
 Veillez à /ne pas confondre/ *réponses* et *commentaires* :
 - la zone de texte « *Votre réponse* » est réservée aux... *réponses* qui, donc,
@@ -274,10 +264,7 @@ Pour faire figurer ce type de mention, saisissez simplement « =@= » suivi
 (immédiatement) du nom qui apparaît en signature de la contribution à laquelle
 vous voulez répondre.
 
-* Forme des contributions
-:PROPERTIES:
-:ID:       acb73bf3-1a4f-43da-8acd-8be8b02b59f5
-:END:
+* <<sec:forme>>Forme des contributions
 
 Veillez à vous assurer de la /lisibilité/ de vos contributions (questions,
 réponses et commentaires).
@@ -357,10 +344,7 @@ Dans une liste :
 - un *nouvel item* est introduit par *un retour chariot* ;
 - la *sortie* se fait au moyen de *deux retours chariot consécutifs*.
 
-** Comment faire figurer une image du fichier =.pdf= (ou =.dvi=) que j'obtiens pour que les autres voient immédiatement le problème que je rencontre ou la solution que je propose ?
-:PROPERTIES:
-:ID:       3b3dcba6-e9b2-4d54-9c38-c92bd94fb241
-:END:
+** <<sec:image-pdf-dvi>>Comment faire figurer une image du fichier =.pdf= (ou =.dvi=) que j'obtiens pour que les autres voient immédiatement le problème que je rencontre ou la solution que je propose ?
 
 Il suffit de générer une image =.png= du =.pdf= (ou =.dvi=) obtenu.
 
@@ -413,12 +397,9 @@ Une fois connecté, vous pouvez *participer à la vie* de ce site en :
       - à voter pour les questions ou réponses, /y compris/ celles postées par
         d'autres ;
 3. *le modérant* (si vous avez acquis suffisamment de points pour cela), les
-   différentes actions de modération étant listées [[id:570799ec-a372-48e3-935a-6cfc858b1df2][ici]].
+   différentes actions de modération étant listées [[sec:points][ici]].
 
-** Je voudrais tester un [[id:31890423-4e15-4560-b8ef-c11cec0c6efd][ECM]] illustrant une question ou une réponse mais (La)TeX n'est pas installé sur la machine que j'utilise actuellement. Que puis-je faire ?
-:PROPERTIES:
-:ID:       39e3eeff-57bf-49f2-8c34-0e2ed4bbe3d7
-:END:
+** <<sec:editeur>>Je voudrais tester un [[sec:ecm][ECM]] illustrant une question ou une réponse mais (La)TeX n'est pas installé sur la machine que j'utilise actuellement. Que puis-je faire ?
 
 Il suffit de cliquer sur le lien « Ouvrir dans l'éditeur » situé juste au-dessus
 de cet ECM : son code source sera alors ouvert puis automatiquement compilé et
