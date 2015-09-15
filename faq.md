@@ -96,7 +96,7 @@ des réponses clairement formulées.
     site](file:///osqa/compte/connexion/) par ce biais-là.
 -   Sinon, vous devez vous créer préalablement un [nouveau compte](file:///osqa/compte/local/inscription/).
 
-## Comment fonctionne le système de points ?<a id="orgheadline5"></a>
+## <a id="orgtarget1"></a>Comment fonctionne le système de points ?<a id="orgheadline5"></a>
 
 Quand une question ou une réponse reçoit un vote positif, l&rsquo;utilisateur qui en
 est l&rsquo;auteur gagne quelques points appelés « points de karma ».  Ces points
@@ -174,28 +174,30 @@ connaissance sur (La)TeX en :
 
 Un élément important de ce site étant la qualité (clarté, concision, précision,
 etc.) des questions, réponses et commentaires, n&rsquo;hésitez pas à consulter les
-recommandations et astuces, tant pour le fond (cf. section 2) que pour la forme (cf. section 3) des
+recommandations et astuces, tant pour le [fond](#orgtarget2) que pour la [forme](#orgtarget3) des
 contributions.
 
-# Fond des contributions<a id="orgheadline27"></a>
+# <a id="orgtarget2"></a>Fond des contributions<a id="orgheadline27"></a>
 
 ## En général<a id="orgheadline12"></a>
 
 ### Comment rendre mes contributions aussi utiles que possible ?<a id="orgheadline11"></a>
 
--   Soyez **clair**, **précis**, **concis**. En particulier, **évitez** :
+1.  Soyez **clair**, **précis**, **concis**. En particulier, **évitez** :
     -   **les formules de politesse** (« Bonjour », « Merci. », etc.) ou marques
         d&rsquo;opinion (« +1 », etc.) qui ne sont en rien utiles et ont tendance
         à rendre moins lisible, voire brouillent, ce que d&rsquo;autres personnes
         chercheront ici : des solutions (et seulement des solutions) optimales
         à des questions concernant (La)TeX ;
-    -   **les signatures** qui sont redondantes : votre nom est automatiquement affiché
-        en dessous de votre contribution.
--   Si possible, **illustrez** vos questions et réponses d&rsquo;un ou plusieurs ECM (cf. section 2.2.4)&#x2026;
-    voire d&rsquo;images illustrant ces ECM (cf. section 3.5).
--   N&rsquo;hésitez pas à **éditer** vos contributions **pour** les **peaufiner** en cliquant sur :
+    -   **les signatures** qui sont redondantes : votre nom est automatiquement
+        affiché en dessous de votre contribution.
+2.  Si possible, **illustrez** vos questions et réponses d&rsquo;un ou plusieurs [ECM](#orgtarget4)&#x2026;
+    voire d&rsquo;[images illustrant ces ECM](#orgtarget5).
+3.  N&rsquo;hésitez pas à **éditer** vos contributions **pour** les **peaufiner** en cliquant
+    sur :
     -   le lien « éditer » pour les questions et réponses ;
-    -   l&rsquo;icône ![img](/osqa/m/default/media/images/comment-edit.png) pour les commentaires.
+    -   l&rsquo;icône ![img](/osqa/m/default/media/images/comment-edit.png) pour les
+        commentaires.
 
 ## Questions<a id="orgheadline19"></a>
 
@@ -219,7 +221,7 @@ les questions soient intitulées sous forme de&#x2026; questions !  Cela aide
 également ceux qui sont disposés à vous aider : ils savent ainsi précisément
 à quelle *question* répondre.
 
-### Qu&rsquo;est-ce qu&rsquo;un ECM et pourquoi est-il si important d&rsquo;en fournir un ?<a id="orgheadline16"></a>
+### <a id="orgtarget4"></a>Qu&rsquo;est-ce qu&rsquo;un ECM et pourquoi est-il si important d&rsquo;en fournir un ?<a id="orgheadline16"></a>
 
 Un **exemple complet minimal** (**ECM**) est un fichier source :
 
@@ -239,7 +241,7 @@ Que ce soit ici ou sur tout autre lieu d’entraide à LaTeX, il est important
 d’accompagner la question qu’on pose d’un ECM. Ainsi, **vous aidez ceux qui
 veulent vous aider** en leur permettant de :
 
-1.  reproduire sur leur machine (ou sur le site de test (cf. section 4.2)) *exactement* le problème
+1.  reproduire sur leur machine (ou sur [le site de test](#orgtarget6)) *exactement* le problème
     que vous rencontrez ;
 2.  ne pas avoir faire *eux-mêmes* le ménage dans votre code source pour isoler la
     cause de ce problème.
@@ -284,7 +286,7 @@ Si la réponse vous semble :
 
 ### Que dois-je éviter dans mes réponses ?<a id="orgheadline20"></a>
 
--   Veillez à *ne pas confondre* **réponses** et **commentaires** (plus de détails ici (cf. section 2.4.2)).
+-   Veillez à *ne pas confondre* **réponses** et **commentaires** (plus de détails [ici](#orgtarget7)).
 -   Ceci est un site de questions et réponses et pas un groupe de
     discussion. Évitez de tenir des débats dans vos réponses car ils ont tendance
     à rendre moins lisible ce que d&rsquo;autres personnes chercheront ici : des
@@ -311,7 +313,7 @@ Utilisez les commentaires sur les questions ou réponses par exemple pour :
 -   indiquer (gentiment) à l&rsquo;auteur de la question ou réponse comment il pourrait
     mieux formuler sa contribution.
 
-### En quoi un commentaire diffère-t-il d&rsquo;une réponse ?<a id="orgheadline24"></a>
+### <a id="orgtarget7"></a>En quoi un commentaire diffère-t-il d&rsquo;une réponse ?<a id="orgheadline24"></a>
 
 Veillez à *ne pas confondre* **réponses** et **commentaires** :
 
@@ -339,7 +341,7 @@ Pour faire figurer ce type de mention, saisissez simplement « `@` » suivi
 (immédiatement) du nom qui apparaît en signature de la contribution à laquelle
 vous voulez répondre.
 
-# Forme des contributions<a id="orgheadline33"></a>
+# <a id="orgtarget3"></a>Forme des contributions<a id="orgheadline33"></a>
 
 Veillez à vous assurer de la *lisibilité* de vos contributions (questions,
 réponses et commentaires).
@@ -423,7 +425,7 @@ Dans une liste :
 -   un **nouvel item** est introduit par **un retour chariot** ;
 -   la **sortie** se fait au moyen de **deux retours chariot consécutifs**.
 
-## Comment faire figurer une image du fichier `.pdf` (ou `.dvi`) que j&rsquo;obtiens pour que les autres voient immédiatement le problème que je rencontre ou la solution que je propose ?<a id="orgheadline32"></a>
+## <a id="orgtarget5"></a>Comment faire figurer une image du fichier `.pdf` (ou `.dvi`) que j&rsquo;obtiens pour que les autres voient immédiatement le problème que je rencontre ou la solution que je propose ?<a id="orgheadline32"></a>
 
 Il suffit de générer une image `.png` du `.pdf` (ou `.dvi`) obtenu.
 
@@ -448,8 +450,8 @@ compilé avec `pdflatex` lancé avec l&rsquo;option `-shell-escape`, génère le
 `convert` :
 
 1.  ne doit pas être employée avec le package `geometry` ;
-2.  est actuellement sujette à un bogue qui la rend incompatible avec le
-    package `babel`.
+2.  est actuellement sujette à un bogue qui la rend incompatible avec le package
+    `babel`.
 
 Au cas où cette méthode échoue (ou ne soit pas adaptée en raison des points
 ci-dessus), [d'autres possibilités existent](http://tex.stackexchange.com/q/11866/18401).
@@ -475,9 +477,9 @@ Une fois connecté, vous pouvez **participer à la vie** de ce site en :
         -   à voter pour les questions ou réponses, *y compris* celles postées par
             d&rsquo;autres ;
 3.  **le modérant** (si vous avez acquis suffisamment de points pour cela), les
-    différentes actions de modération étant listées ici (cf. section 1.5).
+    différentes actions de modération étant listées [ici](#orgtarget1).
 
-## Je voudrais tester un ECM (cf. section 2.2.4) illustrant une question ou une réponse mais (La)TeX n&rsquo;est pas installé sur la machine que j&rsquo;utilise actuellement. Que puis-je faire ?<a id="orgheadline35"></a>
+## <a id="orgtarget6"></a>Je voudrais tester un [ECM](#orgtarget4) illustrant une question ou une réponse mais (La)TeX n&rsquo;est pas installé sur la machine que j&rsquo;utilise actuellement. Que puis-je faire ?<a id="orgheadline35"></a>
 
 Il suffit de cliquer sur le lien « Ouvrir dans l&rsquo;éditeur » situé juste au-dessus
 de cet ECM : son code source sera alors ouvert puis automatiquement compilé et
