@@ -371,8 +371,8 @@ compilé avec =pdflatex= lancé avec l'option =-shell-escape=, génère le fichi
 *Attention !* deux points sont à noter. La classe =standalone= avec l'option
 =convert= :
 1. ne doit pas être employée avec le package =geometry= ;
-2. est actuellement sujette à un bogue qui la rend incompatible avec le
-   package =babel=.
+2. est actuellement sujette à un bogue qui la rend incompatible avec le package
+   =babel=.
 
 Au cas où cette méthode échoue (ou ne soit pas adaptée en raison des points
 ci-dessus), [[http://tex.stackexchange.com/q/11866/18401][d'autres possibilités existent]].
