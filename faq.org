@@ -16,7 +16,7 @@ La réponse courte est : vous... et nous. Ce site est animé par ses
 utilisateurs. Un système de points (cf. ci-dessous) permet aux utilisateurs
 d'acquérir certaines compétences de modération.
 
-** Pourquoi d'autres personnes peuvent-elles modifier mes questions/réponses/commentaires ?
+** Pourquoi d'autres personnes peuvent-elles modifier mes contributions (questions/réponses/commentaires) ?
 
 Pour améliorer la qualité globale de la base de connaissances de ce site, les
 membres expérimentés de sa communauté peuvent de remanier les contributions des
@@ -122,10 +122,14 @@ contributions.
      à des questions concernant (La)TeX ;
    - *les signatures* qui sont redondantes : votre nom est automatiquement
      affiché en dessous de votre contribution.
-2. Si possible, *illustrez* vos questions et réponses d'un ou plusieurs [[sec:ecm][ECM]]...
+2. Si possible, *illustrez* vos questions et réponses d'un ou plusieurs *[[sec:ecm][ECM]]*...
    voire d'[[sec:image-pdf-dvi][images illustrant ces ECM]].
-3. N'hésitez pas à *éditer* vos contributions *pour* les *peaufiner* en cliquant
-   sur :
+3. N'hésitez pas à [[sec:peaufinage][*modifier* vos contributions]] *pour* les *peaufiner*.
+
+*** <<sec:peaufinage>>Je viens de constater que ma contribution n'a pas été très clairement formulée. Puis-je la modifier ?
+
+Tout à fait, l'idée étant d'améliorer autant que possible la qualité globale du
+site. Vous pouvez donc *peaufiner vos contributions* en cliquant sur :
    - le lien « éditer » pour les questions et réponses ;
    - l'icône [[/osqa/m/default/media/images/comment-edit.png]] pour les
      commentaires.
