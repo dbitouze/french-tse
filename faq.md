@@ -233,8 +233,8 @@ Un **exemple complet minimal** (**ECM**) est un fichier source :
 
 -   **mettant en évidence le problème** rencontré ;
 -   **complet**, c’est-à-dire contenant tout ce qui permet de le **compiler directement**
-    (de `\documentclass` à `\end{document}` en passant par `\begin{document}`), sans
-    devoir ajouter une seule ligne ;
+    (de `\documentclass` à `\end{document}` en passant par `\begin{document}`), **sans
+    devoir ajouter une seule ligne** ;
 -   **minimal**, c’est-à-dire **allégé** de tout ce qui n&rsquo;est **pas en rapport direct** avec
     la question posée :
     -   **packages** (sauf éventuellement `inputenc`, `fontenc`, `lmodern` et, dans une
@@ -243,26 +243,26 @@ Un **exemple complet minimal** (**ECM**) est un fichier source :
     -   **texte** ;
     -   etc.
 
-Que ce soit ici ou sur tout autre lieu d’entraide à LaTeX, il est important
-d’accompagner la question qu’on pose d’un ECM. Ainsi, **vous aidez ceux qui
-veulent vous aider** en leur permettant de :
+Que ce soit ici ou sur tout autre lieu d’entraide à LaTeX, il est important que
+vous illustriez votre question par un ECM car, ainsi, **vous aidez ceux qui
+veulent vous aider**. Ils pourront en effet alors :
 
 1.  reproduire sur leur machine (ou sur [le site de test](#orgtarget7)) *exactement* le problème
     que vous rencontrez ;
-2.  ne pas avoir faire *eux-mêmes* le ménage dans votre code source pour isoler la
-    cause de ce problème.
+2.  isoler la cause de ce problème sans devoir faire *eux-mêmes* le ménage dans
+    votre code source.
 
-Il est donc important de fournir un ECM car, ainsi :
+En résumé, en fournissant un ECM :
 
 -   vous montrez votre bonne volonté ;
 -   vous augmentez les chances d&rsquo;être aidé, et de l&rsquo;être rapidement.
 
-La production d&rsquo;un ECM est un exercice difficile (surtout au début) mais
+La production d&rsquo;un ECM est un exercice certes difficile (surtout au début), mais
 instructif et souvent suffisant pour résoudre le problème. N&rsquo;hésitez pas
 à commenter/décommenter des portions de code pour que votre *exemple* devienne
 effectivement *complet* et *minimal*.
 
-N&rsquo;oubliez pas : « Aide-toi, [texnique.fr](http://texnique.fr/) t&rsquo;aidera. » :-)
+Et n&rsquo;oubliez pas : « Aide-toi, [texnique.fr](http://texnique.fr/) t&rsquo;aidera. » :-)
 
 ### Que dois-je faire quand une réponse à ma question a été postée ?<a id="orgheadline18"></a>
 
