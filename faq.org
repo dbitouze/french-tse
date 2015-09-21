@@ -29,7 +29,10 @@ des réponses clairement formulées.
   site]] par ce biais-là.
 - Sinon, vous devez vous créer préalablement un [[/osqa/compte/local/inscription/][nouveau compte]].
 
-** <<sec:points>>Comment fonctionne le système de points ?
+** Comment fonctionne le système de points ?
+:PROPERTIES:
+:CUSTOM_ID: custom-id-points
+:END:
 
 Quand une question ou une réponse reçoit un vote positif, l'utilisateur qui en
 est l'auteur gagne quelques points appelés « points de karma ».  Ces points
@@ -107,10 +110,13 @@ connaissance sur (La)TeX en :
 
 Un élément important de ce site étant la qualité (clarté, concision, précision,
 etc.) des questions, réponses et commentaires, n'hésitez pas à consulter les
-recommandations et astuces, tant pour le [[sec:fond][fond]] que pour la [[sec:forme][forme]] des
+recommandations et astuces, tant pour le [[#custom-id-fond][fond]] que pour la [[#custom-id-forme][forme]] des
 contributions.
 
-* <<sec:fond>>Fond des contributions
+* Fond des contributions
+:PROPERTIES:
+:CUSTOM_ID: custom-id-fond
+:END:
 ** En général
 *** Comment rendre mes contributions aussi utiles que possible ?
 
@@ -122,11 +128,14 @@ contributions.
      à des questions concernant (La)TeX ;
    - *les signatures* qui sont redondantes : votre nom est automatiquement
      affiché en dessous de votre contribution.
-2. Si possible, *illustrez* vos questions et réponses d'un ou plusieurs *[[sec:ecm][ECM]]*...
-   voire d'[[sec:image-pdf-dvi][images illustrant ces ECM]].
-3. N'hésitez pas à [[sec:peaufinage][*modifier* vos contributions]] *pour* les *peaufiner*.
+2. Si possible, *illustrez* vos questions et réponses d'un ou plusieurs *[[#custom-id-ecm][ECM]]*...
+   voire d'[[#custom-id-image-pdf-dvi][images illustrant ces ECM]].
+3. N'hésitez pas à [[#custom-id-peaufinage][*modifier* vos contributions]] *pour* les *peaufiner*.
 
-*** <<sec:peaufinage>>Je viens de constater que ma contribution n'a pas été très clairement formulée. Puis-je la modifier ?
+*** Je viens de constater que ma contribution n'a pas été très clairement formulée. Puis-je la modifier ?
+:PROPERTIES:
+:CUSTOM_ID: custom-id-peaufinage
+:END:
 
 Tout à fait, l'idée étant d'améliorer autant que possible la qualité globale du
 site. Vous pouvez donc *peaufiner vos contributions* en cliquant sur :
@@ -155,7 +164,10 @@ les questions soient intitulées sous forme de... questions !  Cela aide
 également ceux qui sont disposés à vous aider : ils savent ainsi précisément
 à quelle /question/ répondre.
 
-*** <<sec:ecm>>Qu'est-ce qu'un ECM et pourquoi est-il si important d'en fournir un ?
+*** Qu'est-ce qu'un ECM et pourquoi est-il si important d'en fournir un ?
+:PROPERTIES:
+:CUSTOM_ID: custom-id-ecm
+:END:
 
 Un *exemple complet minimal* (*ECM*) est un fichier source :
 - *mettant en évidence le problème* rencontré ;
@@ -173,7 +185,7 @@ Un *exemple complet minimal* (*ECM*) est un fichier source :
 Que ce soit ici ou sur tout autre lieu d’entraide à LaTeX, il est important que
 vous illustriez votre question par un ECM car, ainsi, *vous aidez ceux qui
 veulent vous aider*. Ils pourront en effet alors :
-1. reproduire sur leur machine (ou sur [[sec:editeur][le site de test]]) /exactement/ le problème
+1. reproduire sur leur machine (ou sur [[#custom-id-editeur][le site de test]]) /exactement/ le problème
    que vous rencontrez ;
 2. isoler la cause de ce problème sans devoir faire /eux-mêmes/ le ménage dans
    votre code source.
@@ -215,7 +227,7 @@ Si la réponse vous semble :
 ** Réponses
 *** Que dois-je éviter dans mes réponses ?
 
-- Veillez à /ne pas confondre/ *réponses* et *commentaires* (plus de détails [[sec:commentaire-reponse][ici]]).
+- Veillez à /ne pas confondre/ [[#custom-id-commentaire-reponse][*réponses* et *commentaires*]].
 - Ceci est un site de questions et réponses et pas un groupe de
   discussion. Évitez de tenir des débats dans vos réponses car ils ont tendance
   à rendre moins lisible ce que d'autres personnes chercheront ici : des
@@ -240,7 +252,10 @@ Utilisez les commentaires sur les questions ou réponses par exemple pour :
 - indiquer (gentiment) à l'auteur de la question ou réponse comment il pourrait
   mieux formuler sa contribution.
 
-*** <<sec:commentaire-reponse>>En quoi un commentaire diffère-t-il d'une réponse ?
+*** En quoi un commentaire diffère-t-il d'une réponse ?
+:PROPERTIES:
+:CUSTOM_ID: custom-id-commentaire-reponse
+:END:
 
 Veillez à /ne pas confondre/ *réponses* et *commentaires* :
 - la zone de texte « *Votre réponse* » est réservée aux... *réponses* qui, donc,
@@ -266,7 +281,10 @@ Pour faire figurer ce type de mention, saisissez simplement « =@= » suivi
 (immédiatement) du nom qui apparaît en signature de la contribution à laquelle
 vous voulez répondre.
 
-* <<sec:forme>>Forme des contributions
+* Forme des contributions
+:PROPERTIES:
+:CUSTOM_ID: custom-id-forme
+:END:
 
 Veillez à vous assurer de la /lisibilité/ de vos contributions (questions,
 réponses et commentaires).
@@ -346,7 +364,10 @@ Dans une liste :
 - un *nouvel item* est introduit par *un retour chariot* ;
 - la *sortie* se fait au moyen de *deux retours chariot consécutifs*.
 
-** <<sec:image-pdf-dvi>>Comment faire figurer une image du fichier =.pdf= (ou =.dvi=) que j'obtiens pour que les autres voient immédiatement le problème que je rencontre ou la solution que je propose ?
+** Comment faire figurer une image du fichier =.pdf= (ou =.dvi=) que j'obtiens pour que les autres voient immédiatement le problème que je rencontre ou la solution que je propose ?
+:PROPERTIES:
+:CUSTOM_ID: custom-id-image-pdf-dvi
+:END:
 
 Il suffit de générer une image =.png= du =.pdf= (ou =.dvi=) obtenu.
 
@@ -399,9 +420,12 @@ Une fois connecté, vous pouvez *participer à la vie* de ce site en :
       - à voter pour les questions ou réponses, /y compris/ celles postées par
         d'autres ;
 3. *le modérant* (si vous avez acquis suffisamment de points pour cela), les
-   différentes actions de modération étant listées [[sec:points][ici]].
+   différentes actions de modération étant listées [[#custom-id-points][ici]].
 
-** <<sec:editeur>>Je voudrais tester un [[sec:ecm][ECM]] illustrant une question ou une réponse mais (La)TeX n'est pas installé sur la machine que j'utilise actuellement. Que puis-je faire ?
+** Je voudrais tester un [[#custom-id-ecm][ECM]] illustrant une question ou une réponse mais (La)TeX n'est pas installé sur la machine que j'utilise actuellement. Que puis-je faire ?
+:PROPERTIES:
+:CUSTOM_ID: custom-id-editeur
+:END:
 
 Il suffit de cliquer sur le lien « Ouvrir dans l'éditeur » situé juste au-dessus
 de cet ECM : son code source sera alors ouvert puis automatiquement compilé et
