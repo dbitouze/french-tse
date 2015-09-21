@@ -194,8 +194,8 @@ En résumé, en fournissant un ECM :
 - vous montrez votre bonne volonté ;
 - vous augmentez les chances d'être aidé, et de l'être rapidement.
 
-La production d'un ECM est un exercice certes difficile (surtout au début), mais
-instructif et souvent suffisant pour résoudre le problème. N'hésitez pas
+La production d'un ECM est un exercice certes pas facile (surtout au début),
+mais instructif et souvent suffisant pour résoudre le problème. N'hésitez pas
 à commenter/décommenter des portions de code pour que votre /exemple/ devienne
 effectivement /complet/ et /minimal/.
 
