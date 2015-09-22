@@ -119,6 +119,9 @@ contributions.
 :END:
 ** En général
 *** Comment rendre mes contributions aussi utiles que possible ?
+:PROPERTIES:
+:CUSTOM_ID: custom-id-contributions-utiles
+:END:
 
 1. Soyez *clair*, *précis*, *concis*. En particulier, *évitez* :
    - *les formules de politesse* (« Bonjour », « Merci. », etc.) ou marques
@@ -158,6 +161,9 @@ mots-clés (/tags/).
 réponses seraient trop subjectives ou qui pourraient mener à des débats.
 
 *** On me demande de reformuler le titre de ma question sous forme interrogative. Pourquoi ?
+:PROPERTIES:
+:CUSTOM_ID: custom-id-titre-question
+:END:
 
 Vous êtes ici sur un site de /questions/ et /réponses/ et il est donc logique que
 les questions soient intitulées sous forme de... questions !  Cela aide
