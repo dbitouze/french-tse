@@ -17,49 +17,49 @@
 </li>
 <li><a href="#custom-id-fond">2. Fond des contributions</a>
 <ul>
-<li><a href="#orgheadline11">2.1. En général</a>
+<li><a href="#orgheadline10">2.1. En général</a>
 <ul>
-<li><a href="#orgheadline10">2.1.1. Comment rendre mes contributions aussi utiles que possible ?</a></li>
+<li><a href="#custom-id-contributions-utiles">2.1.1. Comment rendre mes contributions aussi utiles que possible ?</a></li>
 <li><a href="#custom-id-peaufinage">2.1.2. Je viens de constater que ma contribution n&rsquo;a pas été très clairement formulée. Puis-je la modifier ?</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline17">2.2. Questions</a>
+<li><a href="#orgheadline15">2.2. Questions</a>
 <ul>
-<li><a href="#orgheadline12">2.2.1. Quelles questions puis-je poser ici ?</a></li>
-<li><a href="#orgheadline13">2.2.2. Quelles questions devraient être évitées ?</a></li>
-<li><a href="#orgheadline14">2.2.3. On me demande de reformuler le titre de ma question sous forme interrogative. Pourquoi ?</a></li>
+<li><a href="#orgheadline11">2.2.1. Quelles questions puis-je poser ici ?</a></li>
+<li><a href="#orgheadline12">2.2.2. Quelles questions devraient être évitées ?</a></li>
+<li><a href="#custom-id-titre-question">2.2.3. On me demande de reformuler le titre de ma question sous forme interrogative. Pourquoi ?</a></li>
 <li><a href="#custom-id-ecm">2.2.4. Qu&rsquo;est-ce qu&rsquo;un ECM et pourquoi est-il si important d&rsquo;en fournir un ?</a></li>
-<li><a href="#orgheadline15">2.2.5. Que dois-je faire quand une réponse à ma question a été postée ?</a></li>
-<li><a href="#orgheadline16">2.2.6. J&rsquo;ai accepté une réponse à ma question mais une autre qui vient d&rsquo;être publiée est également satisfaisante. Pourquoi ne puis-je pas l&rsquo;accepter aussi ?</a></li>
+<li><a href="#orgheadline13">2.2.5. Que dois-je faire quand une réponse à ma question a été postée ?</a></li>
+<li><a href="#orgheadline14">2.2.6. J&rsquo;ai accepté une réponse à ma question mais une autre qui vient d&rsquo;être publiée est également satisfaisante. Pourquoi ne puis-je pas l&rsquo;accepter aussi ?</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline20">2.3. Réponses</a>
+<li><a href="#orgheadline18">2.3. Réponses</a>
 <ul>
-<li><a href="#orgheadline18">2.3.1. Que dois-je éviter dans mes réponses ?</a></li>
-<li><a href="#orgheadline19">2.3.2. Je pense pouvoir répondre à une question mais je ne suis pas certain de l&rsquo;avoir bien comprise. Que puis-je faire ?</a></li>
+<li><a href="#orgheadline16">2.3.1. Que dois-je éviter dans mes réponses ?</a></li>
+<li><a href="#orgheadline17">2.3.2. Je pense pouvoir répondre à une question mais je ne suis pas certain de l&rsquo;avoir bien comprise. Que puis-je faire ?</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline23">2.4. Commentaires</a>
+<li><a href="#orgheadline21">2.4. Commentaires</a>
 <ul>
-<li><a href="#orgheadline21">2.4.1. Quel type de commentaires puis-je poster ici ?</a></li>
+<li><a href="#orgheadline19">2.4.1. Quel type de commentaires puis-je poster ici ?</a></li>
 <li><a href="#custom-id-commentaire-reponse">2.4.2. En quoi un commentaire diffère-t-il d&rsquo;une réponse ?</a></li>
-<li><a href="#orgheadline22">2.4.3. Qu&rsquo;est-ce que ces « <code>@⟨nom⟩</code> » qui introduisent les commentaires et pourquoi devrais-je y recourir ?</a></li>
+<li><a href="#orgheadline20">2.4.3. Qu&rsquo;est-ce que ces « <code>@⟨nom⟩</code> » qui introduisent les commentaires et pourquoi devrais-je y recourir ?</a></li>
 </ul>
 </li>
 </ul>
 </li>
 <li><a href="#custom-id-forme">3. Forme des contributions</a>
 <ul>
-<li><a href="#orgheadline24">3.1. Comment mettre en forme ma contribution ?</a></li>
-<li><a href="#orgheadline25">3.2. Comment insérer le (un extrait de) code d&rsquo;un fichier <code>.tex</code> (ou autre) ?</a></li>
-<li><a href="#orgheadline26">3.3. Dans un paragraphe de texte, comment faire ressortir une commande (La)TeX ou le nom d&rsquo;un package ?</a></li>
-<li><a href="#orgheadline27">3.4. Dans une liste, comment ajouter un nouvel item et comment en sortir ?</a></li>
+<li><a href="#orgheadline22">3.1. Comment mettre en forme ma contribution ?</a></li>
+<li><a href="#orgheadline23">3.2. Comment insérer le (un extrait de) code d&rsquo;un fichier <code>.tex</code> (ou autre) ?</a></li>
+<li><a href="#orgheadline24">3.3. Dans un paragraphe de texte, comment faire ressortir une commande (La)TeX ou le nom d&rsquo;un package ?</a></li>
+<li><a href="#orgheadline25">3.4. Dans une liste, comment ajouter un nouvel item et comment en sortir ?</a></li>
 <li><a href="#custom-id-image-pdf-dvi">3.5. Comment faire figurer une image du fichier <code>.pdf</code> (ou <code>.dvi</code>) que j&rsquo;obtiens pour que les autres voient immédiatement le problème que je rencontre ou la solution que je propose ?</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline29">4. Divers</a>
+<li><a href="#orgheadline27">4. Divers</a>
 <ul>
-<li><a href="#orgheadline28">4.1. À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?</a></li>
+<li><a href="#orgheadline26">4.1. À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?</a></li>
 <li><a href="#custom-id-editeur">4.2. Je voudrais tester un ECM illustrant une question ou une réponse mais (La)TeX n&rsquo;est pas installé sur la machine que j&rsquo;utilise actuellement. Que puis-je faire ?</a></li>
 </ul>
 </li>
@@ -94,8 +94,8 @@ des réponses clairement formulées.
 ## Pour participer à cette communauté, dois-je créer un nouveau compte ?<a id="orgheadline4"></a>
 
 -   Si vous possédez déjà un [OpenID](http://openid.net/get-an-openid/what-is-openid/), vous pouvez [directement vous connecter au
-    site](file:///osqa/compte/connexion/) par ce biais-là.
--   Sinon, vous devez vous créer préalablement un [nouveau compte](file:///osqa/compte/local/inscription/).
+    site](http://texnique.fr/osqa/compte/connexion/) par ce biais-là.
+-   Sinon, vous devez vous créer préalablement un [nouveau compte](http://texnique.fr/osqa/compte/local/inscription/).
 
 ## Comment fonctionne le système de points ?<a id="custom-id-points"></a>
 
@@ -155,8 +155,8 @@ intéressant. Voilà pourquoi nous considérons une adresse de courriel valide
 comme nécessaire pour participer à la communauté et rendre ce site vivant.
 
 Si vous êtes déjà membre de cette communauté et n&rsquo;avez pas validé votre adresse
-courriel, vous pouvez le faire [ici](file:///osqa/compte/valider/).  Si vous n&rsquo;êtes pas encore membre de cette
-communauté, vous pouvez la rejoindre en vous [inscrivant](file:///osqa/compte/local/inscription/).
+courriel, vous pouvez le faire [ici](http://texnique.fr/osqa/compte/valider/).  Si vous n&rsquo;êtes pas encore membre de cette
+communauté, vous pouvez la rejoindre en vous [inscrivant](http://texnique.fr/osqa/compte/local/inscription/).
 
 ## Comment modifier mon profil, par exemple mes notifications par courriel ?<a id="orgheadline7"></a>
 
@@ -170,8 +170,8 @@ par courriel ».
 Vous pouvez nous aider à améliorer notre site et enrichir la base de
 connaissance sur (La)TeX en :
 
--   [trouvant une question](file:///osqa/questions/) à laquelle répondre ;
--   [posant une question](file:///osqa/questions/demandez/).
+-   [trouvant une question](http://texnique.fr/osqa/questions/) à laquelle répondre ;
+-   [posant une question](http://texnique.fr/osqa/questions/demandez/).
 
 Un élément important de ce site étant la qualité (clarté, concision, précision,
 etc.) des questions, réponses et commentaires, n&rsquo;hésitez pas à consulter les
@@ -180,9 +180,9 @@ contributions.
 
 # Fond des contributions<a id="custom-id-fond"></a>
 
-## En général<a id="orgheadline11"></a>
+## En général<a id="orgheadline10"></a>
 
-### Comment rendre mes contributions aussi utiles que possible ?<a id="orgheadline10"></a>
+### Comment rendre mes contributions aussi utiles que possible ?<a id="custom-id-contributions-utiles"></a>
 
 1.  Soyez **clair**, **précis**, **concis**. En particulier, **évitez** :
     -   **les formules de politesse** (« Bonjour », « Merci. », etc.) ou marques
@@ -205,9 +205,9 @@ site. Vous pouvez donc **peaufiner vos contributions** en cliquant sur :
 -   l&rsquo;icône ![img](/osqa/m/default/media/images/comment-edit.png) pour les
     commentaires.
 
-## Questions<a id="orgheadline17"></a>
+## Questions<a id="orgheadline15"></a>
 
-### Quelles questions puis-je poser ici ?<a id="orgheadline12"></a>
+### Quelles questions puis-je poser ici ?<a id="orgheadline11"></a>
 
 Avant tout, les questions posées doivent être pertinentes pour la communauté
 (La)TeX. Avant de poser une question, assurez-vous qu&rsquo;une question similaire n&rsquo;a
@@ -215,12 +215,12 @@ pas déjà été posée : cela fera gagner du temps à vous et aux contributeurs
 site. Vous pouvez rechercher des questions par leur titre, leur contenu ou leurs
 mots-clés (*tags*).
 
-### Quelles questions devraient être évitées ?<a id="orgheadline13"></a>
+### Quelles questions devraient être évitées ?<a id="orgheadline12"></a>
 
 Évitez de poser des questions qui ne sont pas relatives à (La)TeX, dont les
 réponses seraient trop subjectives ou qui pourraient mener à des débats.
 
-### On me demande de reformuler le titre de ma question sous forme interrogative. Pourquoi ?<a id="orgheadline14"></a>
+### On me demande de reformuler le titre de ma question sous forme interrogative. Pourquoi ?<a id="custom-id-titre-question"></a>
 
 Vous êtes ici sur un site de *questions* et *réponses* et il est donc logique que
 les questions soient intitulées sous forme de&#x2026; questions !  Cela aide
@@ -264,7 +264,7 @@ effectivement *complet* et *minimal*.
 
 Et n&rsquo;oubliez pas : « Aide-toi, [texnique.fr](http://texnique.fr/) t&rsquo;aidera. » :-)
 
-### Que dois-je faire quand une réponse à ma question a été postée ?<a id="orgheadline15"></a>
+### Que dois-je faire quand une réponse à ma question a été postée ?<a id="orgheadline13"></a>
 
 Si la réponse vous semble :
 
@@ -279,7 +279,7 @@ Si la réponse vous semble :
         ![img](/osqa/m/default/media/images/vote-accepted-on.png) ;
     -   **en votant** pour cette réponse.
 
-### J&rsquo;ai accepté une réponse à ma question mais une autre qui vient d&rsquo;être publiée est également satisfaisante. Pourquoi ne puis-je pas l&rsquo;accepter aussi ?<a id="orgheadline16"></a>
+### J&rsquo;ai accepté une réponse à ma question mais une autre qui vient d&rsquo;être publiée est également satisfaisante. Pourquoi ne puis-je pas l&rsquo;accepter aussi ?<a id="orgheadline14"></a>
 
 -   L&rsquo;idée est d&rsquo;indiquer quelle réponse apporte la **meilleure** solution à la
     question que vous avez posée. Si la nouvelle réponse est « meilleure », vous
@@ -288,9 +288,9 @@ Si la réponse vous semble :
 -   Vous pouvez toujours indiquer que les deux réponses apportent des solutions
     satisfaisantes en votant positivement pour chacune d&rsquo;elles.
 
-## Réponses<a id="orgheadline20"></a>
+## Réponses<a id="orgheadline18"></a>
 
-### Que dois-je éviter dans mes réponses ?<a id="orgheadline18"></a>
+### Que dois-je éviter dans mes réponses ?<a id="orgheadline16"></a>
 
 -   Veillez à *ne pas confondre* [**réponses** et **commentaires**](#custom-id-commentaire-reponse).
 -   Ceci est un site de questions et réponses et pas un groupe de
@@ -300,16 +300,16 @@ Si la réponse vous semble :
     (La)TeX. Vous pouvez bien sûr faire de brèves remarques en postant des
     commentaires.
 
-### Je pense pouvoir répondre à une question mais je ne suis pas certain de l&rsquo;avoir bien comprise. Que puis-je faire ?<a id="orgheadline19"></a>
+### Je pense pouvoir répondre à une question mais je ne suis pas certain de l&rsquo;avoir bien comprise. Que puis-je faire ?<a id="orgheadline17"></a>
 
 Si une question ne vous semble pas claire, n&rsquo;hésitez pas à y ajouter un
 commentaire pour demander à l&rsquo;auteur de l&rsquo;éditer pour la préciser ou de la
 rendre plus parlante en y ajoutant un ECM, voire une image illustrant ce que lui
 obtient.
 
-## Commentaires<a id="orgheadline23"></a>
+## Commentaires<a id="orgheadline21"></a>
 
-### Quel type de commentaires puis-je poster ici ?<a id="orgheadline21"></a>
+### Quel type de commentaires puis-je poster ici ?<a id="orgheadline19"></a>
 
 Utilisez les commentaires sur les questions ou réponses par exemple pour :
 
@@ -330,7 +330,7 @@ Veillez à *ne pas confondre* **réponses** et **commentaires** :
     cliquant sur le lien « **ajouter un commentaire** » sous la question ou la
     réponse correspondante.
 
-### Qu&rsquo;est-ce que ces « `@⟨nom⟩` » qui introduisent les commentaires et pourquoi devrais-je y recourir ?<a id="orgheadline22"></a>
+### Qu&rsquo;est-ce que ces « `@⟨nom⟩` » qui introduisent les commentaires et pourquoi devrais-je y recourir ?<a id="orgheadline20"></a>
 
 La mention « `@⟨nom⟩` » indique le `⟨nom⟩` (et est un lien menant au profil) de la
 personne à qui s&rsquo;adresse le commentaire : « `@` » signifie « *at* » soit « à ».
@@ -352,7 +352,7 @@ vous voulez répondre.
 Veillez à vous assurer de la *lisibilité* de vos contributions (questions,
 réponses et commentaires).
 
-## Comment mettre en forme ma contribution ?<a id="orgheadline24"></a>
+## Comment mettre en forme ma contribution ?<a id="orgheadline22"></a>
 
 -   **Questions ou réponses :** dans les zones dédiées aux questions ou réponses, une
     mise en forme basique du texte est possible, et facilitée par des raccourcis
@@ -403,7 +403,7 @@ fait au moyen des raccourcis :
 -   **annulation** : <kbd>Ctrl</kbd>+<kbd>z</kbd>
 -   **rétablissement** : <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>z</kbd>
 
-## Comment insérer le (un extrait de) code d&rsquo;un fichier `.tex` (ou autre) ?<a id="orgheadline25"></a>
+## Comment insérer le (un extrait de) code d&rsquo;un fichier `.tex` (ou autre) ?<a id="orgheadline23"></a>
 
 Pour insérer le code d&rsquo;un fichier `.tex` (ou autre) dans une zone de texte dédiée
 aux questions ou réponses, il suffit de :
@@ -415,7 +415,7 @@ aux questions ou réponses, il suffit de :
     code (« Code Sample&#x2026; »).
 5.  Laisser une ligne vide après le code (sauf en fin de contribution).
 
-## Dans un paragraphe de texte, comment faire ressortir une commande (La)TeX ou le nom d&rsquo;un package ?<a id="orgheadline26"></a>
+## Dans un paragraphe de texte, comment faire ressortir une commande (La)TeX ou le nom d&rsquo;un package ?<a id="orgheadline24"></a>
 
 Il suffit de les afficher en tant qu&rsquo;extrait de code. Pour cela, recourir au
 raccourci <kbd>Ctrl</kbd>+<kbd>k</kbd> ou cliquer sur le bouton de code (« Code
@@ -424,7 +424,7 @@ Sample&#x2026; »), ce qui est à faire ressortir étant saisi :
 -   soit après ;
 -   soit avant, mais alors étant préalablement sélectionné.
 
-## Dans une liste, comment ajouter un nouvel item et comment en sortir ?<a id="orgheadline27"></a>
+## Dans une liste, comment ajouter un nouvel item et comment en sortir ?<a id="orgheadline25"></a>
 
 Dans une liste :
 
@@ -462,9 +462,9 @@ compilé avec `pdflatex` lancé avec l&rsquo;option `-shell-escape`, génère le
 Au cas où cette méthode échoue (ou ne soit pas adaptée en raison des points
 ci-dessus), [d'autres possibilités existent](http://tex.stackexchange.com/q/11866/18401).
 
-# Divers<a id="orgheadline29"></a>
+# Divers<a id="orgheadline27"></a>
 
-## À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?<a id="orgheadline28"></a>
+## À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?<a id="orgheadline26"></a>
 
 Une fois connecté, vous pouvez **participer à la vie** de ce site en :
 
