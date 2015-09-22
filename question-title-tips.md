@@ -1,0 +1,5 @@
+-   **Posez une question pertinente pour la communauté |APP_TITLE|**.
+-   Formulez le titre [comme une question](http://texnique.fr/osqa/faq/#custom-id-titre-question).
+-   Soyez [clairs et concis, mais fournissez suffisamment de détails](http://texnique.fr/osqa/faq/#custom-id-contributions-utiles).
+-   Évitez les formules de politesse (« Bonjour », « Merci », etc.).
+-   Essayez de fournir un [ECM](http://texnique.fr/osqa/faq/#custom-id-ecm).
