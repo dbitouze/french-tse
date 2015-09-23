@@ -160,6 +160,18 @@ mots-clés (/tags/).
 Évitez de poser des questions qui ne sont pas relatives à (La)TeX, dont les
 réponses seraient trop subjectives ou qui pourraient mener à des débats.
 
+*** Pourquoi est-il si important de ne poser qu'une question à la fois ?
+:PROPERTIES:
+:CUSTOM_ID: custom-id-question-unique
+:END:
+
+Cela permet de :
+- donner des titres (plus) concis aux questions ;
+- rendre plus rapide et plus facile le travail de ceux qui sont disposer
+  à répondre ;
+- faciliter la recherche de questions pour ceux qui consultent les archives de
+  ce site.
+
 *** On me demande de reformuler le titre de ma question sous forme interrogative. Pourquoi ?
 :PROPERTIES:
 :CUSTOM_ID: custom-id-titre-question
