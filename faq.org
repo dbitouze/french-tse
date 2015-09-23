@@ -167,7 +167,7 @@ réponses seraient trop subjectives ou qui pourraient mener à des débats.
 
 Cela permet de :
 - donner des titres (plus) concis aux questions ;
-- rendre plus rapide et plus facile le travail de ceux qui sont disposer
+- rendre plus rapide et plus facile le travail de ceux qui sont disposés
   à répondre ;
 - faciliter la recherche de questions pour ceux qui consultent les archives de
   ce site.
