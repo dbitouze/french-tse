@@ -27,10 +27,11 @@
 <ul>
 <li><a href="#orgheadline11">2.2.1. Quelles questions puis-je poser ici ?</a></li>
 <li><a href="#orgheadline12">2.2.2. Quelles questions devraient être évitées ?</a></li>
-<li><a href="#custom-id-titre-question">2.2.3. On me demande de reformuler le titre de ma question sous forme interrogative. Pourquoi ?</a></li>
-<li><a href="#custom-id-ecm">2.2.4. Qu&rsquo;est-ce qu&rsquo;un ECM et pourquoi est-il si important d&rsquo;en fournir un ?</a></li>
-<li><a href="#orgheadline13">2.2.5. Que dois-je faire quand une réponse à ma question a été postée ?</a></li>
-<li><a href="#orgheadline14">2.2.6. J&rsquo;ai accepté une réponse à ma question mais une autre qui vient d&rsquo;être publiée est également satisfaisante. Pourquoi ne puis-je pas l&rsquo;accepter aussi ?</a></li>
+<li><a href="#custom-id-question-unique">2.2.3. Pourquoi est-il si important de ne poser qu&rsquo;une question à la fois ?</a></li>
+<li><a href="#custom-id-titre-question">2.2.4. On me demande de reformuler le titre de ma question sous forme interrogative. Pourquoi ?</a></li>
+<li><a href="#custom-id-ecm">2.2.5. Qu&rsquo;est-ce qu&rsquo;un ECM et pourquoi est-il si important d&rsquo;en fournir un ?</a></li>
+<li><a href="#orgheadline13">2.2.6. Que dois-je faire quand une réponse à ma question a été postée ?</a></li>
+<li><a href="#orgheadline14">2.2.7. J&rsquo;ai accepté une réponse à ma question mais une autre qui vient d&rsquo;être publiée est également satisfaisante. Pourquoi ne puis-je pas l&rsquo;accepter aussi ?</a></li>
 </ul>
 </li>
 <li><a href="#orgheadline18">2.3. Réponses</a>
@@ -219,6 +220,16 @@ mots-clés (*tags*).
 
 Évitez de poser des questions qui ne sont pas relatives à (La)TeX, dont les
 réponses seraient trop subjectives ou qui pourraient mener à des débats.
+
+### Pourquoi est-il si important de ne poser qu&rsquo;une question à la fois ?<a id="custom-id-question-unique"></a>
+
+Cela permet de :
+
+-   donner des titres (plus) concis aux questions ;
+-   rendre plus rapide et plus facile le travail de ceux qui sont disposer
+    à répondre ;
+-   faciliter la recherche de questions pour ceux qui consultent les archives de
+    ce site.
 
 ### On me demande de reformuler le titre de ma question sous forme interrogative. Pourquoi ?<a id="custom-id-titre-question"></a>
 
