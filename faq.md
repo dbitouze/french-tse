@@ -90,7 +90,7 @@ d&rsquo;acquérir certaines compétences de modération.
 Pour améliorer la qualité globale de la base de connaissances de ce site, les
 membres expérimentés de sa communauté peuvent de remanier les contributions des
 autres. Ainsi, les visiteurs trouveront ici beaucoup de questions bien posées et
-des réponses clairement formulées.
+de réponses clairement formulées.
 
 ## Pour participer à cette communauté, dois-je créer un nouveau compte ?<a id="orgheadline4"></a>
 
@@ -315,8 +315,8 @@ Si la réponse vous semble :
 
 Si une question ne vous semble pas claire, n&rsquo;hésitez pas à y ajouter un
 commentaire pour demander à l&rsquo;auteur de l&rsquo;éditer pour la préciser ou de la
-rendre plus parlante en y ajoutant un ECM, voire une image illustrant ce que lui
-obtient.
+rendre plus parlante en y ajoutant un ECM, voire une image illustrant ce qu&rsquo;il
+obtient lui sur sa propre machine.
 
 ## Commentaires<a id="orgheadline21"></a>
 
@@ -334,9 +334,9 @@ Utilisez les commentaires sur les questions ou réponses par exemple pour :
 
 Veillez à *ne pas confondre* **réponses** et **commentaires** :
 
--   la zone de texte « **Votre réponse** » est réservée aux&#x2026; **réponses** qui, donc,
-    sont censées fournir une *solution* à la question posée ;
--   pour demander par exemple des éclaircissements ou des précisions sur la
+-   La zone de texte « **Votre réponse** » est réservée aux&#x2026; **réponses** qui, donc,
+    sont censées fournir une *solution* à la question posée.
+-   Pour demander par exemple des éclaircissements ou des précisions sur la
     question ou sur une de ses réponses, veillez à utiliser les **commentaires** en
     cliquant sur le lien « **ajouter un commentaire** » sous la question ou la
     réponse correspondante.
@@ -355,8 +355,8 @@ Elle présente plusieurs avantages :
     notifications par courriel).
 
 Pour faire figurer ce type de mention, saisissez simplement « `@` » suivi
-(immédiatement) du nom qui apparaît en signature de la contribution à laquelle
-vous voulez répondre.
+(immédiatement) du nom qui apparaît en signature du commentaire auquel vous
+voulez répondre.
 
 # Forme des contributions<a id="custom-id-forme"></a>
 
@@ -386,14 +386,15 @@ réponses et commentaires).
         -   raccourci : <kbd>Ctrl</kbd>+<kbd>k</kbd>
         -   syntaxe :
             -   code **en ligne** : `` `code` ``
-            -   code **hors texte** : laisser 4 espaces en début de chaque ligne
+            -   code **hors texte** : laisser 4 espaces en début de chaque ligne (8 espaces
+                si le code se trouve dans un item de liste)
     -   **image** :
         -   raccourci : <kbd>Ctrl</kbd>+<kbd>g</kbd>
         -   syntaxe : cf. <http://daringfireball.net/projects/markdown/syntax#img>
-    -   **liste numérotée** :
+    -   **liste numérotée (*ordered*)** :
         -   raccourci : <kbd>Ctrl</kbd>+<kbd>o</kbd>
         -   syntaxe : cf. <http://daringfireball.net/projects/markdown/syntax#list>
-    -   **liste non numérotée** :
+    -   **liste non numérotée (*unordered*)** :
         -   raccourci : <kbd>Ctrl</kbd>+<kbd>u</kbd>
         -   syntaxe : cf. <http://daringfireball.net/projects/markdown/syntax#list>
     -   **section/sous-section** (non numérotées) :
@@ -467,8 +468,8 @@ compilé avec `pdflatex` lancé avec l&rsquo;option `-shell-escape`, génère le
 `convert` :
 
 1.  ne doit pas être employée avec le package `geometry` ;
-2.  est actuellement sujette à un bogue qui la rend incompatible avec le package
-    `babel`.
+2.  est actuellement sujette à un [bogue](https://bitbucket.org/martin_scharrer/standalone/issues/16/convert-option-and-babel-package#comment-None) qui la rend incompatible avec le package
+    `babel` (mais il existe [un contournement](http://tex.stackexchange.com/q/263985/18401)).
 
 Au cas où cette méthode échoue (ou ne soit pas adaptée en raison des points
 ci-dessus), [d'autres possibilités existent](http://tex.stackexchange.com/q/11866/18401).
