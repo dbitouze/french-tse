@@ -10,11 +10,11 @@ outil d'entraide à LaTeX :
 Il s'agit d'un site Internet, déclinaison francophone de sites de
 questions et réponses tels que :
   ┌────
-  │ http://stackexchange.com/
-  └────
-et plus particulièrement
-  ┌────
   │ http://tex.stackexchange.com/
+  └────
+ou :
+  ┌────
+  │ http://texwelt.de/
   └────
 
 Sur ce site :
