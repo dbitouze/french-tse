@@ -32,20 +32,24 @@ Web) sont les suivantes :
 1. Un but est de fournir un outil ergonomique et structuré aidant
    à poser des questions claires et ainsi augmenter ses chances
    d'être aidé.
-2. Un autre but est de fournir une base de connaissance sur (La)TeX et
-   permettre ainsi aux futurs visiteurs de pouvoir y consulter des
-   réponses à des questions déjà posées qui soient à la fois
-   « optimales » et faciles à trouver. Pour cela :
+2. Un autre but est de fournir une base de connaissances sur (La)TeX et
+   permettre ainsi aux futurs visiteurs de pouvoir consulter des
+   réponses à des questions déjà posées qui soient à la fois :
+
+   - « optimales » ;
+   - faciles à trouver.
+
+   Pour cela :
    1. les utilisateurs sont invités à formuler leurs contributions
       (questions, réponses, commentaires) de façon claire, précise,
-      concise et structurée : la FAQ du site (cf. ci-dessous) précise
+      concise et structurée : la FAQ du site (cf. ci-dessous) explique
       cela, tant pour le fond que pour la forme ;
-   4. les questions et réponses sont bien mises en évidence et ne sont
+   2. les questions et réponses sont bien mises en évidence et ne sont
       pas mélangées aux commentaires qu'on peut faire sur elles ;
-   5. pour les améliorer, les contributions peuvent être remaniées
+   3. pour les améliorer, les contributions peuvent être remaniées
       a posteriori tant par leurs auteurs que par des utilisateurs plus
       expérimentés ;
-   6. les questions peuvent être marquées avec des mots-clés pertinents
+   4. les questions peuvent être marquées avec des mots-clés pertinents
       afin d'en simplifier l'accès futur et d'organiser le contenu
       accumulé.
 3. Les commentaires sur les contributions sont possibles mais, de
@@ -60,7 +64,7 @@ Web) sont les suivantes :
       à une réponse ;
    2. s'ils sont l'auteur d'une question, à accepter la réponse ou une
       des réponses proposées pour indiquer aux visiteurs ce qui
-      a solutionné leur problème.
+      a résolu leur problème.
 5. Tout ce qui peut distraire de l'essentiel (des réponses à des
    questions) est à éviter, notamment :
    1. les formules de politesse : « Bonjour », « Merci », etc. ;
@@ -92,7 +96,7 @@ Le site texnique.fr est encore en construction :
 - sa traduction n'est pas achevée ;
 - certains bogues ou demandes de fonctionnalités n'ont pas encore été
   traités.
-Pour ceux que cela intéressent, il est possible de suivre et participer
+Pour ceux que cela intéresse, il est possible de suivre et participer
 à son évolution sur https://github.com/dbitouze/french-tse.
 
 Si vous voulez en savoir davantage sur ce site, vous pouvez consulter :
@@ -107,7 +111,7 @@ Si vous voulez en savoir davantage sur ce site, vous pouvez consulter :
   └────
 
 Nous serions très heureux de vous voir participer à ce site et ainsi
-enrichir la base de connaissance francophone sur (La)TeX. Pour cela :
+enrichir la base de connaissances francophone sur (La)TeX. Pour cela :
 
 - si vous possédez déjà un OpenID, vous pouvez directement vous
   connecter par ce biais-là :
