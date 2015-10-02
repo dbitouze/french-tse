@@ -186,7 +186,7 @@ contributions.
 ### Comment rendre mes contributions aussi utiles que possible ?<a id="custom-id-contributions-utiles"></a>
 
 1.  Soyez **clair**, **précis**, **concis**. En particulier, **évitez** :
-    -   **les formules de politesse** (« Bonjour », « Merci. », etc.) ou marques
+    -   **les formules de politesse** (« Bonjour », « Merci », etc.) ou marques
         d&rsquo;opinion (« +1 », etc.) qui ne sont en rien utiles et ont tendance
         à rendre moins lisible, voire brouillent, ce que d&rsquo;autres personnes
         chercheront ici : des solutions (et seulement des solutions) optimales
