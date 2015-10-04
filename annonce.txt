@@ -25,9 +25,9 @@ Sur ce site :
   - formuler des commentaires sur ces questions et réponses ;
 - les visiteurs anonymes peuvent librement consulter le tout.
 
-Les différences les plus notables par rapport à des outils plus
-classiques d'entraide à LaTeX (listes de discussions, newsgroups, forums
-Web) sont les suivantes :
+Les différences les plus notables par rapport à des outils plus classiques
+d'entraide dédiés à LaTeX (listes de discussions, newsgroups, forums Web) sont
+les suivantes :
 
 1. Un but est de fournir un outil ergonomique et structuré aidant
    à poser des questions claires et ainsi augmenter ses chances
