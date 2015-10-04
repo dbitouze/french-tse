@@ -1,7 +1,7 @@
 Bonjour,
 
 l'association ... a le plaisir de vous annoncer la naissance d'un nouvel
-outil d'entraide à LaTeX :
+outil d'entraide dédié à LaTeX :
 
   ┌────
   │ http://texnique.fr/
@@ -101,7 +101,7 @@ Pour ceux que cela intéresse, il est possible de suivre et participer
 
 Si vous voulez en savoir davantage sur ce site, vous pouvez consulter :
 
-- son « à propos » :
+- sa page « à propos » :
   ┌────
   │ http://texnique.fr/osqa/a_propos/ ;
   └────
