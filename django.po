@@ -7708,23 +7708,23 @@ msgstr ""
 
 #: forum_modules/ldapauth/settings.py:4
 msgid "LDAP settings"
-msgstr ""
+msgstr "Paramètres LDAP"
 
 #: forum_modules/ldapauth/settings.py:4
 msgid "LDAP configuration for OSQA"
-msgstr ""
+msgstr "Configuration LDAP pour OSQA"
 
 #: forum_modules/ldapauth/settings.py:7
 msgid "LDAP Server"
-msgstr ""
+msgstr "Serveur LDAP"
 
 #: forum_modules/ldapauth/settings.py:8
 msgid "The hostname of your organization's LDAP server"
-msgstr ""
+msgstr "Le nom d'hôte du serveur LDAP que vous utilisez"
 
 #: forum_modules/ldapauth/settings.py:13
 msgid "Check to use TLS"
-msgstr ""
+msgstr "Valider pour utiliser TLS"
 
 #: forum_modules/ldapauth/settings.py:17
 msgid "DN for binding"
@@ -7762,7 +7762,7 @@ msgstr ""
 
 #: forum_modules/ldapauth/settings.py:37
 msgid "uid field"
-msgstr ""
+msgstr "Champ UID"
 
 #: forum_modules/ldapauth/settings.py:38
 msgid "ldap field that holds the uid (sAMAccountName in AD)"
@@ -7770,7 +7770,7 @@ msgstr ""
 
 #: forum_modules/ldapauth/settings.py:42
 msgid "Name field"
-msgstr ""
+msgstr "Champ « nom »"
 
 #: forum_modules/ldapauth/settings.py:43
 msgid "ldap field that holds the full name (displayName in AD)"
@@ -7799,64 +7799,64 @@ msgstr ""
 #: forum_modules/ldapauth/templates/loginform.html:8
 #: forum_modules/localauth/templates/loginform.html:8
 msgid "Login name"
-msgstr ""
+msgstr "Nom d'utilisateur"
 
 #: forum_modules/ldapauth/templates/loginform.html:16
 #: forum_modules/localauth/templates/loginform.html:16
 msgid "Password"
-msgstr ""
+msgstr "Mot de passe"
 
 #: forum_modules/localauth/forms.py:83
 msgid "Please enter valid username and password (both are case-sensitive)."
-msgstr ""
+msgstr "Veuillez entrer votre nom d'utilisateur et votre mot de passe (les deux champs sont sensibles à la casse)."
 
 #: forum_modules/localauth/forms.py:87
 msgid "Login failed."
-msgstr ""
+msgstr "L'authentification a échoué."
 
 #: forum_modules/localauth/forms.py:91
 msgid "This user is not a valid user"
-msgstr ""
+msgstr "Cet utilisateur n'est pas reconnu"
 
 #: forum_modules/localauth/forms.py:94
 msgid "Please enter username and password"
-msgstr ""
+msgstr "Veuillez entrer votre nom d'utilisateur et votre mot de passe"
 
 #: forum_modules/localauth/forms.py:96
 msgid "Please enter your password"
-msgstr ""
+msgstr "Veuillez entrer votre mot de passe"
 
 #: forum_modules/localauth/forms.py:98
 msgid "Please enter user name"
-msgstr ""
+msgstr "Veuillez entrer votre nom d'utilisateur"
 
 #: forum_modules/localauth/urls.py:6
 msgid "local/"
-msgstr ""
+msgstr "local"
 
 #: forum_modules/localauth/templates/loginform.html:4
 msgid "Enter your local user name and password"
-msgstr ""
+msgstr "Veuillez entrer votre nom d'utilisateur local et votre mot de passe"
 
 #: forum_modules/localauth/templates/loginform.html:4
 msgid "or select your external provider above"
-msgstr ""
+msgstr "Ou bien sélectionnez votre fournisseur externe parmi ceux mentionnés ci-dessus"
 
 #: forum_modules/localauth/templates/loginform.html:27
 msgid "Create account"
-msgstr ""
+msgstr "Créer un compte"
 
 #: forum_modules/localauth/templates/loginform.html:27
 msgid "Forgot your password?"
-msgstr ""
+msgstr "Mot de passe oublié ?"
 
 #: forum_modules/oauthauth/consumer.py:36
 msgid "Error, the oauth token is not on the server"
-msgstr ""
+msgstr "Erreur, le jeton d'authentification est absent du serveur"
 
 #: forum_modules/oauthauth/consumer.py:41
 msgid "Something went wrong! Auth tokens do not match"
-msgstr ""
+msgstr "Quelque chose ne fonctionne pas : les jetons d'authentification sont différents"
 
 #: forum_modules/oauthauth/settings.py:6
 msgid "Twitter consumer key"
