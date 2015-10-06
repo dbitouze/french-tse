@@ -7522,7 +7522,7 @@ msgstr ""
 
 #: forum_modules/exporter/forms.py:11
 msgid "File format"
-msgstr ""
+msgstr "Format de fichier"
 
 #: forum_modules/exporter/forms.py:11
 msgid "File format of the compressed backup"
@@ -7708,23 +7708,23 @@ msgstr ""
 
 #: forum_modules/ldapauth/settings.py:4
 msgid "LDAP settings"
-msgstr ""
+msgstr "Paramètres LDAP"
 
 #: forum_modules/ldapauth/settings.py:4
 msgid "LDAP configuration for OSQA"
-msgstr ""
+msgstr "Configuration LDAP pour OSQA"
 
 #: forum_modules/ldapauth/settings.py:7
 msgid "LDAP Server"
-msgstr ""
+msgstr "Serveur LDAP"
 
 #: forum_modules/ldapauth/settings.py:8
 msgid "The hostname of your organization's LDAP server"
-msgstr ""
+msgstr "Le nom d'hôte du serveur LDAP que vous utilisez"
 
 #: forum_modules/ldapauth/settings.py:13
 msgid "Check to use TLS"
-msgstr ""
+msgstr "Valider pour utiliser TLS"
 
 #: forum_modules/ldapauth/settings.py:17
 msgid "DN for binding"
@@ -7762,7 +7762,7 @@ msgstr ""
 
 #: forum_modules/ldapauth/settings.py:37
 msgid "uid field"
-msgstr ""
+msgstr "Champ UID"
 
 #: forum_modules/ldapauth/settings.py:38
 msgid "ldap field that holds the uid (sAMAccountName in AD)"
@@ -7770,7 +7770,7 @@ msgstr ""
 
 #: forum_modules/ldapauth/settings.py:42
 msgid "Name field"
-msgstr ""
+msgstr "Champ « nom »"
 
 #: forum_modules/ldapauth/settings.py:43
 msgid "ldap field that holds the full name (displayName in AD)"
@@ -7799,64 +7799,64 @@ msgstr ""
 #: forum_modules/ldapauth/templates/loginform.html:8
 #: forum_modules/localauth/templates/loginform.html:8
 msgid "Login name"
-msgstr ""
+msgstr "Nom d'utilisateur"
 
 #: forum_modules/ldapauth/templates/loginform.html:16
 #: forum_modules/localauth/templates/loginform.html:16
 msgid "Password"
-msgstr ""
+msgstr "Mot de passe"
 
 #: forum_modules/localauth/forms.py:83
 msgid "Please enter valid username and password (both are case-sensitive)."
-msgstr ""
+msgstr "Veuillez entrer votre nom d'utilisateur et votre mot de passe (les deux champs sont sensibles à la casse)."
 
 #: forum_modules/localauth/forms.py:87
 msgid "Login failed."
-msgstr ""
+msgstr "L'authentification a échoué."
 
 #: forum_modules/localauth/forms.py:91
 msgid "This user is not a valid user"
-msgstr ""
+msgstr "Cet utilisateur n'est pas reconnu"
 
 #: forum_modules/localauth/forms.py:94
 msgid "Please enter username and password"
-msgstr ""
+msgstr "Veuillez entrer votre nom d'utilisateur et votre mot de passe"
 
 #: forum_modules/localauth/forms.py:96
 msgid "Please enter your password"
-msgstr ""
+msgstr "Veuillez entrer votre mot de passe"
 
 #: forum_modules/localauth/forms.py:98
 msgid "Please enter user name"
-msgstr ""
+msgstr "Veuillez entrer votre nom d'utilisateur"
 
 #: forum_modules/localauth/urls.py:6
 msgid "local/"
-msgstr ""
+msgstr "local"
 
 #: forum_modules/localauth/templates/loginform.html:4
 msgid "Enter your local user name and password"
-msgstr ""
+msgstr "Veuillez entrer votre nom d'utilisateur local et votre mot de passe"
 
 #: forum_modules/localauth/templates/loginform.html:4
 msgid "or select your external provider above"
-msgstr ""
+msgstr "Ou bien sélectionnez votre fournisseur externe parmi ceux mentionnés ci-dessus"
 
 #: forum_modules/localauth/templates/loginform.html:27
 msgid "Create account"
-msgstr ""
+msgstr "Créer un compte"
 
 #: forum_modules/localauth/templates/loginform.html:27
 msgid "Forgot your password?"
-msgstr ""
+msgstr "Mot de passe oublié ?"
 
 #: forum_modules/oauthauth/consumer.py:36
 msgid "Error, the oauth token is not on the server"
-msgstr ""
+msgstr "Erreur, le jeton d'authentification est absent du serveur"
 
 #: forum_modules/oauthauth/consumer.py:41
 msgid "Something went wrong! Auth tokens do not match"
-msgstr ""
+msgstr "Quelque chose ne fonctionne pas : les jetons d'authentification sont différents"
 
 #: forum_modules/oauthauth/settings.py:6
 msgid "Twitter consumer key"
@@ -7923,61 +7923,61 @@ msgstr ""
 
 #: forum_modules/openidauth/consumer.py:61
 msgid "Sorry, but your input is not a valid OpenId"
-msgstr ""
+msgstr "Désolé, mais le texte saisi ne correspond en rien à un OpenId valide"
 
 #: forum_modules/openidauth/consumer.py:151
 msgid "The OpenId authentication request was canceled"
-msgstr ""
+msgstr "L'authentification par OpenId a été annulée"
 
 #: forum_modules/openidauth/consumer.py:153
 msgid "The OpenId authentication failed: "
-msgstr ""
+msgstr "L'authentification par OpenId a échoué :"
 
 #: forum_modules/openidauth/consumer.py:155
 msgid "Setup needed"
-msgstr ""
+msgstr "Un réglage est nécessaire"
 
 #: forum_modules/openidauth/consumer.py:157
 msgid "The OpenId authentication failed with an unknown status: "
-msgstr ""
+msgstr "L'authentification par OpenId a échoué pour une raison indéterminée :"
 
 #: forum_modules/openidauth/templates/openidurl.html:7
 msgid "Enter your OpenId Url"
-msgstr ""
+msgstr "Saisissez votre URL OpenId"
 
 #: forum_modules/project_badges/badges.py:9
 msgid "Bug Buster"
-msgstr ""
+msgstr "Débusqueur de bogues"
 
 #: forum_modules/project_badges/badges.py:10
 #, python-format
 msgid "Got %s upvotes in a question tagged with \"bug\""
-msgstr ""
+msgstr "J'ai %s votes positifs pour une question taggée avec \"bug\""
 
 #: forum_modules/recaptcha/formfield.py:20
 msgid "Invalid captcha"
-msgstr ""
+msgstr "Le captcha ne fonctionne pas"
 
 #: forum_modules/stats/base.py:153
 msgid "Wasn't able to check to the update server."
-msgstr ""
+msgstr "Impossible de vérifier les mises à jour"
 
 #: forum_modules/stats/base.py:162
 msgid "Wasn't able to retreive the update messages."
-msgstr ""
+msgstr "Impossible de relever les messages de mise à jour"
 
 #: forum_modules/stats/base.py:174
 #, python-format
 msgid "%d update messages have been downloaded."
-msgstr ""
+msgstr "%d avertissements de mise à jour ont été relevés"
 
 #: forum_modules/stats/settings.py:8
 msgid "Stats Settings"
-msgstr ""
+msgstr "Préférences statistiques"
 
 #: forum_modules/stats/settings.py:8
 msgid "OSQA Stats Settings."
-msgstr ""
+msgstr "Préférences statistiques OSQA"
 
 #: forum_modules/stats/settings.py:12
 msgid ""
@@ -7987,35 +7987,35 @@ msgstr ""
 
 #: forum_modules/stats/urls.py:7
 msgid "stats/"
-msgstr ""
+msgstr "statistiques"
 
 #: forum_modules/stats/urls.py:7
 msgid "check/"
-msgstr ""
+msgstr "vérification/"
 
 #: forum_modules/stats/views.py:8
 msgid "stats"
-msgstr ""
+msgstr "statistiques"
 
 #: forum_modules/stats/views.py:8
 msgid "Stats Module"
-msgstr ""
+msgstr "Outil statistique"
 
 #: forum_modules/stats/templates/index.html:22
 msgid "Checking for updates"
-msgstr ""
+msgstr "Vérification des mises à jour disponibles"
 
 #: forum_modules/stats/templates/index.html:38
 msgid "Update Checker"
-msgstr ""
+msgstr "Vérificateur de mises à jour"
 
 #: forum_modules/stats/templates/index.html:41
 msgid "Use the OSQA update server to check for updates"
-msgstr ""
+msgstr "Utiliser le serveur OSQA pour vérifier les mises à jour"
 
 #: forum_modules/stats/templates/index.html:46
 msgid "Check for Updates"
-msgstr ""
+msgstr "Vérification des mises à jour"
 
 #: forum_modules/sximporter/importer.py:159
 #, python-format
@@ -8046,24 +8046,24 @@ msgstr ""
 
 #: forum_modules/sximporter/templates/page.html:17
 msgid "Your user id in stack exchange"
-msgstr ""
+msgstr "Votre identifiant chez stack exchange"
 
 #: forum_modules/sximporter/templates/page.html:21
 msgid "Merge users with same user name and email"
-msgstr ""
+msgstr "Fusionner les utilisateurs dotés du même nom et de la même adresse"
 
 #: locale/phrases.py:1
 msgid "Test Phrase 1"
-msgstr ""
+msgstr "Phrase test 1"
 
 #: locale/phrases.py:2
 msgid "Test Phrase 2"
-msgstr ""
+msgstr "Phrase test 2"
 
 #: locale/phrases.py:3
 msgid "Test Phrase 3"
-msgstr ""
+msgstr "Phrase test 3"
 
 #: locale/phrases.py:4
 msgid "Test Phrase n"
-msgstr ""
+msgstr "Phrase test n"
