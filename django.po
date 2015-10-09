@@ -33,7 +33,7 @@ msgstr "longueur de page"
 
 #: forum/feed.py:73 forum/utils/pagination.py:171 forum/views/readers.py:200
 msgid "sort"
-msgstr "trié"
+msgstr ""
 
 #: forum/feed.py:93
 #, python-format
@@ -57,7 +57,7 @@ msgstr "Commentaire de %(cauthor)s sur %(qora)s de  %(pauthor)s"
 #: forum/skins/default/templates/question_list/item.html:15
 #: forum/views/writers.py:268 forum_modules/akismet/startup.py:76
 msgid "answer"
-msgstr "réponse"
+msgstr "Réponse"
 
 #: forum/feed.py:118 forum/models/question.py:17
 #: forum/skins/default/templates/osqaadmin/dashboard.html:19
@@ -570,7 +570,7 @@ msgstr "posée"
 #: forum/actions/node.py:36
 #, python-format
 msgid "%(user)s asked %(question)s"
-msgstr "%(user)s a posé la question : « %(question)s »"
+msgstr "%(user)s a posé la question « %(question)s »"
 
 #: forum/actions/node.py:42 forum/templatetags/node_tags.py:260
 msgid "answered"
@@ -701,7 +701,7 @@ msgstr "a rejoint"
 #: forum/actions/user.py:24
 #, python-format
 msgid "%(user)s %(have_has)s joined the %(app_name)s Q&A community"
-msgstr "%(user)s %(have_has)s a rejoint la communauté de questions/réponses %(app_name)s"
+msgstr "%(user)s %(have_has)s rejoint la communauté de questions/réponses %(app_name)s"
 
 #: forum/actions/user.py:26 forum/actions/user.py:36 forum/actions/user.py:52
 msgid "have"
@@ -718,16 +718,16 @@ msgstr "s'est connecté(e)"
 #: forum/actions/user.py:34
 #, python-format
 msgid "%(user)s %(have_has)s logged in"
-msgstr "%(user)s %(have_has)s s'est connecté(e)"
+msgstr "%(user)s %(have_has)s procédé à la connexion sur le présent site"
 
 #: forum/actions/user.py:40
 msgid "validated e-mail"
-msgstr "adresse de courriel validée"
+msgstr "adresse courriel validée"
 
 #: forum/actions/user.py:50
 #, python-format
 msgid "%(user)s %(have_has)s validated the e-mail %(email)s"
-msgstr "%(user)s %(have_has)s a validé l'adresse de courriel %(email)s"
+msgstr "%(user)s %(have_has)s validé l'adresse courriel %(email)s"
 
 #: forum/actions/user.py:57
 msgid "edited profile"
@@ -821,7 +821,7 @@ msgid ""
 "Congratulations, you have received a badge '%(badge_name)s'. <a href="
 "\"%(badge_url)s\">Find out who has it, too</a>."
 msgstr ""
-"Félicitations, vous avez reçu la distinction '%(badge_name)s'. Allez sur <a href="
+"Félicitations, vous avez reçu la distinction « %(badge_name)s ». Allez sur <a href="
 "\"%(badge_url)s\">Découvrez qui l'a aussi</a>."
 
 #: forum/actions/user.py:191
@@ -974,7 +974,7 @@ msgstr "envoyer un courriel de validation"
 
 #: forum/forms/admin.py:104
 msgid "email address"
-msgstr "adresse de courriel"
+msgstr "adresse courriel"
 
 #: forum/forms/auth.py:22
 msgid "Your account email"
@@ -986,12 +986,12 @@ msgstr "Ce champ doit être rempli"
 
 #: forum/forms/auth.py:25 forum/forms/general.py:106
 msgid "please enter a valid email address"
-msgstr "Veuillez saisir une adresse de courriel valide"
+msgstr "Veuillez saisir une adresse courriel valide"
 
 #: forum/forms/auth.py:33
 msgid "Sorry, but this email is not on our database."
 msgstr ""
-"Désolé, mais cette adresse de courriel n'est pas dans notre base de données."
+"Désolé, mais cette adresse courriel n'est pas dans notre base de données."
 
 #: forum/forms/auth.py:41
 msgid "Current password"
@@ -1011,7 +1011,7 @@ msgstr "ce champ est obligatoire"
 
 #: forum/forms/general.py:43
 msgid "choose a username"
-msgstr "choisissez un nom d'utilisateur"
+msgstr "Choisissez un nom d'utilisateur"
 
 #: forum/forms/general.py:48
 msgid "user name is required"
@@ -1046,11 +1046,11 @@ msgstr "un nom d'utilisateur doit contenir au moins %d caractères"
 
 #: forum/forms/general.py:104
 msgid "your email address"
-msgstr "votre adresse de courriel"
+msgstr "Votre adresse courriel"
 
 #: forum/forms/general.py:105
 msgid "email address is required"
-msgstr "une adresse de courriel est requise"
+msgstr "une adresse courriel est requise"
 
 #: forum/forms/general.py:107
 msgid "this email is already used by someone else, please choose another"
@@ -1179,8 +1179,8 @@ msgid ""
 "enter a brief summary of your revision (e.g. fixed spelling, grammar, "
 "improved style, this field is optional)"
 msgstr ""
-"saisissez un bref résumé de votre modification, par exemple « Orthographe "
-"corrigée », « Grammaire corrigée », « Amélioration du style », etc. (ce champ est facultatif)"
+"Saisissez un bref résumé de votre modification, par exemple « Orthographe "
+"corrigée », « Grammaire corrigée », « Amélioration du style », etc. (ce champ est facultatif)."
 
 #: forum/forms/qanda.py:152
 msgid "Your message:"
@@ -1196,7 +1196,7 @@ msgstr "Adresse courriel (restera confidentielle) :"
 
 #: forum/forms/qanda.py:301
 msgid "this email does not have to be linked to gravatar"
-msgstr "Cette adresse de courriel n'a pas besoin d'être liée à un gravatar"
+msgstr "Cette adresse courriel n'a pas besoin d'être liée à un gravatar"
 
 #: forum/forms/qanda.py:302
 msgid "Real name"
@@ -1231,7 +1231,7 @@ msgstr "Nom affiché"
 #: forum/forms/qanda.py:337
 msgid "this email has already been registered, please use another one"
 msgstr ""
-"cette adresse de courriel a déjà été enregistrée, veuillez en choisir en une autre"
+"cette adresse courriel a déjà été enregistrée, veuillez en choisir en une autre"
 
 #: forum/forms/qanda.py:342
 msgid "Instantly"
@@ -1413,7 +1413,7 @@ msgstr "Logo de l'application"
 
 #: forum/settings/basic.py:13
 msgid "Your site main logo."
-msgstr "Logo principal du site"
+msgstr "Logo principal du site."
 
 #: forum/settings/basic.py:17
 msgid "Favicon"
@@ -1421,7 +1421,7 @@ msgstr "Favicon"
 
 #: forum/settings/basic.py:18
 msgid "Your site favicon."
-msgstr "Favicon de votre site."
+msgstr "Favicon du site."
 
 #: forum/settings/basic.py:22
 msgid "Application title"
@@ -1429,8 +1429,11 @@ msgstr "Titre de l'application"
 
 #: forum/settings/basic.py:23
 msgid "The title of your application that will show in the browsers title bar"
-msgstr ""
-"Le titre de votre application qui apparaîtra dans la barre de titre des navigateurs"
+msgstr "Titre de l'application qui apparaîtra dans la barre de titre des navigateurs."
+
+#: forum/settings/basic.py:2
+msgid "The short name for your application that will show up in many places."
+msgstr "Titre court de l'application qui apparaîtra à plusieurs endroits."
 
 #: forum/settings/basic.py:26
 msgid "Application short name"
@@ -1442,7 +1445,7 @@ msgstr "Mots-clés de l'application"
 
 #: forum/settings/basic.py:31
 msgid "The meta keywords that will be available through the HTML meta tags."
-msgstr "Les méta mots-clés qui seront disponibles à travers les méta mots-clés HTML."
+msgstr "Méta mots-clés qui seront disponibles à travers les méta mots-clés HTML."
 
 #: forum/settings/basic.py:34
 msgid "Application description"
@@ -1469,7 +1472,7 @@ msgid ""
 "The URL provided for users to get support. It can be http: or mailto: or "
 "whatever your preferred support scheme is."
 msgstr ""
-"L'URL fournie aux utilisateurs pour obtenir de l'aide. Cela peut être « http: » ou « mailto: » ou "
+"URL fournie aux utilisateurs pour obtenir de l'aide. Cela peut être « http: » ou « mailto: » ou "
 "tout autre sytème de votre choix."
 
 #: forum/settings/basic.py:48
@@ -1481,21 +1484,21 @@ msgid ""
 "The URL provided for users to contact you. It can be http: or mailto: or "
 "whatever your preferred contact scheme is."
 msgstr ""
-"L'URL fournie aux utilisateurs pour vous contacter. Cela peut être « http: » ou « mailto: » ou "
+"URL fournie aux utilisateurs pour vous contacter. Cela peut être « http: » ou « mailto: » ou "
 "tout autre sytème de votre choix."
 
 #: forum/settings/email.py:7
 msgid "Email settings"
-msgstr "Réglages de courriel"
+msgstr "Réglages courriel"
 
 #: forum/settings/email.py:7
 msgid "Email server and other email related settings."
 msgstr ""
-"Réglages du serveur de courriel et autres réglages liés au courriel."
+"Réglages du serveur courriel et autres réglages liés au courriel."
 
 #: forum/settings/email.py:10
 msgid "E-Mail settings test"
-msgstr "Test des réglages de courriel"
+msgstr "Test des réglages courriel"
 
 #: forum/settings/email.py:11
 msgid "Test the current E-Mail configuration."
@@ -1503,7 +1506,7 @@ msgstr "Test de la configuration actuelle du courriel."
 
 #: forum/settings/email.py:16
 msgid "Email Server"
-msgstr "Serveur de courriel"
+msgstr "Serveur courriel"
 
 #: forum/settings/email.py:17
 msgid "The SMTP server through which your application will be sending emails."
@@ -1603,7 +1606,7 @@ msgstr "Couleur de bordure dans le courriel"
 
 #: forum/settings/email.py:63
 msgid "The outter border color of the email base template"
-msgstr "Couleur de bordure dans le modèle d'envoi de courriels"
+msgstr "Couleur de bordure dans le modèle d'envoi courriels"
 
 #: forum/settings/email.py:67
 msgid "Email Paragraph Style"
@@ -2286,6 +2289,15 @@ msgstr ""
 "Voulez-vous afficher la boîte de bienvenue lors de la première visite d'un "
 "utilisateur sur votre site ?"
 
+#: forum/settings/sidebar.py:15
+msgid "Show interesting tags in the sidebar"
+msgstr "Afficher les mots-clés intéressants dans la barre latérale"
+
+#: forum/settings/sidebar.py:16
+msgid ""
+"Check this if you want to see the interesting tags container in the sidebar."
+msgstr "Cochez si vous voulez voir le conteneur des mots-clés intéressants dans la barre latérale"
+
 #: forum/settings/sidebar.py:20
 msgid "Application intro"
 msgstr "Introduction à l'application"
@@ -2349,6 +2361,10 @@ msgstr "Voulez-vous utiliser un CSS personnalisé ?"
 #: forum/settings/static.py:22
 msgid "Custom CSS"
 msgstr "CSS personnalisé"
+
+#: forum/settings/static.py:31
+msgid "Header and Footer"
+msgstr "Entête et pied de page"
 
 #: forum/settings/static.py:23
 msgid "Your custom CSS."
@@ -2456,7 +2472,7 @@ msgstr "Utiliser des éléments d'en-tête personnalisés"
 
 #: forum/settings/static.py:99
 msgid "Do you want to use custom head elements."
-msgstr "Voulez-vous utiliser des éléments d'en-tête personnalisés."
+msgstr "Voulez-vous utiliser des éléments d'en-tête personnalisés ?"
 
 #: forum/settings/static.py:103
 msgid "Custom Head"
@@ -2541,7 +2557,7 @@ msgstr ""
 
 #: forum/settings/users.py:7
 msgid "Users settings"
-msgstr "Réglages utilisateurs."
+msgstr "Réglages utilisateurs"
 
 #: forum/settings/users.py:7
 msgid "General settings for the OSQA users."
@@ -2691,21 +2707,21 @@ msgstr ""
 
 #: forum/settings/users.py:64
 msgid "Force unique email"
-msgstr "Imposer une adresse de courriel unique"
+msgstr "Imposer une adresse courriel unique"
 
 #: forum/settings/users.py:65
 msgid "Should each user have an unique email."
-msgstr "Chaque utilisateur doit avoir une adresse de courriel unique."
+msgstr "Chaque utilisateur doit avoir une adresse courriel unique."
 
 #: forum/settings/users.py:69
 msgid "Require email validation to..."
-msgstr "Nécessite une validation de l'adresse de courriel à ..."
+msgstr "Nécessite une validation de l'adresse courriel à ..."
 
 #: forum/settings/users.py:70
 msgid ""
 "Which actions in this site, users without a valid email will be prevented "
 "from doing."
-msgstr "Actions sur ce site que les utilisateurs sans adresse de courriel valide ne "
+msgstr "Actions sur ce site que les utilisateurs sans adresse courriel valide ne "
 "pourront pas faire."
 
 #: forum/settings/users.py:72
@@ -2726,11 +2742,11 @@ msgstr "signaler des publications"
 
 #: forum/settings/users.py:77
 msgid "Don't notify to invalid emails"
-msgstr "Ne pas notifier à des adresses de courriel non valides"
+msgstr "Ne pas notifier à des adresses courriel non valides"
 
 #: forum/settings/users.py:78
 msgid "Do not notify users with unvalidated emails."
-msgstr "Ne pas notifier à des utilisateurs avec des adresses de courriel non valides."
+msgstr "Ne pas notifier à des utilisateurs avec des adresses courriel non valides."
 
 #: forum/settings/users.py:82
 msgid "Hold pending posts for X minutes"
@@ -2741,7 +2757,7 @@ msgid ""
 "How much time in minutes a post should be kept in session until the user "
 "logs in or validates the email."
 msgstr "Combien de temps en minutes une publication doit être gardée en mémoire "
-"jusqu'à ce que l'utilisateur se connecte ou valide son adresse de courriel."
+"jusqu'à ce que l'utilisateur se connecte ou valide son adresse courriel."
 
 #: forum/settings/users.py:87
 msgid "Warn about pending posts afer X minutes"
@@ -2752,7 +2768,7 @@ msgid ""
 "How much time in minutes a user that just logged in or validated his email "
 "should be warned about a pending post instead of publishing it automatically."
 msgstr "Pendant combien de temps en minutes un utilisateur qui vient juste de "
-"se connecter ou de valider son adresse de courriel doit être averti d'une publication "
+"se connecter ou de valider son adresse courriel doit être averti d'une publication "
 "en cours d'envoi à la place d'une publication automatique."
 
 #: forum/settings/users.py:92
@@ -2794,11 +2810,11 @@ msgid ""
 "(mystery-man) a simple, cartoon-style silhouetted outline of a personn (does "
 "not vary by email hash)"
 msgstr "(homme-mystère) une simple silhouette d'une personne esquissée "
-"dans le style des dessins animés (toujours le même pour un hachage de courriel donné)"
+"dans le style des dessins animés (toujours le même pour un hachage courriel donné)"
 
 #: forum/settings/users.py:107
 msgid "a geometric pattern based on an email hash"
-msgstr "un motif géométrique basé sur un hachage de l'adresse de courriel"
+msgstr "un motif géométrique basé sur un hachage de l'adresse courriel"
 
 #: forum/settings/users.py:108
 msgid "a generated \"monster\" with different colors, faces, etc"
@@ -2870,6 +2886,36 @@ msgid ""
 "The number of tags to display in the recent tags block in the front page."
 msgstr "Nombre de mots-clés à afficher sur la page d'accueil dans le pavé "
 "des mots-clés les plus récents."
+
+#: forum/settings/view.py:33
+msgid "Show tags in a cloud"
+msgstr "Afficher les mots-clés dans un nuage"
+
+#: forum/settings/view.py:34
+msgid ""
+"If selected the tags in the recent tags widget will be displayed in a cloud."
+msgstr "Si sélectionné, les mots-clés dans un nuage seront afffichés dans un nuage."
+
+#: forum/settings/view.py:38
+msgid "Tags cloud min occurs"
+msgstr "Nombre minimum d'occurrences du nuage de mots-clés"
+
+#: forum/settings/view.py:39 forum/settings/view.py:43
+#: forum/settings/view.py:47 forum/settings/view.py:51
+msgid "Used to calculate the font size of the tags in the cloud widget."
+msgstr "Utilisé pour calculer la taille des caractères du nuage de mots-clés."
+
+#: forum/settings/view.py:42
+msgid "Tags cloud max occurs"
+msgstr "Nombre maximum d'occurrences du nuage de mots-clés"
+
+#: forum/settings/view.py:46
+msgid "Tags cloud min font size"
+msgstr "Taille minimum des caractères du nuage de mots-clés"
+
+#: forum/settings/view.py:50
+msgid "Tags cloud max font size"
+msgstr "Taille maximum des caractères du nuage de mots-clés"
 
 #: forum/settings/view.py:54
 msgid "Recent awards block size"
@@ -3125,7 +3171,7 @@ msgstr "Changez le mot de passe pour votre compte."
 #: forum/skins/default/templates/answer_edit.html:5
 #: forum/skins/default/templates/answer_edit.html:63
 msgid "Edit answer"
-msgstr "Modifier une réponse"
+msgstr "Modifier la réponse"
 
 #: forum/skins/default/templates/answer_edit.html:20
 #: forum/skins/default/templates/answer_edit.html:23
@@ -3156,7 +3202,7 @@ msgstr "retour"
 #: forum/skins/default/templates/question_edit.html:98
 #: forum/skins/default/templates/revisions.html:54
 msgid "revision"
-msgstr "révision"
+msgstr "Révision"
 
 #: forum/skins/default/templates/answer_edit.html:72
 #: forum/skins/default/templates/question_edit.html:102
@@ -3252,7 +3298,7 @@ msgid ""
 "Remember, your question will not be published until you validate your email."
 msgstr ""
 "Souvenez-vous, votre question ne sera publiée qu'après que vous ayez validé votre "
-"adresse de courriel."
+"adresse courriel."
 
 
 #: forum/skins/default/templates/ask.html:102
@@ -3525,7 +3571,11 @@ msgid ""
 "though.  To get the full syntax documentation, go to John Gruber's <a href="
 "\"http://daringfireball.net/projects/markdown/syntax\" rel=\"nofollow"
 "\">Markdown Syntax</a> page"
-msgstr ""
+msgstr "Ce document décrit quelques-uns des aspects les plus importants de "
+"Markdown (pour les auteurs, s'entend). La syntaxe est cependant beaucoup plus "
+"riche que celle mentionnée ici. La documentation complète de la syntaxe se "
+"trouve sur <a href=\"http://daringfireball.net/projects/markdown/syntax\" "
+"rel=\"nofollow\">la page de son auteur</a>, John Gruber."
 
 #: forum/skins/default/templates/markdown_help.html:20
 msgid "Headers"
@@ -3859,11 +3909,11 @@ msgstr ""
 "fonctionnement du site."
 
 #: forum/skins/default/templates/privacy.html:23
-msgid "personnal Information"
-msgstr "informations personnelles"
+msgid "Personal Information"
+msgstr "Informations personnelles"
 
 #: forum/skins/default/templates/privacy.html:25
-msgid "details on personnal information policies"
+msgid "details on personal information policies"
 msgstr ""
 "Les utilisateurs peuvent décider de partager leurs informations personnelles "
 "ou non. Le site n'affichera jamais d'informations personnelles sans "
@@ -3957,11 +4007,11 @@ msgstr "avec les mots-clés"
 
 #: forum/skins/default/templates/question.html:304
 msgid "question asked"
-msgstr "Question posée"
+msgstr "Question posée "
 
 #: forum/skins/default/templates/question.html:307
 msgid "question was seen"
-msgstr "Question vue"
+msgstr "Question vue "
 
 #: forum/skins/default/templates/question.html:307
 msgid "times"
@@ -3969,7 +4019,7 @@ msgstr "fois"
 
 #: forum/skins/default/templates/question.html:310
 msgid "last updated"
-msgstr "Dernière mise à jour le"
+msgstr "Dernière mise à jour "
 
 #: forum/skins/default/templates/question.html:316
 msgid "Related questions"
@@ -4085,7 +4135,7 @@ msgstr "Suivre cette question"
 
 #: forum/skins/default/templates/subscription_status.html:4
 msgid "By Email"
-msgstr "Par courriel"
+msgstr "Par courriel "
 
 #: forum/skins/default/templates/subscription_status.html:9
 msgid "You were automatically subscribed to this question."
@@ -4102,7 +4152,7 @@ msgstr "Vous n'êtes pas abonné(e) à cette question."
 #: forum/skins/default/templates/subscription_status.html:19
 #: forum/views/commands.py:526
 msgid "unsubscribe me"
-msgstr "me désabonner"
+msgstr "Me désabonner"
 
 #: forum/skins/default/templates/subscription_status.html:21
 #: forum/views/commands.py:526
@@ -4129,7 +4179,7 @@ msgstr ""
 
 #: forum/skins/default/templates/subscription_status.html:32
 msgid "By RSS"
-msgstr "Par RSS"
+msgstr "Par RSS "
 
 #: forum/skins/default/templates/subscription_status.html:35
 msgid "subscribe to answers"
@@ -4222,9 +4272,9 @@ msgid ""
 "this community you're most interested in, and will help you become an "
 "involved participant in this community."
 msgstr ""
-"Veuillez définir le nom affiché et de confirmer votre adresse de courriel. Une adresse valide "
-"est nécessaire pour recevoir des notifications sur l'activité des domaines de "
-"cette communauté qui vous intéressent le plus. Cela vous aidera en outre à devenir un(e) "
+"Veuillez définir le nom affiché et confirmer votre adresse courriel. Une adresse valide "
+"est nécessaire pour recevoir des notifications sur l'activité de "
+"cette communauté dans les domaines qui vous intéressent le plus. Cela vous aidera en outre à devenir un(e) "
 "participant(e) impliqué(e) dans cette communauté."
 
 #: forum/skins/default/templates/auth/complete.html:22
@@ -4233,7 +4283,7 @@ msgstr "Ce compte existe déjà, veuillez en choisir un autre."
 
 #: forum/skins/default/templates/auth/complete.html:85
 msgid "create account"
-msgstr "créez un compte"
+msgstr "Créer un compte"
 
 #: forum/skins/default/templates/auth/mail_already_validated.html:5
 #: forum/skins/default/templates/auth/mail_already_validated.html:12
@@ -4251,7 +4301,7 @@ msgstr "%(prefix)s  Nouvelle question sur %(app_name)s"
 
 #: forum/skins/default/templates/auth/mail_validation.html:14
 msgid "Please use the following link to help us verify your email address:"
-msgstr "Le lien ci-dessus va nous aider à vérifier votre adresse de courriel:"
+msgstr "Le lien ci-dessus va nous aider à vérifier votre adresse courriel:"
 
 #: forum/skins/default/templates/auth/mail_validation.html:16
 #: forum/skins/default/templates/auth/welcome_email.html:26
@@ -4313,7 +4363,7 @@ msgstr ""
 
 #: forum/skins/default/templates/auth/signin.html:48
 msgid "Validate my email after I login."
-msgstr "Valider mon adresse de courriel quand je serai connecté"
+msgstr "Valider mon adresse courriel quand je serai connecté"
 
 #: forum/skins/default/templates/auth/signin.html:106
 msgid "Click"
@@ -4410,7 +4460,7 @@ msgstr ""
 "\n"
 "Si vous rencontrez des difficultés à accéder à votre compte, ou si vous avez "
 "oublié votre mot de passe, vous pouvez demander une clé de connexion "
-"temporaire ici. Remplissez votre adresse de courriel et nous vous ferons parvenir "
+"temporaire ici. Remplissez votre adresse courriel et nous vous ferons parvenir "
 "un lien d'accès temporaire qui vous permettra d'accéder à votre compte. Cette "
 "connexion ne sera valable qu'une seule fois et pendant un temps "
 "limité.\n"
@@ -4454,7 +4504,7 @@ msgstr ""
 
 #: forum/skins/default/templates/auth/welcome_email.html:24
 msgid "The following link will help us verify your email address:"
-msgstr "Le lien ci-dessus va nous aider à vérifier votre adresse de courriel :"
+msgstr "Le lien ci-dessus va nous aider à vérifier votre adresse courriel :"
 
 #: forum/skins/default/templates/feeds/rss_answer_title.html:2
 #, python-format
@@ -4532,7 +4582,7 @@ msgstr "Utiliser un commentaire préparé"
 #: forum/skins/default/templates/node/comment_skeleton.html:41
 #: forum/skins/default/templates/node/comments.html:19
 msgid "Edit comment"
-msgstr "Modifier un commentaire"
+msgstr "Modifier le commentaire"
 
 #: forum/skins/default/templates/node/comment_skeleton.html:43
 #: forum/skins/default/templates/node/comments.html:23
@@ -4621,7 +4671,7 @@ msgstr "Je n'aime pas cette publication (cliquer à nouveau pour annuler)"
 #: forum/skins/default/templates/node/wiki_symbol.html:5
 #, python-format
 msgid "This %(post_type)s is marked \"community wiki\"."
-msgstr "Ce %(post_type)s est marqué comme « Wiki »."
+msgstr "Cette %(post_type)s est marqué comme « Wiki »."
 
 #: forum/skins/default/templates/node/wiki_symbol.html:7
 #, python-format
@@ -5151,7 +5201,7 @@ msgstr "Êtes-vous sûr de vouloir revenir à la configuration par défaut ?"
 #: forum/skins/default/templates/osqaadmin/dashboard.html:49
 #: forum/skins/default/templates/osqaadmin/index.html:51
 msgid "revert to defaults"
-msgstr "revenir aux réglages par défaut"
+msgstr "Revenir aux réglages par défaut"
 
 #: forum/skins/default/templates/osqaadmin/dashboard.html:52
 #: forum/skins/default/templates/osqaadmin/index.html:54
@@ -5161,7 +5211,7 @@ msgstr "Êtes-vous sûr de vouloir exécuter le mode initialisation ?"
 #: forum/skins/default/templates/osqaadmin/dashboard.html:52
 #: forum/skins/default/templates/osqaadmin/index.html:54
 msgid "go bootstrap"
-msgstr "aller à l'initialisation"
+msgstr "Aller à l'initialisation"
 
 #: forum/skins/default/templates/osqaadmin/dashboard.html:66
 #: forum/skins/default/templates/osqaadmin/index.html:71
@@ -5293,12 +5343,12 @@ msgstr "Recalculer"
 #: forum/skins/default/templates/osqaadmin/mail_test.html:11
 #, python-format
 msgid "%(prefix)s Your email settings are correct: %(app_name)s"
-msgstr "%(prefix)s  Vos paramètres de courriel sont corrects : %(app_name)s"
+msgstr "%(prefix)s  Vos paramètres courriel sont corrects : %(app_name)s"
 
 #: forum/skins/default/templates/osqaadmin/mail_test.html:14
 #: forum/skins/default/templates/osqaadmin/mail_test.html:18
 msgid "If you see this content your E-Mail settings are correct."
-msgstr "Si vous voyez ce contenu, les réglages de courriel sont corrects."
+msgstr "Si vous voyez ce contenu, les réglages courriel sont corrects."
 
 #: forum/skins/default/templates/osqaadmin/maintenance.html:7
 msgid ""
@@ -5651,7 +5701,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"        Un envoi de courriel a été tenté vers\n"
+"        Un envoi courriel a été tenté vers\n"
 "    "
 
 #: forum/skins/default/templates/osqaadmin/test_email_settings.html:10
@@ -5662,7 +5712,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"        Veuillez vérifier votre boîte de réception de courriel : si vous avez "
+"        Veuillez vérifier votre boîte de réception courriel : si vous avez "
 "reçu le nouveau message de test, vos réglages SMTP sont corrects.\n"
 "    "
 #: forum/skins/default/templates/osqaadmin/test_email_settings.html:16
@@ -5696,7 +5746,7 @@ msgstr "Cette question a une réponse acceptée"
 
 #: forum/skins/default/templates/question_list/item.html:19
 msgid "view"
-msgstr "vue"
+msgstr "Vue"
 
 #: forum/skins/default/templates/question_list/related_tags.html:6
 msgid "Related tags"
@@ -5810,6 +5860,11 @@ msgstr "Questions sans réponse"
 msgid "All Questions"
 msgstr "Toutes les questions"
 
+#: forum/skins/default/templates/questions.html:12
+#, python-format
+msgid "Questions and answers about %(tag)s on %(app_title)s"
+msgstr "Questions et réponses concernant %(tag)s sur %(app_title)s"
+
 #: forum/skins/default/templates/sidebar/markdown_help.html:3
 msgid "Markdown Basics"
 msgstr "Bases de Markdown"
@@ -5877,7 +5932,7 @@ msgstr "Modifier le profil de l'utilisateur"
 
 #: forum/skins/default/templates/users/edit.html:46
 msgid "image associated with your email address"
-msgstr "image associée à votre adresse de courriel"
+msgstr "image associée à votre adresse courriel"
 
 #: forum/skins/default/templates/users/edit.html:46
 msgid "gravatar"
@@ -5912,8 +5967,8 @@ msgid "Administrator"
 msgstr "Administrateur"
 
 #: forum/skins/default/templates/users/info.html:44
-msgid "Moderateur"
-msgstr ""
+msgid "Moderator"
+msgstr "Modérateur"
 
 #: forum/skins/default/templates/users/info.html:54
 msgid "real name"
@@ -6011,7 +6066,7 @@ msgstr "Message public"
 #: forum/skins/default/templates/users/report_user.html:13
 #: forum/skins/default/templates/users/suspend_user.html:26
 msgid "This message will be visible through the user activity log."
-msgstr "Ce message sera visible via le log de l'activité de l'utilisateur"
+msgstr "Ce message sera visible dans le log de l'activité de l'utilisateur."
 
 #: forum/skins/default/templates/users/signature.html:11
 #: forum/skins/default/templates/users/signature.html:17
@@ -6262,7 +6317,7 @@ msgid "Suspend user"
 msgstr "Suspendre un utilisateur"
 
 #: forum/skins/default/templates/users/suspend_user.html:8
-msgid "Indefinetly"
+msgid "Indefinitely"
 msgstr "Indéfiniment"
 
 #: forum/skins/default/templates/users/suspend_user.html:9
@@ -6880,6 +6935,10 @@ msgstr "marquer des publications comme Wiki communautaire" # TODO ?
 msgid "cancel a community wiki post"
 msgstr "Annuler une publication du Wiki communautaire" # TODO ?
 
+#: forum/views/commands.py:453 forum/views/commands.py:456
+msgid "convert answers to comments"
+msgstr "Convertir des réponses en commentaires"
+
 #: forum/views/commands.py:459
 #, python-format
 msgid "Answer by %(uname)s: %(snippet)s..."
@@ -6969,7 +7028,7 @@ msgstr "réponses et commentaires les plus récemment mis à jours seront affich
 #: forum/views/readers.py:77 forum/views/readers.py:336
 #: forum/views/users.py:42 forum/views/users.py:53
 msgid "oldest"
-msgstr "Les plus anciens"
+msgstr "Anciens"
 
 #: forum/views/readers.py:77 forum/views/users.py:53
 msgid "oldest answers"
@@ -7001,7 +7060,7 @@ msgstr "nom"
 
 #: forum/views/readers.py:85
 msgid "by name"
-msgstr "par nom"
+msgstr "Par nom"
 
 #: forum/views/readers.py:85
 msgid "sorted alphabetically"
@@ -7013,7 +7072,7 @@ msgstr "utilisé"
 
 #: forum/views/readers.py:86
 msgid "by popularity"
-msgstr "par ordre de popularité"
+msgstr "Par ordre de popularité"
 
 #: forum/views/readers.py:86
 msgid "sorted by frequency of tag use"
@@ -7075,16 +7134,16 @@ msgstr "classement"
 
 #: forum/views/readers.py:280
 msgid "relevance"
-msgstr ""
+msgstr "Pertinence"
 
 #: forum/views/readers.py:280
 msgid "most relevant questions"
-msgstr "questions les plus pertinentes"
+msgstr "Questions les plus pertinentes"
 
 #: forum/views/readers.py:288 forum/views/readers.py:290
 #, python-format
 msgid "questions matching '%(keywords)s'"
-msgstr "questions contenant '%(keywords)s'"
+msgstr "question(s) contenant « %(keywords)s »"
 
 #: forum/views/readers.py:443
 #, python-format
@@ -7093,23 +7152,23 @@ msgstr "Révision n° %(rev_number)d"
 
 #: forum/views/users.py:40
 msgid "sorted by reputation"
-msgstr "tri par réputation"
+msgstr "Tri par réputation"
 
 #: forum/views/users.py:41
 msgid "recent"
-msgstr "Récent"
+msgstr "Récents"
 
 #: forum/views/users.py:41
 msgid "newest members"
-msgstr "membres les plus récents"
+msgstr "Membres les plus récents"
 
 #: forum/views/users.py:42
 msgid "last"
-msgstr "dernier"
+msgstr "Dernier"
 
 #: forum/views/users.py:42
 msgid "oldest members"
-msgstr "membres les plus anciens"
+msgstr "Membres les plus anciens"
 
 #: forum/views/users.py:43
 msgid "by username"
@@ -7117,7 +7176,7 @@ msgstr "Par nom d'utilisateur"
 
 #: forum/views/users.py:43
 msgid "sorted by username"
-msgstr "tri par nom d'utilisateur"
+msgstr "Tri par nom d'utilisateur"
 
 #: forum/views/users.py:74
 msgid "Online Users"
