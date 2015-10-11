@@ -12,9 +12,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-06 08:33+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-04-08 11:32-0400\n"
+"PO-Revision-Date: 2015-10-06 08:33+0200\n"
+"Last-Translator: Denis Bitouzé <denis.bitouze@lmpa.univ-littoral.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgstr "longueur de page"
 
 #: forum/feed.py:73 forum/utils/pagination.py:171 forum/views/readers.py:200
 msgid "sort"
-msgstr ""
+msgstr "trié"
 
 #: forum/feed.py:93
 #, python-format
@@ -78,12 +78,12 @@ msgid "about"
 msgstr "À propos"
 
 #: forum/registry.py:29
-msgid "login"
-msgstr "Connexion"
-
-#: forum/registry.py:34
 msgid "logout"
 msgstr "Déconnexion"
+
+#: forum/registry.py:34
+msgid "login"
+msgstr "Connexion"
 
 #: forum/registry.py:46
 msgid "administration"
@@ -506,7 +506,7 @@ msgstr ""
 #: forum/actions/meta.py:39
 #, python-format
 msgid "%(user)s %(vote_desc)s %(post_desc)s"
-msgstr ""
+msgstr "%(user)s %(vote_desc)s %(post_desc)s"
 
 #: forum/actions/meta.py:58
 msgid "voted up"
@@ -543,7 +543,7 @@ msgstr "sa" # TODO
 msgid ""
 "%(user)s accepted %(answerer)s answer on %(asker)s question %(question)s"
 msgstr ""
-"%(user)s a accepté la réponse publiée par %(answerer)s pour %(asker)s question « %(question)s »"
+"%(user)s a accepté la réponse publiée par %(answerer)s pour la question « %(question)s » posée par %(asker)s"
 
 #: forum/actions/meta.py:172
 #, python-format
@@ -579,11 +579,11 @@ msgstr "Publiée"
 #: forum/actions/node.py:57
 #, python-format
 msgid "%(user)s answered %(asker)s on %(question)s"
-msgstr "%(user)s a répondu à la question « %(question)s » de %(asker)s"
+msgstr "%(user)s a répondu à la question « %(question)s » posée par %(asker)s"
 
 #: forum/actions/node.py:64
 msgid "commented"
-msgstr ""
+msgstr "commenté"
 
 #: forum/actions/node.py:72
 #, python-format
@@ -645,16 +645,17 @@ msgstr "%(user)s a converti en commentaire une réponse à la %(question)s"
 #: forum/actions/node.py:203
 #, python-format
 msgid "%(user)s converted comment on %(question)s into an answer"
-msgstr ""
+msgstr "%(user)s a converti en réponse un commentaire à la question « %(question)s »"
 
 #: forum/actions/node.py:227
 #, python-format
 msgid "%(user)s converted comment on %(question)s to a new question"
-msgstr "%(user)s a converti en nouvelle question un commentaire à la question « %(question)s »"
+msgstr ""
+"%(user)s a converti en nouvelle question un commentaire à la question « %(question)s »"
 
 #: forum/actions/node.py:233
 msgid "converted to question"
-msgstr ""
+msgstr "converti en question"
 
 #: forum/actions/node.py:258
 #, python-format
@@ -669,7 +670,7 @@ msgstr "wikifié"
 #: forum/actions/node.py:276
 #, python-format
 msgid "%(user)s marked %(node)s as community wiki."
-msgstr "%(user)s a marqué %(node)s comme wiki communautaire."
+msgstr "%(user)s a marqué %(node)s comme Wiki communautaire."
 
 #: forum/actions/page.py:6
 msgid "created"
@@ -758,7 +759,7 @@ msgstr "Merci"
 #: forum/actions/user.py:79
 #, python-format
 msgid "You have been penalized in %s reputation points."
-msgstr "Vous avez été pénalisé de %s points de réputation."
+msgstr "Vous avez avez perdu %s points de réputation."
 
 #: forum/actions/user.py:82
 #, python-format
@@ -777,8 +778,7 @@ msgid ""
 "%(user)s awarded an extra %(value)s reputation points to %(users)s: "
 "%(message)s"
 msgstr ""
-"%(user)s a donné %(value)s point(s) de réputation à %(users)s :"
-"%(message)s"
+"%(user)s a donné %(value)s point(s) de réputation à %(users)s : %(message)s"
 
 #: forum/actions/user.py:96
 #, python-format
@@ -814,7 +814,7 @@ msgstr "%(user)s a donné %(value)s points de réputation à %(users)s"
 #: forum/actions/user.py:132
 #, python-format
 msgid "%(user)s penalised %(users)s in %(value)s reputation points"
-msgstr "%(user)s a pénalisé %(value)s de points de réputation à %(users)s"
+msgstr "%(user)s a pénalisé %(users)s de %(value)s de points de réputation"
 
 #: forum/actions/user.py:140
 msgid "was awarded"
@@ -891,7 +891,7 @@ msgstr "Veuillez utiliser la notation avec points pour les adresses IP"
 
 #: forum/forms/admin.py:32
 msgid "Allow ips"
-msgstr "Autoriser les IP"
+msgstr "IP autorisées"
 
 #: forum/forms/admin.py:33
 msgid ""
@@ -1024,19 +1024,19 @@ msgstr "un nom d'utilisateur est requis"
 
 #: forum/forms/general.py:49
 msgid "sorry, this name is taken, please choose another"
-msgstr "désolé, ce nom est pris. Veuillez en choisir un autre"
+msgstr "Désolé, ce nom est pris. Veuillez en choisir un autre"
 
 #: forum/forms/general.py:50
 msgid "sorry, this name is not allowed, please choose another"
-msgstr "désolé, ce nom n'est pas autorisé. Veuillez en choisir un autre"
+msgstr "Désolé, ce nom n'est pas autorisé. Veuillez en choisir un autre"
 
 #: forum/forms/general.py:51
 msgid "sorry, there is no user with this name"
-msgstr "désolé, il n'y a pas d'utilisateur avec ce nom"
+msgstr "Désolé, il n'y a pas d'utilisateur avec ce nom"
 
 #: forum/forms/general.py:52
 msgid "sorry, we have a serious error - user name is taken by several users"
-msgstr "désolé, nous avons un probleme sérieux : ce nom d'utilisateur est déjà pris par plusieurs utilisateurs"
+msgstr "Désolé, nous avons un probleme sérieux : ce nom d'utilisateur est déjà pris par plusieurs utilisateurs"
 
 #: forum/forms/general.py:53
 msgid ""
@@ -1059,15 +1059,15 @@ msgstr "une adresse courriel est requise"
 
 #: forum/forms/general.py:107
 msgid "this email is already used by someone else, please choose another"
-msgstr "cette adresse courriel est déjà utilisée par quelqu'un d'autre. . Veuillez en choisir une autre"
+msgstr "cette adresse courriel est déjà utilisée par quelqu'un d'autre. Veuillez en choisir une autre"
 
 #: forum/forms/general.py:131
 msgid "Your real name"
-msgstr "Votre véritable nom"
+msgstr "Votre nom véritable"
 
 #: forum/forms/general.py:136
 msgid "Real name is required"
-msgstr "Un véritable nom est requis"
+msgstr "Un nom véritable est requis"
 
 #: forum/forms/general.py:158
 msgid "choose password"
@@ -1710,8 +1710,10 @@ msgid "About page text"
 msgstr "Texte de la page « À propos »"
 
 #: forum/settings/about.py:26
-msgid "The about page."
-msgstr "Page « À propos »"
+msgid "\n"
+"The about page.\n"
+msgstr "\n"
+"Page « À propos ».\n"
 
 #: forum/settings/form.py:5
 msgid "Form settings"
@@ -3160,7 +3162,7 @@ msgstr "si vous pensez que vous ne devriez pas voir cette erreur, veuillez "
 #: forum/skins/default/templates/403.html:23
 #: forum/skins/default/templates/404.html:31
 msgid "report this problem"
-msgstr "signaler ce problème"
+msgstr "signaler ce problème."
 
 #: forum/skins/default/templates/403.html:29
 msgid "to home page"
@@ -3561,7 +3563,7 @@ msgid ""
 msgstr ""
 "\n"
 "<span class='big strong'>Cher %(user_name)s</span>, nous attendons avec "
-"impatience vos commentaires. Merci de saisir ci-dessous et nous envoyer votre message."
+"impatience vos commentaires. Merci de les saisir ci-dessous et de nous envoyer votre message."
 
 #: forum/skins/default/templates/feedback.html:25
 msgid ""
@@ -3578,6 +3580,10 @@ msgstr ""
 #: forum/skins/default/templates/feedback.html:42
 msgid "(this field is required)"
 msgstr "(ce champ est requis)"
+
+#: forum/skins/default/templates/feedback.html:51
+msgid "Are you a human?"
+msgstr "Êtes-vous un humain ?"
 
 #: forum/skins/default/templates/feedback.html:53
 msgid "(wrong captcha)"
@@ -3651,8 +3657,8 @@ msgid ""
 "\">Markdown Syntax</a> page"
 msgstr "Ce document décrit quelques-uns des aspects les plus importants de "
 "Markdown (pour les auteurs, s'entend). La syntaxe est cependant beaucoup plus "
-"riche que celle mentionnée ici. La documentation complète de la syntaxe se "
-"trouve sur <a href=\"http://daringfireball.net/projects/markdown/syntax\" "
+"riche que celle mentionnée ici. Sa documentation complète se trouve sur "
+"<a href=\"http://daringfireball.net/projects/markdown/syntax\" "
 "rel=\"nofollow\">la page de son auteur</a>, John Gruber."
 
 #: forum/skins/default/templates/markdown_help.html:20
@@ -3704,9 +3710,9 @@ msgid ""
 "the text document.  In both cases, the final, fully formatted, document "
 "looks the same."
 msgstr ""
-"Ce que vous choisissez est une affaire de style. Quel que soit ce que vous trouvez "
-"le mieux dans le document sous forme de texte texte, le document final, complètement formaté, "
-"aura le même aspect dans les deux cas."
+"Ce que vous choisissez est une affaire de goût. Quel que soit votre choix "
+"dans le document sous forme de texte, le document final "
+"aura le même rendu dans les deux cas."
 
 #: forum/skins/default/templates/markdown_help.html:80
 msgid "Paragraphs"
@@ -6137,8 +6143,9 @@ msgid "No favorite questions to display."
 msgstr "Aucune question favorite à afficher."
 
 #: forum/skins/default/templates/users/report_user.html:4
+#: forum/skins/default/templates/users/info.html:107
 msgid "Report user"
-msgstr "Signaler un utilisateur"
+msgstr "Signaler l'utilisateur"
 
 #: forum/skins/default/templates/users/report_user.html:7
 #: forum/skins/default/templates/users/suspend_user.html:20
@@ -8771,8 +8778,10 @@ msgid "Robots.txt file"
 msgstr "Fichier robots.txt"
 
 #: forum_modules/robotstxt/settings.py:21
-msgid "The robots.txt file search engine spiders will see."
-msgstr "Fichier robots.txt que les moteurs de recherche vont voir."
+msgid "\n"
+"The robots.txt file search engine spiders will see.\n"
+msgstr "\n"
+"Fichier robots.txt que les moteurs de recherche vont voir.\n"
 
 #: forum_modules/sximporter/importer.py:159
 #, python-format
