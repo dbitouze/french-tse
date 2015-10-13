@@ -4382,7 +4382,7 @@ msgstr "retirer « %(tag_name)s » de la liste des mots-clés ignorés"
 #: forum/skins/default/templates/tag_selector.html:40
 #: forum/skins/default/templates/question_list/tag_selector.html:45
 msgid "keep ignored questions hidden"
-msgstr "garder les questions ignorées cachées"
+msgstr "garder masquées les questions ignorées"
 
 #: forum/skins/default/templates/tags.html:6
 #: forum/skins/default/templates/tags.html:29
@@ -4726,8 +4726,7 @@ msgid ""
 msgstr ""
 "\n"
 "    Si vous appréciez cette réponse, vous pouvez récompenser %(awarded_user)s "
-"avec des points de "
-"réputation.\n"
+"avec des points de réputation.\n"
 "    "
 
 #: forum/skins/default/templates/node/award_points.html:10
@@ -4800,7 +4799,7 @@ msgstr "Convertir le commentaire en question"
 
 #: forum/skins/default/templates/node/comment_skeleton.html:15
 msgid "characters left"
-msgstr "caractères restant"
+msgstr "caractères restants"
 
 #: forum/skins/default/templates/node/comment_skeleton.html:17
 msgid " comment"
@@ -4854,7 +4853,7 @@ msgid ""
 "Please select a reason bellow or use the text box to input your own reason."
 msgstr ""
 "Veuillez choisir une des raisons ci-dessous ou utiliser la zone de texte pour "
-"indiquer la vôtre."
+"en formuler une autre."
 
 #: forum/skins/default/templates/node/vote_buttons.html:3
 msgid "I like this post (click again to cancel)"
@@ -5248,7 +5247,7 @@ msgstr ""
 "\n"
 " %(question_author)s vient de publier une nouvelle question sur "
 "%(safe_app_name)s, intitulée « %(question_title)s » et marquée des mots-clés "
-"%(question_tags)s:\n"
+"%(question_tags)s :\n"
 
 #: forum/skins/default/templates/notifications/user_reported.html:14
 #, python-format
@@ -5396,7 +5395,7 @@ msgstr ""
 #: forum/skins/default/templates/osqaadmin/dashboard.html:49
 #: forum/skins/default/templates/osqaadmin/index.html:51
 msgid "Are you sure you want to revert to the defaults?"
-msgstr "Êtes-vous sûr de vouloir revenir à la configuration par défaut ?"
+msgstr "Êtes-vous sûr de vouloir revenir aux réglages par défaut ?"
 
 #: forum/skins/default/templates/osqaadmin/dashboard.html:49
 #: forum/skins/default/templates/osqaadmin/index.html:51
@@ -5522,7 +5521,7 @@ msgstr "Publier"
 
 #: forum/skins/default/templates/osqaadmin/flagged_posts.html:8
 msgid "This are the posts that have been flagged by users."
-msgstr "Ces publications ont été marquées par les utilisateurs."
+msgstr "Ces publications ont été signalées par des utilisateurs."
 
 #: forum/skins/default/templates/osqaadmin/index.html:17
 msgid "Site statistics"
@@ -5901,7 +5900,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"        Un envoi courriel a été tenté vers\n"
+"        Un envoi de courriel a été tenté vers\n"
 "    "
 
 #: forum/skins/default/templates/osqaadmin/test_email_settings.html:10
@@ -5955,13 +5954,6 @@ msgstr "Vue"
 msgid "Related tags"
 msgstr "Mots-clés associés"
 
-#: forum/skins/default/templates/question_list/related_tags.html:9
-#: forum/skins/default/templates/question_list/tag_selector.html:14
-#: forum/skins/default/templates/question_list/tag_selector.html:32
-#, python-format
-msgid "see questions tagged '%(tag_name)s'"
-msgstr "Voir les questions ayant le mot-clé « %(tag_name)s »"
-
 #: forum/skins/default/templates/question_list/sort_tabs.html:4
 msgid "most recently updated questions"
 msgstr "Questions les plus récemment mises à jour"
@@ -6007,41 +5999,6 @@ msgstr "Se désabonner"
 msgid "Last checked"
 msgstr "Dernière vérification"
 
-#: forum/skins/default/templates/question_list/tag_selector.html:7
-#: forum/skins/nuxeo/templates/tag_selector.html:4
-#: forum/skins/nuxeo/templates/question_list/tag_selector.html:6
-msgid "Interesting tags"
-msgstr "Mots-clés intéressants"
-
-#: forum/skins/default/templates/question_list/tag_selector.html:18
-#: forum/skins/nuxeo/templates/tag_selector.html:14
-#: forum/skins/nuxeo/templates/question_list/tag_selector.html:17
-#, python-format
-msgid "remove '%(tag_name)s' from the list of interesting tags"
-msgstr "retirer « %(tag_name)s » de la liste des mots-clés intéressants"
-
-#: forum/skins/default/templates/question_list/tag_selector.html:24
-#: forum/skins/default/templates/question_list/tag_selector.html:42
-#: forum/skins/nuxeo/templates/tag_selector.html:20
-#: forum/skins/nuxeo/templates/tag_selector.html:37
-#: forum/skins/nuxeo/templates/question_list/tag_selector.html:23
-#: forum/skins/nuxeo/templates/question_list/tag_selector.html:41
-msgid "Add"
-msgstr "Ajouter"
-
-#: forum/skins/default/templates/question_list/tag_selector.html:25
-#: forum/skins/nuxeo/templates/tag_selector.html:21
-#: forum/skins/nuxeo/templates/question_list/tag_selector.html:24
-msgid "Ignored tags"
-msgstr "Mots-clés ignorés"
-
-#: forum/skins/default/templates/question_list/tag_selector.html:36
-#: forum/skins/nuxeo/templates/tag_selector.html:31
-#: forum/skins/nuxeo/templates/question_list/tag_selector.html:35
-#, python-format
-msgid "remove '%(tag_name)s' from the list of ignored tags"
-msgstr "retirer « %(tag_name)s » de la liste des mots-clés ignorés"
-
 #: forum/skins/default/templates/question_list/title.html:5
 msgid "Found by tags"
 msgstr "Trouvé avec les mots-clés"
@@ -6075,11 +6032,6 @@ msgstr "Bases de Markdown"
 #: forum/skins/default/templates/sidebar/markdown_help.html:6
 msgid "*italic* or _italic_"
 msgstr "*italique* ou _italique_"
-
-#: forum/skins/nuxeo/templates/users/preferences.html:21
-msgid "Allways remember the sort order I apply to the lists I view"
-msgstr ""
-"Toujours se souvenir de l'ordre que j'applique aux listes que je consulte"
 
 #: forum/skins/default/templates/sidebar/markdown_help.html:9
 msgid "**bold** or __bold__"
@@ -6254,9 +6206,9 @@ msgstr "Vous pouvez spécifier ici quelques préférences personnelles."
 msgid "Navigation:"
 msgstr "Navigation:"
 
-#: forum/skins/default/templates/users/preferences.html:22
+#: forum/skins/default/templates/users/preferences.html:21
 msgid "Always remember the sort order I apply to the lists I view"
-msgstr "Se rappeler mes préférences pour le tri de mes listes"
+msgstr "Toujours se souvenir de l'ordre que j'applique aux listes que je consulte"
 
 #: forum/skins/default/templates/users/questions.html:11
 msgid "No favorite questions to display."
@@ -6266,16 +6218,6 @@ msgstr "Aucune question favorite à afficher."
 #: forum/skins/default/templates/users/info.html:107
 msgid "Report user"
 msgstr "Signaler l'utilisateur"
-
-#: forum/skins/default/templates/users/report_user.html:7
-#: forum/skins/default/templates/users/suspend_user.html:20
-msgid "Public message"
-msgstr "Message public"
-
-#: forum/skins/default/templates/users/report_user.html:13
-#: forum/skins/default/templates/users/suspend_user.html:26
-msgid "This message will be visible through the user activity log."
-msgstr "Ce message sera visible dans le log de l'activité de l'utilisateur."
 
 #: forum/skins/default/templates/users/signature.html:11
 #: forum/skins/default/templates/users/signature.html:17
@@ -6330,7 +6272,7 @@ msgstr[1] ""
 #: forum/skins/default/templates/users/stats.html:51
 #, python-format
 msgid "the answer has been voted for %(vote_count)s times"
-msgstr "la réponse a reçu %(vote_count)s fois un vote favorable"
+msgstr "la réponse a reçu %(vote_count)s votes"
 
 #: forum/skins/default/templates/users/stats.html:51
 msgid "this answer has been selected as correct"
@@ -6361,7 +6303,7 @@ msgstr "ajouter un vote"
 
 #: forum/skins/default/templates/users/stats.html:84
 msgid "user has voted up this many times"
-msgstr "l'utilisateur a voté favorablement de nombreuses fois"
+msgstr "l'utilisateur a voté favorablement à plusieurs reprises"
 
 #: forum/skins/default/templates/users/stats.html:88
 msgid "thumb down"
@@ -6369,7 +6311,7 @@ msgstr "enlever un vote"
 
 #: forum/skins/default/templates/users/stats.html:89
 msgid "user voted down this many times"
-msgstr "l'utilisateur a voté défavorablement de nombreuses fois"
+msgstr "l'utilisateur a voté défavorablement à plusieurs reprises"
 
 #: forum/skins/default/templates/users/stats.html:98
 #, python-format
@@ -6396,8 +6338,7 @@ msgid ""
 "see other questions with %(view_user)s's contributions tagged '%(tag_name)s' "
 msgstr ""
 "voir d'autres questions avec contributions de %(view_user)s ayant pour "
-"mot-clé "
-"« %(tag_name)s » "
+"mot-clé « %(tag_name)s » "
 
 #: forum/skins/default/templates/users/stats.html:127
 #, python-format
@@ -6442,7 +6383,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"    Ici, vous pouvez décider quels types de notifications vous souhaitez "
+"    Vous pouvez ici choisir les types de notifications vous souhaitez "
 "recevoir ainsi que leurs fréquences.<br />\n"
 "    "
 
@@ -6460,8 +6401,7 @@ msgstr "une nouvelle question a été postée"
 
 #: forum/skins/default/templates/users/subscriptions_settings.html:30
 msgid "A new question matching my interesting tags is posted"
-msgstr ""
-"une nouvelle question correspondant aux mots-clés qui m'intéressent a été "
+msgstr "une nouvelle question correspondant aux mots-clés qui m'intéressent a été "
 "postée"
 
 #: forum/skins/default/templates/users/subscriptions_settings.html:34
@@ -6545,6 +6485,16 @@ msgstr "Suspendu pour"
 msgid "days"
 msgstr "jour(s)"
 
+#: forum/skins/default/templates/users/suspend_user.html:20
+#: forum/skins/default/templates/users/report_user.html:7
+msgid "Public message"
+msgstr "Message public"
+
+#: forum/skins/default/templates/users/report_user.html:13
+#: forum/skins/default/templates/users/suspend_user.html:26
+msgid "This message will be visible through the user activity log."
+msgstr "Ce message sera visible dans le log de l'activité de l'utilisateur."
+
 #: forum/skins/default/templates/users/suspend_user.html:31
 msgid "Private message"
 msgstr "Message privé"
@@ -6600,10 +6550,6 @@ msgstr ""
 "profil</a>\n"
 "        "
 
-#: forum/skins/nuxeo/templates/tag_selector.html:40
-msgid "keep ignored questions hidden"
-msgstr "masquer les questions ignorées"
-
 #: forum/skins/nuxeo/templates/node/award_points.html:4
 #, fuzzy, python-format
 msgid ""
@@ -6613,15 +6559,10 @@ msgstr ""
 "\n"
 "%(awarded_user)s récompensé par des points de réputation.\n"
 
-#: forum/skins/nuxeo/templates/osqaadmin/nodeman.html:454
-#, fuzzy
-msgid "Score"
-msgstr "Score"
-
 #: forum/skins/nuxeo/templates/sidebar/markdown_help.html:6
 #, fuzzy
 msgid "*italic* or __italic__"
-msgstr "*italique* o _italique_"
+msgstr "*italique* ou _italique_"
 
 #: forum/templatetags/extra_tags.py:81
 msgid "reputation points"
