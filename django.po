@@ -828,7 +828,7 @@ msgid ""
 "Congratulations, you have received a badge '%(badge_name)s'. <a href="
 "\"%(badge_url)s\">Find out who has it, too</a>."
 msgstr ""
-"Félicitations, vous avez reçu la distinction « %(badge_name)s ». Allez sur <a "
+"Félicitations, vous avez reçu la distinction « %(badge_name)s ». <a "
 "href=\"%(badge_url)s\">Découvrez qui l'a aussi</a>."
 
 #: forum/actions/user.py:191
@@ -1045,8 +1045,7 @@ msgstr ""
 "pris par plusieurs utilisateurs"
 
 #: forum/forms/general.py:53
-msgid ""
-"user name can only consist of letters, empty space, hyphens and underscore"
+msgid "user name can only consist of letters, empty space, hyphens and underscore"
 msgstr ""
 "un nom d'utilisateur ne peut contenir que des lettres, espace ou underscore"
 
@@ -1151,12 +1150,10 @@ msgstr ""
 "veuillez utiliser entre %(min)s et %(max)s caractères pour les mots-clés"
 
 #: forum/forms/qanda.py:108
-msgid ""
-"please use following characters in tags: letters , numbers, and characters '."
-"#-_'"
-msgstr ""
-"veuillez utiliser les caractères suivants dans les mots-clés : lettres, "
-" chiffres ou les caractères '.-_'"
+#, fuzzy
+msgid "please use following characters in tags: letters , numbers, and characters '.#-_'"
+msgstr "veuillez n'utiliser que les caractères suivants dans les mots-clés : lettres, "
+" chiffres et caractères « .-_ »"
 
 #: forum/forms/qanda.py:118
 #, python-format
@@ -3282,7 +3279,31 @@ msgstr "Changer le mot de passe"
 
 #: forum/skins/default/templates/account_settings.html:30
 msgid "Give your  account a new password."
-msgstr "Changez le mot de passe pour votre compte."
+msgstr "Changez le mot de passe de votre compte."
+
+#: forum/skins/default/templates/answer_edit.html:5
+msgid "Change email "
+msgstr "Changer l'adresse courriel "
+
+#: forum/skins/default/templates/account_settings.html:33
+msgid "Add or update the email address associated with your account."
+msgstr "Ajoutez ou mettez à jour l'adresse courriel associée à votre compte."
+
+#: forum/skins/default/templates/account_settings.html:35
+msgid "Change OpenID"
+msgstr "Changer l'OpenID"
+
+#: forum/skins/default/templates/account_settings.html:36
+msgid "Change openid associated to your account"
+msgstr "Changez l'OpenID associé à votre compte."
+
+#: forum/skins/default/templates/account_settings.html:39
+msgid "Delete account"
+msgstr "Supprimer le compte"
+
+#: forum/skins/default/templates/account_settings.html:40
+msgid "Erase your username and all your data from website"
+msgstr "Effacez votre nom d'utilisateur et toutes vos données de ce site"
 
 #: forum/skins/default/templates/answer_edit.html:5
 #: forum/skins/default/templates/answer_edit.html:63
@@ -4103,6 +4124,23 @@ msgstr "Votre réponse"
 msgid "Be the first one to answer this question!"
 msgstr "Soyez le premier à répondre à cette question !"
 
+#: forum/skins/default/templates/question.html:199
+msgid "You can answer anonymously and then login."
+msgstr "Vous pouvez répondre de façon anonyme et puis vous connecter."
+
+#: forum/skins/default/templates/question.html:203
+msgid "Answer your own question only to give an answer."
+msgstr "Répondez à votre question seulement pour donner une réponse."
+
+#: forum/skins/default/templates/question.html:205
+msgid "Please only give an answer, no discussions."
+msgstr "Veuillez simplement répondre à la question, pas entamer de débats."
+
+#: forum/skins/default/templates/question.html:208
+msgid ""
+"Remember, your answer will not be published until you validate your email."
+msgstr "Souvenez-vous, votre réponse ne sera pas publiée tant que vous n'aurez pas validé votre adresse de courriel."
+
 #: forum/skins/default/templates/question.html:266
 msgid "Login/Signup to Post Your Answer"
 msgstr "Connectez-vous/inscrivez-vous pour publier votre réponse"
@@ -4353,7 +4391,7 @@ msgstr "Mots-clés intéressants"
 #: forum/skins/default/templates/question_list/tag_selector.html:31
 #, python-format
 msgid "see questions tagged '%(tag_name)s'"
-msgstr "Voir les questions ayant le mot-clé « %(tagname)s »"
+msgstr "Voir les questions ayant le mot-clé « %(tag_name)s »"
 
 #: forum/skins/default/templates/tag_selector.html:14
 #: forum/skins/default/templates/question_list/tag_selector.html:17
@@ -4472,6 +4510,22 @@ msgstr "Ce compte existe déjà. Veuillez en choisir un autre."
 msgid "create account"
 msgstr "Créer un compte"
 
+#: forum/skins/default/templates/auth/complete.html:86
+msgid "Existing account"
+msgstr "Compte existant"
+
+#: forum/skins/default/templates/auth/complete.html:87
+msgid "user name"
+msgstr "nom d'utilisateur"
+
+#: forum/skins/default/templates/auth/complete.html:88
+msgid "password"
+msgstr "mot de passe"
+
+#: forum/skins/default/templates/auth/complete.html:92
+msgid "Register"
+msgstr "S'enregistrer"
+
 #: forum/skins/default/templates/auth/complete.html:93
 #: forum_modules/localauth/templates/loginform.html:27
 msgid "Forgot your password?"
@@ -4507,7 +4561,7 @@ msgid ""
 "If the above link is not clickable, copy and paste this url into your web "
 "browser's address bar:"
 msgstr ""
-"Si le lien ci-dessus ne peut être cliqué, copiez et collez le lien ci-dessous 
+"Si le lien ci-dessus ne peut être cliqué, copiez et collez le lien ci-dessous "
 "dans la barre d'adresse du navigateur :"
 
 #: forum/skins/default/templates/auth/mail_validation.html:24
@@ -4842,7 +4896,7 @@ msgstr ""
 
 #: forum/skins/default/templates/node/permanent_link.html:10
 msgid "Permanent link"
-msgstr "Lien permanent"
+msgstr "Lien permanent "
 
 #: forum/skins/default/templates/node/post_controls.html:14
 msgid "more"
@@ -5935,6 +5989,10 @@ msgstr ""
 msgid "next"
 msgstr "suivant"
 
+#: forum/skins/default/templates/paginator/sort_tabs.html:9
+msgid "Check to make the sort order sticky"
+msgstr "Cocher pour que l'ordre de tri persiste"
+
 #: forum/skins/default/templates/question_list/item.html:11
 #: forum/views/commands.py:88 forum/views/commands.py:91
 #: forum/views/commands.py:135
@@ -6568,6 +6626,10 @@ msgstr "*italique* ou _italique_"
 msgid "reputation points"
 msgstr "points de réputation"
 
+#: forum/templatetags/extra_tags.py:103
+msgid "%b %d at %H:%M"
+msgstr "%d %B à %H:%M"
+
 #: forum/templatetags/extra_tags.py:113
 #, python-format
 msgid "%(user)s has %(count)d accepted answers"
@@ -6586,6 +6648,10 @@ msgstr "%s n'a aucune une réponse acceptée"
 #: forum/templatetags/extra_tags.py:131
 msgid "accept rate"
 msgstr "Taux d'acceptation"
+
+#: forum/templatetags/extra_tags.py:105
+msgid "%b %d '%y at %H:%M"
+msgstr "%d %B %Y à %H:%M"
 
 #: forum/templatetags/extra_tags.py:132
 msgid "Rate of the user's accepted answers"
@@ -6611,8 +6677,8 @@ msgstr "heures auparavant"
 #, python-format
 msgid "%(hr)d "
 msgid_plural "%(hr)d "
-msgstr[0] "%(hr)d "
-msgstr[1] "%(hr)d "
+msgstr[0] ""
+msgstr[1] ""
 
 #: forum/templatetags/extra_tags.py:171
 msgid "min ago"
@@ -6626,8 +6692,8 @@ msgstr "minutes auparavant"
 #, python-format
 msgid "%(min)d "
 msgid_plural "%(min)d "
-msgstr[0] "%(min)d "
-msgstr[1] "%(min)d "
+msgstr[0] ""
+msgstr[1] ""
 
 #: forum/templatetags/extra_tags.py:173
 msgid "sec ago"
@@ -6641,8 +6707,8 @@ msgstr "secondes auparavant"
 #, python-format
 msgid "%(sec)d "
 msgid_plural "%(sec)d "
-msgstr[0] "%(sec)d "
-msgstr[1] "%(sec)d "
+msgstr[0] ""
+msgstr[1] ""
 
 #: forum/templatetags/node_tags.py:104
 msgid "permanent link"
@@ -6682,8 +6748,7 @@ msgid ""
 "report as offensive (i.e containing spam, advertising, malicious text, etc.)"
 msgstr ""
 "signaler comme offensant (c.-à-d. contenant du spam, de la publicité, du "
-"texte "
-"malveillant, etc.)"
+"texte malveillant, etc.)"
 
 #: forum/templatetags/node_tags.py:149
 msgid "undelete"
@@ -6732,7 +6797,7 @@ msgstr "Mode initialisation activé"
 
 #: forum/views/admin.py:305
 msgid "All values reverted to defaults"
-msgstr "Toutes les valeurs remises à leur état initial"
+msgstr "Retour aux valeurs par défaut"
 
 #: forum/views/admin.py:323
 msgid "All values recalculated"
@@ -6866,8 +6931,7 @@ msgstr "Ces identifiants sont déjà associés à votre compte."
 
 #: forum/views/auth.py:137
 msgid "The new credentials are now associated with your account"
-msgstr ""
-"Les nouvelles informations d'identification sont maintenant associées à votre "
+msgstr "Les nouvelles informations d'identification sont maintenant associées à votre "
 "compte"
 
 #: forum/views/auth.py:177
@@ -6875,8 +6939,8 @@ msgid ""
 "Oops, something went wrong in the middle of this process. Please try again. "
 "Note that you need to have cookies enabled for the authentication to work."
 msgstr ""
-"Attention, un problème est survenu. Veuillez essayer de nouveau. Les "
-"cookies doivent être activés pour pouvoir que l'authentification fonctionne."
+"Attention, un problème est survenu. Veuillez essayer de nouveau. Notez que les "
+"cookies doivent être activés pour que l'authentification fonctionne."
 
 #: forum/views/auth.py:189 forum_modules/localauth/views.py:29
 msgid "A welcome email has been sent to your email address. "
@@ -6954,7 +7018,7 @@ msgid ""
 "(yours is %(user_reputation)d).\n"
 "                Please check the <a href='%(faq_url)s'>FAQ</a>"
 msgstr ""
-"Désolé, mais vous n'avez pas assez de points de réputation pour %(action)s.\n"
+"Désolé, mais vous n'avez pas assez de points de réputation pour l'action « %(action)s ».\n"
 "                La réputation minimale requise est %(reputation_required)d "
 "(et la vôtre est %(user_reputation)d).\n"
 "<br /> Vous pouvez trouver plus d'information dans la <a "
@@ -6966,7 +7030,7 @@ msgid ""
 "Sorry, but you don't have enough reputation points to %(action)s.<br /"
 ">Please check the <a href='%(faq_url)s'>faq</a>"
 msgstr ""
-"Désolé, mais vous n'avez pas assez de points de réputation pour %(action)s."
+"Désolé, mais vous n'avez pas assez de points de réputation pour l'action « %(action)s »."
 "<br /> Vous pouvez trouver plus d'information dans la <a "
 "href'%(faq_url)s'>FAQ</a>"
 
@@ -6976,7 +7040,7 @@ msgid ""
 "Sorry but you cannot %(action)s your own post.<br />Please check the <a "
 "href='%(faq_url)s'>faq</a>"
 msgstr ""
-"Désolé, mais vous ne pouvez pas %(action)s pour votre propre message.<br />"
+"Désolé, mais vous ne pouvez pas procéder à l'action « %(action)s » sur votre propre message.<br />"
 "Veuillez consulter la <a href'%(faq_url)s'>FAQ</a>"
 
 #: forum/views/commands.py:57
@@ -6985,9 +7049,8 @@ msgid ""
 "Sorry but anonymous users cannot %(action)s.<br />Please login or create an "
 "account <a href='%(signin_url)s'>here</a>."
 msgstr ""
-"Désolé, mais les utilisateurs anonymes ne peuvent pas %(action)s.<br /> "
-"Veuillez vous "
-"connecter ou créer un compte <a href'%(signin_url)s'>ici</a>."
+"Désolé, mais les utilisateurs anonymes ne peuvent pas procéder à l'action « %(action)s ».<br /> "
+"Veuillez vous connecter ou créer un compte <a href'%(signin_url)s'>ici</a>."
 
 #: forum/views/commands.py:65
 #, python-format
@@ -6995,9 +7058,8 @@ msgid ""
 "Sorry, but you don't have enough %(action)s left for today..<br />The limit "
 "is %(limit)s per day..<br />Please check the <a href='%(faq_url)s'>faq</a>"
 msgstr ""
-"Désolé, mais vous n'avez plus assez de %(action)s restants pour aujourd'hui.<"
-"br />La "
-"limite est %(limit)s par jour.<br />Veuillez consulter "
+"Désolé, mais vous avez épuisé toutes vos actions « %(action)s » restantes pour aujourd'hui.<"
+"br />La limite est %(limit)s par jour.<br />Veuillez consulter "
 "la <a href'%(faq_url)s'>FAQ</a>"
 
 #: forum/views/commands.py:73
@@ -7006,14 +7068,8 @@ msgid ""
 "Sorry, but you cannot %(action)s twice the same post.<br />Please check the "
 "<a href='%(faq_url)s'>faq</a>"
 msgstr ""
-"Désolé, mais vous ne pouvez pas %(action)s deux fois sur la même "
-"publication.<br />"
+"Désolé, mais vous ne pouvez pas procéder à l'action « %(action)s » deux fois sur la même publication.<br />"
 "Vous pouvez trouver plus d'information dans la <a href'%(faq_url)s'>FAQ</a>"
-
-#: forum/views/commands.py:81 forum/views/commands.py:256
-#: forum/views/commands.py:554 forum/views/commands.py:565
-msgid "Invalid request"
-msgstr "Requête non valide"
 
 #: forum/views/commands.py:112
 #, python-format
@@ -7049,8 +7105,7 @@ msgstr "signalements"
 #: forum/views/commands.py:164
 #, python-format
 msgid "You already flagged this post with the following reason: %(reason)s"
-msgstr ""
-"Vous avez déjà signalé cette publication pour la raison suivante : %(reason)s"
+msgstr "Vous avez déjà signalé cette publication pour la raison suivante : %(reason)s"
 
 #: forum/views/commands.py:169 forum/views/commands.py:415
 msgid "Reason is empty"
@@ -7076,6 +7131,11 @@ msgstr "supprimer des commentaires"
 #: forum/views/commands.py:230
 msgid "mark a question as favorite"
 msgstr "ajouter une question à vos favorites"
+
+#: forum/views/commands.py:234 forum/views/commands.py:514
+#: forum/views/commands.py:525
+msgid "Invalid request"
+msgstr "Requête non valide"
 
 #: forum/views/commands.py:261
 msgid "Comment is empty"
@@ -7147,15 +7207,11 @@ msgstr "rouvrir des questions"
 
 #: forum/views/commands.py:427 forum/views/commands.py:439
 msgid "mark posts as community wiki"
-msgstr "marquer des publications comme Wiki communautaire\" # TODO ?"
+msgstr "marquer des publications comme Wiki communautaire" # TODO ?"
 
 #: forum/views/commands.py:431
 msgid "cancel a community wiki post"
-msgstr "Annuler une publication du Wiki communautaire\" # TODO ?"
-
-#: forum/views/commands.py:453 forum/views/commands.py:456
-msgid "convert answers to comments"
-msgstr "Convertir des réponses en commentaires"
+msgstr "Annuler une publication du Wiki communautaire" # TODO ?"
 
 #: forum/views/commands.py:459
 #, python-format
@@ -7165,6 +7221,10 @@ msgstr "Réponse par %(uname)s : %(snippet)s..."
 #: forum/views/commands.py:461
 msgid "Question"
 msgstr "Question"
+
+#: forum/views/commands.py:422 forum/views/commands.py:425
+msgid "convert answers to comments"
+msgstr "Convertir des réponses en commentaires"
 
 #: forum/views/commands.py:470 forum/views/commands.py:473
 msgid "That is an invalid post to put the comment under"
@@ -7180,8 +7240,7 @@ msgstr "Vous n'avez pas les droits nécessaires pour procéder à cette action."
 
 #: forum/views/commands.py:604
 msgid "The permanent URL to the answer has been copied to your clipboard."
-msgstr ""
-"L'URL permanente vers la réponse a été copiée dans votre presse-papier."
+msgstr "L'URL permanente vers la réponse a été copiée dans votre presse-papier."
 
 #: forum/views/commands.py:615 forum/views/commands.py:619
 #: forum/views/commands.py:635
@@ -7202,8 +7261,7 @@ msgid ""
 "We're sorry, but an unknown error ocurred.<br />Please try again in a while."
 msgstr ""
 "Nous sommes désolés, mais une erreur inconnue s'est produite.<br />Veuillez "
-"réessayer "
-"dans un moment."
+"réessayer plus tard."
 
 #: forum/views/meta.py:71
 msgid "Thanks for the feedback!"
@@ -7223,8 +7281,7 @@ msgstr "Questions <strong>les plus récemment posées</strong>"
 
 #: forum/views/readers.py:61
 msgid "most <strong>active</strong> questions in the last 24 hours</strong>"
-msgstr ""
-"Questions les plus <strong>actives</strong> durant les dernières 24 heures"
+msgstr "Questions les plus <strong>actives</strong> durant les dernières 24 heures"
 
 #: forum/views/readers.py:62
 msgid "mostvoted"
@@ -7233,10 +7290,6 @@ msgstr ""
 #: forum/views/readers.py:62
 msgid "most <strong>voted</strong> questions"
 msgstr "Questions ayant le plus de <strong>votes</strong> favorables"
-
-#: forum/views/readers.py:63 forum/views/readers.py:107
-msgid "unanswered"
-msgstr "Sans réponse"
 
 #: forum/views/readers.py:76
 msgid "active answers"
@@ -7309,6 +7362,10 @@ msgstr " - "
 msgid "latest questions"
 msgstr "dernières questions"
 
+#: forum/views/readers.py:90
+msgid "unanswered"
+msgstr "Sans réponse"
+
 #: forum/views/readers.py:111
 msgid "open questions without an accepted answer"
 msgstr "questions sans réponse acceptée"
@@ -7335,7 +7392,7 @@ msgstr "Questions posées par %s"
 #: forum/views/readers.py:173
 #, python-format
 msgid "Questions answered by %s"
-msgstr "Questions solutionnées par %s"
+msgstr "Questions résolues par %s"
 
 #: forum/views/readers.py:180
 #, python-format
@@ -7349,7 +7406,7 @@ msgstr "Questions suivies par %s"
 
 #: forum/views/readers.py:212
 msgid "Questions"
-msgstr ""
+msgstr "Questions"
 
 #: forum/views/readers.py:280 forum/views/readers.py:281
 msgid "ranking"
@@ -7500,8 +7557,7 @@ msgstr ""
 #: forum/views/writers.py:65
 msgid "allowed file types are 'jpg', 'jpeg', 'gif', 'bmp', 'png', 'tiff'"
 msgstr ""
-"les types de fichiers autorisés sont 'jpg', 'jpeg', 'gif', 'bmp', 'png', '"
-"tiff'"
+"les types de fichiers autorisés sont `jpg`, `jpeg`, `gif`, `bmp`, `png`, `tiff`"
 
 #: forum/views/writers.py:67
 #, python-format
@@ -7543,7 +7599,7 @@ msgid ""
 "Your WordPress API key. You can get one at <a href='http://wordpress."
 "com/'>http://wordpress.com/</a>"
 msgstr ""
-"Clé API Wordpress qui peut être obtenue sur <a href='http://"
+"Clé API Wordpress pouvant être obtenue sur <a href='http://"
 "wordpress.com/'>http://wordpress.com/</a>."
 
 #: forum_modules/akismet/settings.py:12
@@ -7671,8 +7727,7 @@ msgstr "Évaluation par ses pairs"
 #: forum_modules/default_badges/badges.py:129
 #, python-format
 msgid "Deleted own post with score of %s or lower"
-msgstr ""
-"Suppression d'une de ses propres questions ayant un score de %s ou moins"
+msgstr "Suppression d'une de ses propres questions ayant un score de %s ou moins"
 
 #: forum_modules/default_badges/badges.py:139
 msgid "Critic"
@@ -7850,8 +7905,7 @@ msgid ""
 msgstr ""
 "\n"
 "Nombre de fois qu'une question doit être vue pour donner une distinction « "
-"Question "
-"populaire » à son auteur\n"
+"Question populaire » à son auteur\n"
 
 #: forum_modules/default_badges/settings.py:12
 msgid "Notable Question views"
@@ -7865,8 +7919,7 @@ msgid ""
 msgstr ""
 "\n"
 "Nombre de fois qu'une question doit être vue pour donner une distinction « "
-"Question "
-"notable » à son auteur\n"
+"Question notable » à son auteur\n"
 
 #: forum_modules/default_badges/settings.py:18
 msgid "Famous Question views"
@@ -7880,8 +7933,7 @@ msgid ""
 msgstr ""
 "\n"
 "Nombre de fois qu'une question doit être vue pour donner une distinction « "
-"Question "
-"fameuse » à son auteur\n"
+"Question fameuse » à son auteur\n"
 
 #: forum_modules/default_badges/settings.py:24
 msgid "Nice Answer up votes"
@@ -7895,8 +7947,7 @@ msgid ""
 msgstr ""
 "\n"
 "Nombre de votes favorables qu'une réponse doit recevoir pour donner une "
-"distinction « Bonne "
-"réponse » à son auteur\n"
+"distinction « Bonne réponse » à son auteur\n"
 
 #: forum_modules/default_badges/settings.py:30
 msgid "Nice Question up votes"
@@ -7910,8 +7961,7 @@ msgid ""
 msgstr ""
 "\n"
 "Nombre de votes favorables qu'une question doit recevoir pour donner une "
-"distinction « Bonne"
-"question » à son auteur\n"
+"distinction « Bonne question » à son auteur\n"
 
 #: forum_modules/default_badges/settings.py:36
 msgid "Good Answer up votes"
@@ -7925,8 +7975,7 @@ msgid ""
 msgstr ""
 "\n"
 "Nombre de votes favorables qu'une réponse doit recevoir pour donner une "
-"distinction « Très "
-"bonne réponse » à son auteur\n"
+"distinction « Très bonne réponse » à son auteur\n"
 
 #: forum_modules/default_badges/settings.py:42
 msgid "Good Question up votes"
@@ -7940,8 +7989,7 @@ msgid ""
 msgstr ""
 "\n"
 "Nombre de votes favorables qu'une question doit recevoir pour donner une "
-"distinction « Bonne "
-"question » à son auteur\n"
+"distinction « Bonne question » à son auteur\n"
 
 #: forum_modules/default_badges/settings.py:48
 msgid "Great Answer up votes"
@@ -7955,8 +8003,7 @@ msgid ""
 msgstr ""
 "\n"
 "Nombre de votes favorables qu'une réponse doit recevoir pour donner une "
-"distinction « Excellente "
-"réponse » à son auteur\n"
+"distinction « Excellente réponse » à son auteur\n"
 
 #: forum_modules/default_badges/settings.py:54
 msgid "Great Question up votes"
@@ -7970,8 +8017,7 @@ msgid ""
 msgstr ""
 "\n"
 "Nombre de votes favorables qu'une question doit recevoir pour donner une "
-"distinction « Excellente "
-"question » à son auteur\n"
+"distinction « Excellente question » à son auteur\n"
 
 #: forum_modules/default_badges/settings.py:60
 msgid "Favorite Question favorite count"
@@ -8013,8 +8059,7 @@ msgid ""
 msgstr ""
 "\n"
 "Score maximal qu'une question doit avoir pour donner une distinction « "
-"Discipliné » "
-"à un auteur qui a supprimé sa question.\n"
+"Discipliné » à un auteur qui a supprimé sa question.\n"
 
 #: forum_modules/default_badges/settings.py:78
 msgid "Peer Pressure maximum score"
@@ -8028,8 +8073,7 @@ msgid ""
 msgstr ""
 "\n"
 "Score maximal qu'une question doit avoir pour donner une distinction « "
-"Évaluation "
-"par les pairs » à un auteur qui a supprimé sa question.\n"
+"Évaluation par les pairs » à un auteur qui a supprimé sa question.\n"
 
 #: forum_modules/default_badges/settings.py:84
 msgid "Civic Duty votes"
@@ -8069,8 +8113,7 @@ msgid ""
 msgstr ""
 "\n"
 "Nombre de votes favorables qu'une réponse de l'auteur initial doit avoir pour "
-"donner "
-"la distinction « Autodidacte ».\n"
+"donner la distinction « Autodidacte ».\n"
 
 #: forum_modules/default_badges/settings.py:102
 msgid "Strunk and White updates"
@@ -8084,8 +8127,7 @@ msgid ""
 msgstr ""
 "\n"
 "Nombre de mises à jour de question ou de réponse qu'un utilisateur doit faire "
-"pour "
-"obtenir la distinction « Bescherelle ».\n"
+"pour obtenir la distinction « Bescherelle ».\n"
 
 #: forum_modules/default_badges/settings.py:108
 msgid "Enlightened up votes"
@@ -8099,8 +8141,7 @@ msgid ""
 msgstr ""
 "\n"
 "Nombre de votes favorables qu'une réponse acceptée doit avoir pour que "
-"l'auteur reçoive "
-"la distinction « Éclairé ».\n"
+"l'auteur reçoive la distinction « Éclairé ».\n"
 
 #: forum_modules/default_badges/settings.py:114
 msgid "Guru up votes"
@@ -8114,8 +8155,7 @@ msgid ""
 msgstr ""
 "\n"
 "Nombre de votes favorables qu'une réponse acceptée doit avoir pour que "
-"l'auteur reçoive "
-"la distinction « Gourou ».\n"
+"l'auteur reçoive la distinction « Gourou ».\n"
 
 #: forum_modules/default_badges/settings.py:120
 msgid "Necromancer up votes"
@@ -8129,8 +8169,7 @@ msgid ""
 msgstr ""
 "\n"
 "Nombre de votes favorables qu'une réponse doit avoir pour que l'auteur "
-"reçoive "
-"la distinction « Nécromancien ».\n"
+"reçoive la distinction « Nécromancien ».\n"
 
 #: forum_modules/default_badges/settings.py:126
 msgid "Necromancer difference in days"
@@ -8167,7 +8206,7 @@ msgstr "Compression des fichiers XML"
 
 #: forum_modules/exporter/exporter.py:198
 msgid "Importing uploaded files"
-msgstr ""
+msgstr "Importation des fichiers téléversés"
 
 #: forum_modules/exporter/exporter.py:203
 msgid "Importing skins folder"
@@ -8260,17 +8299,16 @@ msgstr "Données anonymisées"
 
 #: forum_modules/exporter/forms.py:12
 msgid "Don't export user data and make all content anonymous"
-msgstr ""
-"Ne pas exporter les données des utilisateurs et rendre tous les contenus "
+msgstr "Ne pas exporter les données des utilisateurs et rendre tous les contenus "
 "anonymes"
 
 #: forum_modules/exporter/forms.py:13
 msgid "Uploaded files"
-msgstr "Dossiers téléversés"
+msgstr "Fichiers téléversés"
 
 #: forum_modules/exporter/forms.py:13
 msgid "Include uploaded files in the backup"
-msgstr "Inclure les dossiers téléversés dans la sauvegarde"
+msgstr "Inclure les fichiers téléversés dans la sauvegarde"
 
 #: forum_modules/exporter/forms.py:14
 msgid "Skins folder"
@@ -8386,13 +8424,11 @@ msgstr "Une erreur est apparue pendant le processus d'importation"
 
 #: forum_modules/exporter/templates/running.html:110
 msgid "Please check the log file for a full stack trace."
-msgstr ""
-"Veuillez vérifier le fichier de log pour obtenir la pile d'appels complète."
+msgstr "Veuillez vérifier le fichier de log pour obtenir la pile d'appels complète."
 
 #: forum_modules/exporter/templates/running.html:135
 msgid "Please wait while we prepare your backup file to download."
-msgstr ""
-"Veuillez patienter pendant que nous préparons votre fichier de sauvegarde à "
+msgstr "Veuillez patienter pendant que nous préparons votre fichier de sauvegarde à "
 "télécharger"
 
 #: forum_modules/exporter/templates/running.html:137
@@ -8406,7 +8442,7 @@ msgid ""
 "        "
 msgstr ""
 "\n"
-"            Démarré. <span id=\"time_started\"></span>\n"
+"            Démarré à <span id=\"time_started\"></span>\n"
 "        "
 
 #: forum_modules/exporter/templates/running.html:143
@@ -8415,7 +8451,7 @@ msgstr "Télécharger le fichier"
 
 #: forum_modules/exporter/templates/running.html:148
 msgid "Total progress"
-msgstr "Profession totale "
+msgstr "Progression totale "
 
 #: forum_modules/exporter/templates/running.html:158
 msgid " of "
@@ -8429,6 +8465,25 @@ msgstr ""
 "Quelque chose d'anormal s'est produit lors de votre authentification "
 "Facebook. "
 "Les administrateurs en seront avertis"
+
+#: forum_modules/facebookauth/authentication.py:31
+msgid "Sorry, your Facebook session has expired, please try again"
+msgstr "Désolé, votre session Facebook a expiré, essayez de nouveau s'il vous plaît"
+
+#: forum_modules/facebookauth/authentication.py:33
+msgid ""
+"The authentication with Facebook connect failed due to an invalid signature"
+msgstr ""
+"L'authentification avec Facebook Connect a échoué en raison d'une signature "
+"non valide"
+
+#: forum_modules/facebookauth/authentication.py:35
+msgid ""
+"The authentication with Facebook connect failed, cannot find authentication "
+"tokens"
+msgstr ""
+"L'authentification avec Facebook Connect a échoué, ne peut pas trouver les "
+"jetons d'authentification"
 
 #: forum_modules/ldapauth/authentication.py:16
 #: forum_modules/ldapauth/authentication.py:33
@@ -8539,16 +8594,6 @@ msgstr "champ LDAP contenant le courriel"
 msgid "Enter your LDAP user name and password"
 msgstr "Saisissez vos nom d'utilisateur et mot de passe LDAP"
 
-#: forum_modules/ldapauth/templates/loginform.html:8
-#: forum_modules/localauth/templates/loginform.html:8
-msgid "Login name"
-msgstr "Nom d'utilisateur"
-
-#: forum_modules/ldapauth/templates/loginform.html:16
-#: forum_modules/localauth/templates/loginform.html:16
-msgid "Password"
-msgstr "Mot de passe"
-
 #: forum_modules/localauth/forms.py:83
 msgid "Please enter valid username and password (both are case-sensitive)."
 msgstr ""
@@ -8585,8 +8630,16 @@ msgstr "Veuillez saisir vos nom d'utilisateur et mot de passe locaux"
 
 #: forum_modules/localauth/templates/loginform.html:4
 msgid "or select your external provider above"
-msgstr ""
-"ou bien sélectionnez votre fournisseur externe parmi ceux mentionnés ci-dessus"
+msgstr "ou bien sélectionnez votre fournisseur externe parmi ceux mentionnés ci-dessus"
+
+#: forum_modules/localauth/templates/loginform.html:8
+msgid "Login name"
+msgstr "Nom d'utilisateur"
+
+#: forum_modules/localauth/templates/loginform.html:16
+#: forum_modules/localauth/templates/loginform.html:16
+msgid "Password"
+msgstr "Mot de passe"
 
 #: forum_modules/localauth/templates/loginform.html:27
 msgid "Create account"
@@ -8594,13 +8647,11 @@ msgstr "Créer un compte"
 
 #: forum_modules/oauthauth/consumer.py:36
 msgid "Error, the oauth token is not on the server"
-msgstr "Erreur, le jeton d'authentification est absent du serveur"
+msgstr "Erreur : le jeton d'authentification est absent du serveur"
 
 #: forum_modules/oauthauth/consumer.py:41
 msgid "Something went wrong! Auth tokens do not match"
-msgstr ""
-"Quelque chose ne fonctionne pas : les jetons d'authentification sont "
-"différents"
+msgstr "Quelque chose ne va pas : les jetons d'authentification sont différents"
 
 #: forum_modules/oauthauth/settings.py:6
 msgid "Twitter consumer key"
@@ -8769,11 +8820,11 @@ msgstr "Traqueur de bogues"
 #: forum_modules/project_badges/badges.py:10
 #, python-format
 msgid "Got %s upvotes in a question tagged with \"bug\""
-msgstr "J'ai %s votes favorables pour une question marquée avec « bug »"
+msgstr "%s votes favorables pour une question marquée avec « bug »"
 
 #: forum_modules/recaptcha/formfield.py:20
 msgid "Invalid captcha"
-msgstr "Le captcha non valide"
+msgstr "Captcha non valide"
 
 #: forum_modules/stats/base.py:153
 msgid "Wasn't able to check to the update server."
