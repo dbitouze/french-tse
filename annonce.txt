@@ -124,6 +124,10 @@ enrichir la base de connaissances francophone sur (La)TeX. Pour cela :
   │ http://texnique.fr/osqa/compte/local/inscription/
   └────
 
+Enfin, ce site dans sa forme actuelle n'aurait pas pu voir le jour sans l'aide
+et le soutien de Stefan Kottwitz et le groupe des utilisateurs germanophones de
+TeX DANTE. Nous souhaitons vivement les en remercier.
+
 Bien cordialement.
 --
 Pour le CA de GUTenberg, Denis Bitouzé
