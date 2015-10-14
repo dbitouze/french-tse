@@ -1,7 +1,8 @@
 Bonjour,
 
-l'association ... a le plaisir de vous annoncer la naissance d'un nouvel
-outil d'entraide dédié à LaTeX :
+l'association GUTenberg (groupe des utilisateurs francophones de TeX) a le
+plaisir de vous annoncer la naissance d'un nouvel outil d'entraide dédié
+à LaTeX :
 
   ┌────
   │ http://texnique.fr/
@@ -124,3 +125,5 @@ enrichir la base de connaissances francophone sur (La)TeX. Pour cela :
   └────
 
 Bien cordialement.
+--
+Pour le CA de GUTenberg, Denis Bitouzé
