@@ -8,8 +8,8 @@ plaisir de vous annoncer la naissance d'un nouvel outil d'entraide dédié
   │ http://texnique.fr/
   └────
 
-Il s'agit d'un site Internet, déclinaison francophone de sites de
-questions et réponses tels que :
+Il s'agit d'une déclinaison francophone de sites de questions et réponses tels
+que :
   ┌────
   │ http://tex.stackexchange.com/
   └────
@@ -30,78 +30,78 @@ Les différences les plus notables par rapport à des outils plus classiques
 d'entraide dédiés à LaTeX (listes de discussions, newsgroups, forums Web) sont
 les suivantes :
 
-1. Un but est de fournir un outil ergonomique et structuré aidant
-   à poser des questions claires et ainsi augmenter ses chances
-   d'être aidé.
+1. Un but est de fournir un outil ergonomique et structuré aidant à poser des
+   questions claires et ainsi augmenter ses chances d'être aidé.
 2. Un autre but est de fournir une base de connaissances sur (La)TeX et
-   permettre ainsi aux futurs visiteurs de pouvoir consulter des
-   réponses à des questions déjà posées qui soient à la fois :
-
+   permettre ainsi aux futurs visiteurs de pouvoir consulter des réponses à des
+   questions déjà posées qui soient à la fois :
    - « optimales » ;
    - faciles à trouver.
-
    Pour cela :
-   1. les utilisateurs sont invités à formuler leurs contributions
-      (questions, réponses, commentaires) de façon claire, précise,
-      concise et structurée : la FAQ du site (cf. ci-dessous) explique
-      cela, tant pour le fond que pour la forme ;
-   2. les questions et réponses sont bien mises en évidence et ne sont
-      pas mélangées aux commentaires qu'on peut faire sur elles ;
-   3. pour les améliorer, les contributions peuvent être remaniées
-      a posteriori tant par leurs auteurs que par des utilisateurs plus
-      expérimentés ;
-   4. les questions peuvent être marquées avec des mots-clés pertinents
-      afin d'en simplifier l'accès futur et d'organiser le contenu
-      accumulé.
-3. Les commentaires sur les contributions sont possibles mais, de
-   manière générale, les longs débats sont découragés pour ne pas
-   masquer l'essentiel : des réponses à des questions. En particulier,
-   seuls les 5 premiers commentaires d'une contribution sont affichés
-   (les suivants pouvant toutefois l'être par simple clic).
+   1. les utilisateurs sont invités à formuler leurs contributions (questions,
+      réponses, commentaires) de façon claire, précise, concise et structurée :
+      la FAQ du site (cf. ci-dessous) explique cela, tant pour le fond que pour
+      la forme ;
+   2. les questions et réponses sont bien mises en évidence et ne sont pas
+      mélangées aux commentaires qu'on peut faire sur elles ;
+   3. si du code LaTeX figure dans une contribution, il est coloré
+      syntaxiquement et mis en forme de façon à le rendre plus lisible ;
+   4. pour les améliorer, les contributions peuvent être remaniées a posteriori
+      tant par leurs auteurs que par des utilisateurs expérimentés (l'expérience
+      étant basée sur des points acquis au fur et à mesure de l'utilisation du
+      site : plus de détails la FAQ) ;
+   5. les questions peuvent être marquées avec des mots-clés pertinents afin
+      d'en simplifier l'accès futur et d'organiser le contenu accumulé.
+3. Les commentaires sur les contributions sont possibles mais, de manière
+   générale, les longs débats sont découragés pour ne pas masquer l'essentiel :
+   des réponses à des questions. En particulier, seuls les 5 premiers
+   commentaires d'une contribution sont affichés (les suivants pouvant toutefois
+   l'être par simple clic).
 4. Les utilisateurs sont invités :
-   1. à voter positivement ou négativement pour les contributions des
-      autres. Cela fournit aux visiteurs du site un indicateur du niveau
-      de confiance que la communauté accorde à une question et, surtout,
-      à une réponse ;
-   2. s'ils sont l'auteur d'une question, à accepter la réponse ou une
-      des réponses proposées pour indiquer aux visiteurs ce qui
-      a résolu leur problème.
-5. Tout ce qui peut distraire de l'essentiel (des réponses à des
-   questions) est à éviter, notamment :
+   1. à voter (positivement ou négativement) pour les contributions des
+      autres. Cela fournit aux visiteurs du site un indicateur du niveau de
+      confiance que la communauté accorde :
+      1. à ces contributions (questions et commentaires mais, surtout,
+         réponses) ;
+      2. aux auteurs de ces contributions dont le total de points progresse
+         alors (positivement ou négativement) ;
+   2. s'ils sont l'auteur d'une question, à accepter la réponse ou une des
+      réponses proposées pour indiquer aux visiteurs ce qui a résolu leur
+      problème.
+5. Tout ce qui peut distraire de l'essentiel (des réponses à des questions) est
+   à éviter, notamment :
    1. les formules de politesse : « Bonjour », « Merci », etc. ;
-   2. les marques d'opinion : « +1 », etc. (les votes sont là pour ça et
-      sont plus utiles).
-   Autrement dit, ce site n'est pas spécialement un lieu pour les
-   blagues désopilantes telles qu'on peut en voir ici (et c'est le seul
-   point négatif que j'y vois).
-6. Il est possible (et facile) d'insérer des images dans ses questions
-   ou réponses, par exemple pour que les autres voient immédiatement le
-   problème rencontré ou la solution proposée.
-7. Par simple clic, il est possible (et facile) de tester et
-   retravailler un exemple de code LaTeX illustrant une question ou une
-   réponse. Bien sûr, si ce code n'est pas complet (de \documentclass
-   à \end{document} en passant par \begin{document}), il ne compilera
-   pas correctement.
-8. En s'inscrivant sur ce site, les utilisateurs acceptent que toutes
-   leurs contributions (questions, réponses, commentaires) soient
-   publiées sous la licence Creative Commons Partage dans les mêmes
-   conditions 3.0 France (cc-by-sa 3.0 fr) :
+   2. les marques d'opinion : « +1 », etc. (les votes sont là pour ça et sont
+      plus utiles).
+   (*Note de l'auteur.* Autrement dit, ce site n'est pas spécialement un lieu pour
+   les blagues désopilantes telles qu'on peut en voir ici, et c'est le seul
+   point négatif que j'y vois.)
+6. Il est possible (et facile) d'insérer des images dans ses questions ou
+   réponses, par exemple pour que les autres voient immédiatement le but
+   recherché, le problème rencontré ou la solution proposée.
+7. Tout exemple de code LaTeX fourni dans une question ou une réponse peut, par
+   simple clic, être testé au moyen d'un outil d'édition et de compilation en
+   ligne (bien entendu, ce code ne compilera pas correctement s'il n'est pas
+   complet --- de \documentclass à \end{document} en passant
+   par \begin{document}).
+8. En s'inscrivant sur ce site, les utilisateurs acceptent que toutes leurs
+   contributions (questions, réponses, commentaires) soient publiées sous la
+   licence Creative Commons Partage dans les mêmes conditions 3.0 France
+   (cc-by-sa 3.0 fr) :
   ┌────
   │ https://creativecommons.org/licenses/by-sa/3.0/fr/
   └────
-  Ceci a notamment pour but d'assurer que ces contributions pourront
-  être exploitées ultérieurement, par exemple pour constituer ou
-  enrichir une FAQ LaTeX.
+   Ceci a notamment pour but d'assurer que ces contributions pourront être
+   exploitées ultérieurement, par exemple pour constituer ou enrichir une FAQ
+   LaTeX.
 
 Le site texnique.fr est encore en construction :
 - sa traduction n'est pas achevée ;
-- certains bogues ou demandes de fonctionnalités n'ont pas encore été
-  traités.
-Pour ceux que cela intéresse, il est possible de suivre et participer
-à son évolution sur https://github.com/dbitouze/french-tse.
+- certains bogues ou demandes de fonctionnalités n'ont pas encore été traités.
+Les personnes intéressées peuvent suivre et participer à son évolution sur
+https://github.com/dbitouze/french-tse.
 
-Si vous voulez en savoir davantage sur ce site, vous pouvez consulter :
-
+Pour en savoir davantage sur ce site, vous pouvez consulter :
 - sa page « à propos » :
   ┌────
   │ http://texnique.fr/osqa/a_propos/ ;
@@ -111,11 +111,11 @@ Si vous voulez en savoir davantage sur ce site, vous pouvez consulter :
   │ http://texnique.fr/osqa/faq/
   └────
 
-Nous serions très heureux de vous voir participer à ce site et ainsi
-enrichir la base de connaissances francophone sur (La)TeX. Pour cela :
+Nous serions très heureux de vous voir participer à ce site et ainsi enrichir la
+base de connaissances francophone sur (La)TeX. Pour cela :
 
-- si vous possédez déjà un OpenID, vous pouvez directement vous
-  connecter par ce biais-là :
+- si vous possédez déjà un OpenID, vous pouvez directement vous connecter par ce
+  biais-là :
   ┌────
   │ http://texnique.fr/osqa/compte/connexion/
   └────
