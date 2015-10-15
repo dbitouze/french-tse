@@ -961,8 +961,14 @@ msgid "Template"
 msgstr "Modèle"
 
 #: forum/forms/admin.py:87
+#: forum/settings/sidebar.py:7
 msgid "Sidebar Content"
 msgstr "Barre latérale"
+
+#: forum/settings/sidebar.py:7
+msgid "Enter contents to display in the sidebar. You can use markdown and some basic html tags."
+msgstr "Saisissez le contenu de la page de la barre latérale. Vous pouvez utiliser Markdown "
+"et quelques balises HTML de base."
 
 #: forum/forms/admin.py:88
 msgid "Wrap sidebar block"
@@ -1003,7 +1009,7 @@ msgstr ""
 
 #: forum/forms/auth.py:41
 msgid "Current password"
-msgstr "Mot de passe actuel"
+msgstr "Mot de passe actuel "
 
 #: forum/forms/auth.py:52
 msgid ""
@@ -1077,7 +1083,7 @@ msgstr "Un nom véritable est requis"
 
 #: forum/forms/general.py:158
 msgid "choose password"
-msgstr "Mot de passe"
+msgstr "Mot de passe "
 
 #: forum/forms/general.py:159
 msgid "password is required"
@@ -1085,7 +1091,7 @@ msgstr "un mot de passe est requis"
 
 #: forum/forms/general.py:162
 msgid "retype password"
-msgstr "Mot de passe (vérif.)"
+msgstr "Mot de passe (vérif.) "
 
 #: forum/forms/general.py:163
 msgid "please, retype your password"
@@ -1100,7 +1106,7 @@ msgstr ""
 #: forum/skins/default/templates/sidebar/markdown_help.html:12
 #: forum/skins/default/templates/sidebar/markdown_help.html:17
 msgid "title"
-msgstr "Titre"
+msgstr "Titre "
 
 #: forum/forms/qanda.py:24
 msgid "please enter a descriptive title for your question"
@@ -1128,7 +1134,7 @@ msgstr "la réponse doit contenir au moins %s caractères"
 #: forum/forms/qanda.py:80 forum/skins/default/templates/header.html:36
 #: forum/skins/default/templates/search.html:21 forum/views/readers.py:295
 msgid "tags"
-msgstr "Mots-clés"
+msgstr "Mots-clés "
 
 #: forum/forms/qanda.py:82
 #, python-format
@@ -1204,23 +1210,23 @@ msgstr "Adresse courriel (restera confidentielle) :"
 
 #: forum/forms/qanda.py:301
 msgid "this email does not have to be linked to gravatar"
-msgstr "Cette adresse courriel n'a pas besoin d'être liée à un gravatar"
+msgstr "Cette adresse courriel n'a pas besoin d'être liée à un gravatar."
 
 #: forum/forms/qanda.py:302
 msgid "Real name"
-msgstr "Nom véritable"
+msgstr "Nom véritable "
 
 #: forum/forms/qanda.py:303
 msgid "Website"
-msgstr "Site Web"
+msgstr "Site Web "
 
 #: forum/forms/qanda.py:304
 msgid "Location"
-msgstr "Lieu"
+msgstr "Lieu "
 
 #: forum/forms/qanda.py:305
 msgid "Date of birth"
-msgstr "Date de naissance"
+msgstr "Date de naissance "
 
 #: forum/forms/qanda.py:305
 msgid "will not be shown, used to calculate age, format: YYYY-MM-DD"
@@ -1230,7 +1236,7 @@ msgstr "ne sera pas affiché et ne sera utilisé que pour calculer l'âge (forma
 #: forum/skins/default/templates/account_settings.html:21
 #: forum/skins/default/templates/osqaadmin/moderation.html:69
 msgid "Profile"
-msgstr "Profil"
+msgstr "Profil "
 
 #: forum/forms/qanda.py:311
 msgid "Screen name"
@@ -1691,6 +1697,12 @@ msgstr ""
 #: forum/settings/faq.py:5
 msgid "FAQ page"
 msgstr "Page de la FAQ"
+
+#: forum/settings/about.py:5
+msgid ""
+"Define the text in the FAQ page. You can use markdown and some basic html tags."
+msgstr "Saisissez le texte de la page de la FAQ. Vous pouvez utiliser Markdown "
+"et quelques balises HTML de base."
 
 #: forum/settings/faq.py:78
 msgid "FAQ page text"
@@ -2329,7 +2341,7 @@ msgstr "Page d'introduction visible sur la barre latérale pour les utilisateurs
 
 #: forum/settings/sidebar.py:32
 msgid "Question title tips"
-msgstr "Conseils pour le titre de la question"
+msgstr "Conseils pour les questions"
 
 #: forum/settings/sidebar.py:33
 msgid ""
@@ -2435,9 +2447,13 @@ msgid ""
 msgstr "Utilisé dans la balise <pre>&lt;changefreq&gt;</pre> du plan du site "
 "des questions et spécifie la fréquence de changement du contenu"
 
-#: forum/settings/static.py:17
+#: forum/settings/static.py:13
 msgid "Use custom CSS"
 msgstr "Utiliser un CSS personnalisé"
+
+#: forum/settings/static.py:13
+msgid "Define some custom css you can use to override the default css."
+msgstr "Définit quelques personnalisations CSS pour surcharger celles par défaut"
 
 #: forum/settings/static.py:18
 msgid "Do you want to use custom CSS."
@@ -2447,13 +2463,17 @@ msgstr "Si coché, un CSS personnalisé sera utilisé."
 msgid "Custom CSS"
 msgstr "CSS personnalisé"
 
+#: forum/settings/static.py:23
+msgid "Your custom CSS."
+msgstr "Votre CSS personnalisé."
+
 #: forum/settings/static.py:31
 msgid "Header and Footer"
 msgstr "Entête et pied de page"
 
-#: forum/settings/static.py:23
-msgid "Your custom CSS."
-msgstr "Votre CSS personnalisé."
+#: forum/settings/static.py:31
+msgid "Adds a custom header and/or footer to your page"
+msgstr "Ajoute un entête et/ou un pied de page personnalisés à votre page"
 
 #: forum/settings/static.py:31
 msgid "Use custom header"
@@ -2561,6 +2581,10 @@ msgstr "Si coché, des éléments d'en-tête personnalisé seront utilisés."
 #: forum/settings/static.py:103
 msgid "Custom Head"
 msgstr "En-tête personnalisé"
+
+#: forum/settings/static.py:103
+msgid "Define some custom elements to include in the head section of every page."
+msgstr "Définit quelques éléments personnalisés à inclure dans la section d'entêtre de chaque page"
 
 #: forum/settings/static.py:104
 msgid "Your custom Head elements."
@@ -3476,7 +3500,7 @@ msgstr "Distinctions"
 #: forum/skins/default/templates/badges.html:13
 msgid "Community gives you awards for your questions, answers and votes."
 msgstr ""
-"La communauté vous donne des distinctions pour vos questions, réponses et "
+"La communauté vous gratifie de distinctions pour vos questions, réponses et "
 "votes."
 
 #: forum/skins/default/templates/badges.html:14
@@ -4012,7 +4036,7 @@ msgstr "Questions par page"
 #: forum/skins/default/templates/paginator.html:7
 #: forum/skins/default/templates/paginator/page_numbers.html:6
 msgid "previous"
-msgstr "précédent"
+msgstr "Précédent"
 
 #: forum/skins/default/templates/paginator.html:19
 msgid "current page"
@@ -4197,11 +4221,11 @@ msgstr "Modifier la question"
 
 #: forum/skins/default/templates/question_edit_tips.html:4
 msgid "Title Tips"
-msgstr "Conseils pour le titre"
+msgstr "Conseils pour les questions"
 
 #: forum/skins/default/templates/question_edit_tips.html:16
 msgid "What Are Tags"
-msgstr "Quels sont les mots-clés"
+msgstr "À quoi servent les mots-clés ?"
 
 #: forum/skins/default/templates/question_retag.html:5
 #: forum/skins/default/templates/question_retag.html:40
@@ -4294,7 +4318,7 @@ msgstr "Rouvrir cette question"
 #: forum/skins/default/templates/revisions.html:7
 #: forum/skins/default/templates/revisions.html:38
 msgid "Revision history"
-msgstr "Historique des modifications"
+msgstr "Historique des modifications "
 
 #: forum/skins/default/templates/revisions.html:52
 msgid "click to hide/show revision"
@@ -4361,7 +4385,7 @@ msgstr ""
 
 #: forum/skins/default/templates/subscription_status.html:32
 msgid "By RSS"
-msgstr "Par RSS "
+msgstr "Par flux RSS "
 
 #: forum/skins/default/templates/subscription_status.html:35
 msgid "subscribe to answers"
@@ -4833,7 +4857,7 @@ msgstr "Convertir le commentaire en réponse"
 #: forum/skins/default/templates/node/comments.html:47
 #, python-format
 msgid "showing %(showing)s of %(total)s"
-msgstr "afficher %(showing)s de %(total)s"
+msgstr "Affichage de %(showing)s parmi %(total)s"
 
 #: forum/skins/nuxeo/templates/node/comments.html:42
 msgid "show all"
@@ -4862,7 +4886,7 @@ msgstr "commentaire"
 #: forum/skins/default/templates/node/comments.html:49
 #, python-format
 msgid "show %(more_comments_count)s more comments"
-msgstr "afficher %(more_comments_count)s commentaires en plus"
+msgstr "Afficher %(more_comments_count)s commentaire(s) en plus"
 
 #: forum/skins/default/templates/node/comment_skeleton.html:18
 msgid " cancel"
@@ -5987,7 +6011,7 @@ msgstr ""
 
 #: forum/skins/default/templates/paginator/page_numbers.html:22
 msgid "next"
-msgstr "suivant"
+msgstr "Suivant"
 
 #: forum/skins/default/templates/paginator/sort_tabs.html:9
 msgid "Check to make the sort order sticky"
@@ -6163,7 +6187,7 @@ msgstr "Utilisateur enregistré"
 
 #: forum/skins/default/templates/users/edit.html:58
 msgid "Screen Name"
-msgstr "Compte"
+msgstr "Nom de compte "
 
 #: forum/skins/default/templates/users/edit.html:99
 #: forum/skins/default/templates/users/subscriptions_settings.html:105
@@ -6190,7 +6214,7 @@ msgstr "Modérateur"
 
 #: forum/skins/default/templates/users/info.html:54
 msgid "real name"
-msgstr "vrai nom"
+msgstr "Nom véritable"
 
 #: forum/skins/default/templates/users/info.html:59
 msgid "member for"
@@ -6202,15 +6226,15 @@ msgstr "Dernière visite"
 
 #: forum/skins/default/templates/users/info.html:70
 msgid "user's website"
-msgstr "site Web de l'utilisateur"
+msgstr "Site Web de l'utilisateur"
 
 #: forum/skins/default/templates/users/info.html:76
 msgid "location"
-msgstr "lieu"
+msgstr "Lieu"
 
 #: forum/skins/default/templates/users/info.html:84
 msgid "age"
-msgstr "âge"
+msgstr "Âge"
 
 #: forum/skins/default/templates/users/info.html:85
 msgid "age unit"
@@ -6262,11 +6286,11 @@ msgstr "Vous pouvez spécifier ici quelques préférences personnelles."
 
 #: forum/skins/default/templates/users/preferences.html:17
 msgid "Navigation:"
-msgstr "Navigation:"
+msgstr "Navigation :"
 
 #: forum/skins/default/templates/users/preferences.html:21
 msgid "Always remember the sort order I apply to the lists I view"
-msgstr "Toujours se souvenir de l'ordre que j'applique aux listes que je consulte"
+msgstr "Toujours se souvenir de l'ordre que j'applique aux listes que je consulte."
 
 #: forum/skins/default/templates/users/questions.html:11
 msgid "No favorite questions to display."
@@ -7368,7 +7392,7 @@ msgstr "Sans réponse"
 
 #: forum/views/readers.py:111
 msgid "open questions without an accepted answer"
-msgstr "questions sans réponse acceptée"
+msgstr "Questions ouvertes (sans réponse acceptée)"
 
 #: forum/views/readers.py:113
 msgid "Unanswered Questions"
@@ -7423,7 +7447,7 @@ msgstr "Questions les plus pertinentes"
 #: forum/views/readers.py:288 forum/views/readers.py:290
 #, python-format
 msgid "questions matching '%(keywords)s'"
-msgstr "question(s) contenant « %(keywords)s »"
+msgstr "Question(s) contenant « %(keywords)s »"
 
 #: forum/views/readers.py:443
 #, python-format
@@ -8886,7 +8910,7 @@ msgstr ""
 
 #: forum_modules/stats/views.py:8
 msgid "stats"
-msgstr "statistiques"
+msgstr ""
 
 #: forum_modules/stats/views.py:8
 msgid "Stats Module"
