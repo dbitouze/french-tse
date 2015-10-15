@@ -5704,7 +5704,7 @@ msgstr "Tricheurs potentiels"
 #: forum/skins/default/templates/osqaadmin/moderation.html:57
 #: forum/skins/default/templates/osqaadmin/moderation.html:70
 msgid "Email"
-msgstr "Courriel"
+msgstr "Courriel "
 
 #: forum/skins/default/templates/osqaadmin/moderation.html:59
 #: forum/skins/default/templates/osqaadmin/moderation.html:83
@@ -8887,7 +8887,7 @@ msgid ""
 "Use the OSQA stats server recieve notifications about the latest updates.\n"
 msgstr ""
 "\n"
-"Utiliser le serveur de statistiques OSA pour recevoir des notifications des "
+"Utiliser le serveur de statistiques OSQA pour recevoir des notifications des "
 "mises à jour les plus récentes.\n"
 
 #: forum_modules/updates/urls.py:8
