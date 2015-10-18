@@ -51,16 +51,16 @@
 </li>
 <li><a href="#custom-id-forme">3. Forme des contributions</a>
 <ul>
-<li><a href="#orgheadline22">3.1. Comment mettre en forme ma contribution ?</a></li>
-<li><a href="#orgheadline23">3.2. Comment insérer le (un extrait de) code d&rsquo;un fichier <code>.tex</code> (ou autre) ?</a></li>
-<li><a href="#orgheadline24">3.3. Dans un paragraphe de texte, comment faire ressortir une commande (La)TeX ou le nom d&rsquo;un package ?</a></li>
-<li><a href="#orgheadline25">3.4. Dans une liste, comment ajouter un nouvel item et comment en sortir ?</a></li>
+<li><a href="#custom-id-mise-en-forme">3.1. Comment mettre en forme ma contribution ?</a></li>
+<li><a href="#orgheadline22">3.2. Comment insérer le (un extrait de) code d&rsquo;un fichier <code>.tex</code> (ou autre) ?</a></li>
+<li><a href="#orgheadline23">3.3. Dans un paragraphe de texte, comment faire ressortir une commande (La)TeX ou le nom d&rsquo;un package ?</a></li>
+<li><a href="#orgheadline24">3.4. Dans une liste, comment ajouter un nouvel item et comment en sortir ?</a></li>
 <li><a href="#custom-id-image-pdf-dvi">3.5. Comment faire figurer une image du fichier <code>.pdf</code> (ou <code>.dvi</code>) que j&rsquo;obtiens pour que les autres voient immédiatement le problème que je rencontre ou la solution que je propose ?</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline27">4. Divers</a>
+<li><a href="#orgheadline26">4. Divers</a>
 <ul>
-<li><a href="#orgheadline26">4.1. À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?</a></li>
+<li><a href="#orgheadline25">4.1. À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?</a></li>
 <li><a href="#custom-id-editeur">4.2. Je voudrais tester un ECM illustrant une question ou une réponse mais (La)TeX n&rsquo;est pas installé sur la machine que j&rsquo;utilise actuellement. Que puis-je faire ?</a></li>
 </ul>
 </li>
@@ -363,7 +363,7 @@ voulez répondre.
 Veillez à vous assurer de la *lisibilité* de vos contributions (questions,
 réponses et commentaires).
 
-## Comment mettre en forme ma contribution ?<a id="orgheadline22"></a>
+## Comment mettre en forme ma contribution ?<a id="custom-id-mise-en-forme"></a>
 
 -   **Questions ou réponses :** dans les zones dédiées aux questions ou réponses, une
     mise en forme basique du texte est possible, et facilitée par des raccourcis
@@ -415,7 +415,7 @@ fait au moyen des raccourcis :
 -   **annulation** : <kbd>Ctrl</kbd>+<kbd>z</kbd>
 -   **rétablissement** : <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>z</kbd>
 
-## Comment insérer le (un extrait de) code d&rsquo;un fichier `.tex` (ou autre) ?<a id="orgheadline23"></a>
+## Comment insérer le (un extrait de) code d&rsquo;un fichier `.tex` (ou autre) ?<a id="orgheadline22"></a>
 
 Pour insérer le code d&rsquo;un fichier `.tex` (ou autre) dans une zone de texte dédiée
 aux questions ou réponses, il suffit de :
@@ -427,7 +427,7 @@ aux questions ou réponses, il suffit de :
     code (« Code Sample&#x2026; »).
 5.  Laisser une ligne vide après le code (sauf en fin de contribution).
 
-## Dans un paragraphe de texte, comment faire ressortir une commande (La)TeX ou le nom d&rsquo;un package ?<a id="orgheadline24"></a>
+## Dans un paragraphe de texte, comment faire ressortir une commande (La)TeX ou le nom d&rsquo;un package ?<a id="orgheadline23"></a>
 
 Il suffit de les afficher en tant qu&rsquo;extrait de code. Pour cela, recourir au
 raccourci <kbd>Ctrl</kbd>+<kbd>k</kbd> ou cliquer sur le bouton de code (« Code
@@ -436,7 +436,7 @@ Sample&#x2026; »), ce qui est à faire ressortir étant saisi :
 -   soit après ;
 -   soit avant, mais alors étant préalablement sélectionné.
 
-## Dans une liste, comment ajouter un nouvel item et comment en sortir ?<a id="orgheadline25"></a>
+## Dans une liste, comment ajouter un nouvel item et comment en sortir ?<a id="orgheadline24"></a>
 
 Dans une liste :
 
@@ -474,9 +474,9 @@ compilé avec `pdflatex` lancé avec l&rsquo;option `-shell-escape`, génère le
 Au cas où cette méthode échoue (ou ne soit pas adaptée en raison des points
 ci-dessus), [d'autres possibilités existent](http://tex.stackexchange.com/q/11866/18401).
 
-# Divers<a id="orgheadline27"></a>
+# Divers<a id="orgheadline26"></a>
 
-## À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?<a id="orgheadline26"></a>
+## À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?<a id="orgheadline25"></a>
 
 Une fois connecté, vous pouvez **participer à la vie** de ce site en :
 

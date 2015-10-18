@@ -308,6 +308,9 @@ Veillez à vous assurer de la /lisibilité/ de vos contributions (questions,
 réponses et commentaires).
 
 ** Comment mettre en forme ma contribution ?
+:PROPERTIES:
+:CUSTOM_ID: custom-id-mise-en-forme
+:END:
 
 - *Questions ou réponses :* dans les zones dédiées aux questions ou réponses, une
   mise en forme basique du texte est possible, et facilitée par des raccourcis
