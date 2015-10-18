@@ -127,27 +127,27 @@ msgstr "lever une suspension"
 
 #: forum/registry.py:109
 msgid "suspend this user"
-msgstr "suspendre cet utilisateur"
+msgstr "Suspendre cet utilisateur"
 
 #: forum/registry.py:116
 msgid "give/take karma"
-msgstr "donner/retirer du karma"
+msgstr "Donner/retirer du karma"
 
 #: forum/registry.py:124
 msgid "remove moderator status"
-msgstr "enlever la permission de modérer"
+msgstr "Retirer la permission de modérer"
 
 #: forum/registry.py:124
 msgid "grant moderator status"
-msgstr "donner la permission de modérer"
+msgstr "Donner la permission de modérer"
 
 #: forum/registry.py:131
 msgid "remove super user status"
-msgstr "enlever le statut de super utilisateur"
+msgstr "Retirer le statut de super utilisateur"
 
 #: forum/registry.py:131
 msgid "grant super user status"
-msgstr "donner le statut de super utilisateur"
+msgstr "Donner le statut de super utilisateur"
 
 #: forum/urls.py:29
 msgid "nimda/"
