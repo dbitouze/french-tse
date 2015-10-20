@@ -593,12 +593,12 @@ msgstr "%(user)s a commenté %(post_desc)s "
 
 #: forum/actions/node.py:78 forum/actions/page.py:23
 msgid "edited"
-msgstr "Modifié"
+msgstr "Modifiée"
 
 #: forum/actions/node.py:90
 #, python-format
 msgid "%(user)s edited %(post_desc)s"
-msgstr "%(user)s a modifié %(post_desc)s"
+msgstr "%(post_desc)s modifié par %(user)s"
 
 #: forum/actions/node.py:99
 msgid "retagged"
@@ -699,12 +699,12 @@ msgstr "%(user)s a publié une nouvelle page intitulée %(page)s"
 
 #: forum/actions/user.py:14
 msgid "joined"
-msgstr "a rejoint"
+msgstr "s'est connecté au"
 
 #: forum/actions/user.py:24
 #, python-format
 msgid "%(user)s %(have_has)s joined the %(app_name)s Q&A community"
-msgstr "%(user)s %(have_has)s procédé à son inscription sur le site de questions/réponses %(app_name)s"
+msgstr "%(user)s %(have_has)s procédé à son inscription sur %(app_name)s"
 
 #: forum/actions/user.py:26 forum/actions/user.py:36 forum/actions/user.py:52
 msgid "have"
@@ -721,7 +721,7 @@ msgstr "s'est connecté(e)"
 #: forum/actions/user.py:34
 #, python-format
 msgid "%(user)s %(have_has)s logged in"
-msgstr "%(user)s %(have_has)s rejoint le présent site"
+msgstr "%(user)s %(have_has)s procédé à une connexion sur le présent site"
 
 #: forum/actions/user.py:40
 msgid "validated e-mail"
@@ -2873,7 +2873,7 @@ msgstr "Retenir les publications en cours d'envoi pendant X minutes"
 msgid ""
 "How much time in minutes a post should be kept in session until the user "
 "logs in or validates the email."
-msgstr "Temps en minutes une publication doit être gardée en mémoire "
+msgstr "Temps en minutes qu'une publication doit être gardée en mémoire "
 "jusqu'à ce que l'utilisateur se connecte ou valide son adresse courriel."
 
 #: forum/settings/users.py:87
@@ -5436,7 +5436,7 @@ msgstr "utilisateur"
 #: forum/skins/default/templates/osqaadmin/dashboard.html:29
 #: forum/skins/default/templates/osqaadmin/index.html:31
 msgid "joined in the last 24 hours"
-msgstr "rejoint dans les dernières 24 heures"
+msgstr "ont rejoint le présent site au cours des dernières 24 heures"
 
 #: forum/skins/default/templates/osqaadmin/dashboard.html:36
 #: forum/skins/default/templates/osqaadmin/index.html:37
