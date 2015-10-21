@@ -880,7 +880,7 @@ msgstr "Mauvais comportement"
 
 #: forum/forms/admin.py:16
 msgid "Please input at least one ip address"
-msgstr "Veuillez saisir au moins au moins une adresse IP"
+msgstr "Veuillez saisir au moins une adresse IP"
 
 #: forum/forms/admin.py:22
 #, python-format
@@ -1798,7 +1798,7 @@ msgstr "Nombre requis de mots-clés par question"
 
 #: forum/settings/form.py:46
 msgid "How many tags are required in questions."
-msgstr "Nombre de mots-clés sont requis dans les questions."
+msgstr "Nombre de mots-clés requis dans les questions."
 
 #: forum/settings/form.py:50
 msgid "Maximum number of tags per question"
@@ -1806,7 +1806,7 @@ msgstr "Nombre maximum de mots-clés par question"
 
 #: forum/settings/form.py:51
 msgid "How many tags are allowed in questions."
-msgstr "Nombre de mots-clés sont autorisés dans les questions."
+msgstr "Nombre de mots-clés autorisés dans les questions."
 
 #: forum/settings/form.py:55
 msgid "Minimum length of a tag"
@@ -1884,7 +1884,7 @@ msgid ""
 "Configure the minimum reputation required to perform certain actions on your "
 "site."
 msgstr ""
-"Configurer la réputation minimum requis pour réaliser certaines actions sur "
+"Configurer la réputation minimum requise pour réaliser certaines actions sur "
 "votre site."
 
 #: forum/settings/minrep.py:7
@@ -2015,7 +2015,7 @@ msgid ""
 "questions."
 msgstr ""
 "Réputation minimale qu'un utilisateur doit avoir pour pouvoir "
-"de modifier les mots-clés d'autres questions."
+"modifier les mots-clés d'autres questions."
 
 #: forum/settings/minrep.py:56
 msgid "Minimum reputation to edit wiki posts"
@@ -2090,8 +2090,7 @@ msgstr ""
 
 #: forum/settings/minrep.py:80
 msgid "Minimum reputation to convert comments to answers"
-msgstr ""
-"Réputation minimale requise pour convertir des commentaires en questions"
+msgstr "Réputation minimale requise pour convertir des commentaires en réponses"
 
 #: forum/settings/minrep.py:81
 msgid ""
@@ -2099,7 +2098,7 @@ msgid ""
 "into an answer."
 msgstr ""
 "Réputation minimale requise par un utilisateur pour avoir le droit de "
-"transformer une réponse en commentaire."
+"transformer des commentaires en réponse."
 
 #: forum/settings/minrep.py:84
 msgid "Minimum reputation to convert answers to questions"
@@ -2129,7 +2128,7 @@ msgstr "Modération"
 
 #: forum/settings/moderation.py:8
 msgid "Define the moderation workflow of your site"
-msgstr "Définit le flux de travail de modération de votre site"
+msgstr "Définir le flux de travail de modération de votre site"
 
 #: forum/settings/moderation.py:11
 msgid "Use canned comments"
@@ -2493,7 +2492,7 @@ msgstr "Votre en-tête personnalisé."
 
 #: forum/settings/static.py:42
 msgid "Custom Header rendering mode"
-msgstr "Mode de rendu du en-tête personnalisé"
+msgstr "Mode de rendu de l'en-tête personnalisé"
 
 #: forum/settings/static.py:43
 msgid "How to render your custom header code."
@@ -2584,7 +2583,7 @@ msgstr "En-tête personnalisé"
 
 #: forum/settings/static.py:103
 msgid "Define some custom elements to include in the head section of every page."
-msgstr "Définit quelques éléments personnalisés à inclure dans la section d'entêtre de chaque page"
+msgstr "Définit quelques éléments personnalisés à inclure dans la section d'entête de chaque page"
 
 #: forum/settings/static.py:104
 msgid "Your custom Head elements."
@@ -3022,7 +3021,7 @@ msgstr "Afficher les mots-clés dans un nuage"
 #: forum/settings/view.py:34
 msgid ""
 "If selected the tags in the recent tags widget will be displayed in a cloud."
-msgstr "Si coché, les mots-clés dans un nuage seront affichés dans un nuage."
+msgstr "Si coché, les mots-clés les plus récents seront affichés dans un nuage."
 
 #: forum/settings/view.py:38
 msgid "Tags cloud min occurs"
@@ -5632,7 +5631,7 @@ msgid ""
 "Maintainance mode allows you to close your site for maintainance, allowing "
 "only a predetermined set of ip addresses to access it normally."
 msgstr ""
-"Le mode « Maintenance » vous permet de fermer votre site pour maintainance, en "
+"Le mode « Maintenance » vous permet de fermer votre site pour maintenance, en "
 "n'autorisant qu'un ensemble prédéfini d'adresses IP à y accéder."
 
 #: forum/skins/default/templates/osqaadmin/maintenance.html:13
@@ -6465,7 +6464,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"    Vous pouvez ici choisir les types de notifications vous souhaitez "
+"    Vous pouvez ici choisir les types de notifications que vous souhaitez "
 "recevoir ainsi que leurs fréquences.<br />\n"
 "    "
 
@@ -7647,7 +7646,7 @@ msgstr "Désolé mais akismet considère %s comme du spam."
 
 #: forum_modules/akismet/templates/foundspam.html:3
 msgid "Akismet message"
-msgstr "Message Askismet"
+msgstr "Message Akismet"
 
 #: forum_modules/akismet/templates/foundspam.html:7
 #, python-format
@@ -7989,7 +7988,7 @@ msgstr ""
 
 #: forum_modules/default_badges/settings.py:36
 msgid "Good Answer up votes"
-msgstr "Votes favorables  pour atteindre « Très bonne réponse »"
+msgstr "Votes favorables pour atteindre « Très bonne réponse »"
 
 #: forum_modules/default_badges/settings.py:37
 msgid ""
@@ -8003,7 +8002,7 @@ msgstr ""
 
 #: forum_modules/default_badges/settings.py:42
 msgid "Good Question up votes"
-msgstr "Votes favorables  pour atteindre « Très bonne question »"
+msgstr "Votes favorables pour atteindre « Très bonne question »"
 
 #: forum_modules/default_badges/settings.py:43
 msgid ""
@@ -8031,7 +8030,7 @@ msgstr ""
 
 #: forum_modules/default_badges/settings.py:54
 msgid "Great Question up votes"
-msgstr "Votes favorables  pour atteindre « Excellente question »"
+msgstr "Votes favorables pour atteindre « Excellente question »"
 
 #: forum_modules/default_badges/settings.py:55
 msgid ""
