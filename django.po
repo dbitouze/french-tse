@@ -1814,7 +1814,7 @@ msgstr "Longueur minimale d'un mot-clé"
 
 #: forum/settings/form.py:56
 msgid "How short a tag can be."
-msgstr "Quelle longueur au moins doit avoir un mot-clé."
+msgstr "Longueur minimale requise pour un mot-clé."
 
 #: forum/settings/form.py:60
 msgid "Maximum length of a tag"
@@ -1822,7 +1822,7 @@ msgstr "Longueur maximale d'un mot-clé"
 
 #: forum/settings/form.py:61
 msgid "How long a tag can be."
-msgstr "Quelle longueur au plus peut avoir un mot-clé."
+msgstr "Longueur maximale requise pour un mot-clé."
 
 #: forum/settings/form.py:69
 msgid "Minimum number of characters for a comment"
