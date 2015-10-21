@@ -2476,27 +2476,27 @@ msgstr "Ajoute un entête et/ou un pied de page personnalisés à votre page"
 
 #: forum/settings/static.py:31
 msgid "Use custom header"
-msgstr "Utiliser un en-tête personnalisé"
+msgstr "Utiliser un entête personnalisé"
 
 #: forum/settings/static.py:32
 msgid "Do you want to use a custom header."
-msgstr "Si coché, un en-tête personnalisé sera utilisé."
+msgstr "Si coché, un entête personnalisé sera utilisé."
 
 #: forum/settings/static.py:36
 msgid "Custom Header"
-msgstr "En-tête personnalisé"
+msgstr "entête personnalisé"
 
 #: forum/settings/static.py:37
 msgid "Your custom header."
-msgstr "Votre en-tête personnalisé."
+msgstr "Votre entête personnalisé."
 
 #: forum/settings/static.py:42
 msgid "Custom Header rendering mode"
-msgstr "Mode de rendu de l'en-tête personnalisé"
+msgstr "Mode de rendu de l'entête personnalisé"
 
 #: forum/settings/static.py:43
 msgid "How to render your custom header code."
-msgstr "Mode de rendu du code de votre en-tête personnalisé."
+msgstr "Mode de rendu du code de votre entête personnalisé."
 
 #: forum/settings/static.py:48
 msgid "Show announcement bar"
@@ -2571,15 +2571,15 @@ msgstr "Mode de rendu de votre pied-de-page personnalisé."
 
 #: forum/settings/static.py:98
 msgid "Use custom Head elements"
-msgstr "Utiliser des éléments d'en-tête personnalisés"
+msgstr "Utiliser des éléments d'entête personnalisés"
 
 #: forum/settings/static.py:99
 msgid "Do you want to use custom head elements."
-msgstr "Si coché, des éléments d'en-tête personnalisé seront utilisés."
+msgstr "Si coché, des éléments d'entête personnalisé seront utilisés."
 
 #: forum/settings/static.py:103
 msgid "Custom Head"
-msgstr "En-tête personnalisé"
+msgstr "entête personnalisé"
 
 #: forum/settings/static.py:103
 msgid "Define some custom elements to include in the head section of every page."
@@ -2587,7 +2587,7 @@ msgstr "Définit quelques éléments personnalisés à inclure dans la section d
 
 #: forum/settings/static.py:104
 msgid "Your custom Head elements."
-msgstr "Vos éléments d'en-tête personnalisés."
+msgstr "Vos éléments d'entête personnalisés."
 
 #: forum/settings/upload.py:5
 msgid "File upload settings"
@@ -3748,14 +3748,14 @@ msgstr ""
 
 #: forum/skins/default/templates/markdown_help.html:20
 msgid "Headers"
-msgstr "En-tête"
+msgstr "entête"
 
 #: forum/skins/default/templates/markdown_help.html:22
 msgid ""
 "For top-level headers underline the text with equal signs.  For second-level "
 "headers use dashes to underline."
 msgstr ""
-"Les en-têtes de premier niveau sont soulignés avec des =. Les en-têtes de "
+"Les entêtes de premier niveau sont soulignés avec des =. Les entêtes de "
 "second niveau sont soulignés avec des -."
 
 #: forum/skins/default/templates/markdown_help.html:26
