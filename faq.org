@@ -220,6 +220,9 @@ effectivement /complet/ et /minimal/.
 Et n'oubliez pas : « Aide-toi, [[http://texnique.fr/][texnique.fr]] t'aidera. » :-)
 
 *** Que dois-je faire quand une réponse à ma question a été postée ?
+:PROPERTIES:
+:CUSTOM_ID: custom-id-que-faire-si-reponse
+:END:
 
 Si la réponse vous semble :
 - *non satisfaisante*, notamment si elle ne solutionne pas (complètement) votre
@@ -453,3 +456,27 @@ Il suffit de cliquer sur le lien « Ouvrir dans l'éditeur » situé juste au-de
 de cet ECM : son code source sera alors ouvert puis automatiquement compilé et
 le PDF correspondant affiché sur le [[https://www.overleaf.com/][Overleaf]]. Ce site permet notamment l'édition
 (éventuellement collaborative) et la compilation en ligne de fichiers LaTeX.
+** Que signifie le taux d'acceptation figurant à côté des noms d'utilisateurs ?
+
+Pour un utilisateur donné, ce taux indique, parmi toutes les réponses qu'il
+a proposées, le pourcentage de celles acceptées par les auteurs des
+questions. Ce chiffre peut être un peu biaisé puisque certains auteurs de questions
+[[#custom-id-que-faire-si-reponse][omettent d'accepter les réponses qu'on leur fournit]].
+
+** Que signifient les losanges figurant à côté de certains noms d'utilisateurs ?
+
+- Un unique losange indique un membre de l'équipe.
+- Un double losange indique un administrateur.
+
+** Que signifient les différents codes couleurs du site ?
+
+1. Sur la [page d'accueil](/osqa), les boîtes contenant le nombre de réponses figurant en regard des questions
+   ont leurs fonds colorés en :
+   1. rose s'il n'y a encore aucune réponse ;
+   2. bleu s'il y a au moins une réponse mais dont aucune n'a été acceptée
+      par l'auteur de la question ;
+   3. vert s'il y a au moins une réponse dont une a été acceptée par l'auteur
+      de la question.
+2. Sur la page d'une question, le fond d'une réponse est coloré en :
+   1. vert si elle a été acceptée par l'auteur de la question ;
+   2. bleu si son auteur est aussi l'auteur de la question.
