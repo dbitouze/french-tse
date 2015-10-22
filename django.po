@@ -6670,7 +6670,7 @@ msgstr "%s n'a aucune une réponse acceptée"
 
 #: forum/templatetags/extra_tags.py:131
 msgid "accept rate"
-msgstr "Taux d'acceptation"
+msgstr "Taux d'acceptation "
 
 #: forum/templatetags/extra_tags.py:105
 msgid "%b %d '%y at %H:%M"
