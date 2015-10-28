@@ -103,7 +103,7 @@ site d&rsquo;accepter que toutes leurs contributions (questions, réponses,
 commentaires) soient publiées sous la licence [Creative Commons Partage dans les
 mêmes conditions 3.0 France (cc-by-sa 3.0 fr)](https://creativecommons.org/licenses/by-sa/3.0/fr/), est d&rsquo;assurer que celles-ci
 pourront être exploitées ultérieurement, par exemple pour constituer ou enrichir
-une FAQ LaTeX.
+une FAQ LaTeX (bien sûr alors publiée sous la même licence).
 
 ## Pour participer à cette communauté, dois-je créer un nouveau compte ?<a id="orgheadline4"></a>
 
