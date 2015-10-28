@@ -23,6 +23,15 @@ membres expérimentés de sa communauté peuvent de remanier les contributions d
 autres. Ainsi, les visiteurs trouveront ici beaucoup de questions bien posées et
 de réponses clairement formulées.
 
+** Pourquoi mes contributions sont-elles automatiquement placées sous licence « cc-by-sa 3.0 fr » ?
+
+La raison principale pour laquelle nous demandons aux utilisateurs du présent
+site d'accepter que toutes leurs contributions (questions, réponses,
+commentaires) soient publiées sous la licence [[https://creativecommons.org/licenses/by-sa/3.0/fr/][Creative Commons Partage dans les
+mêmes conditions 3.0 France (cc-by-sa 3.0 fr)]], est d'assurer que celles-ci
+pourront être exploitées ultérieurement, par exemple pour constituer ou enrichir
+une FAQ LaTeX.
+
 ** Pour participer à cette communauté, dois-je créer un nouveau compte ?
 
 - Si vous possédez déjà un [[http://openid.net/get-an-openid/what-is-openid/][OpenID]], vous pouvez [[http://texnique.fr/osqa/compte/connexion/][directement vous connecter au
