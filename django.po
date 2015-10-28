@@ -4907,7 +4907,7 @@ msgstr "Convertir en question"
 #: forum/skins/default/templates/node/favorite_mark.html:3
 msgid "mark/unmark this question as favorite (click again to cancel)"
 msgstr ""
-"marquer cette question comme favorite (cliquer à nouveau pour annuler)"
+"Marquer cette question comme favorite (cliquer à nouveau pour annuler)"
 
 #: forum/skins/default/templates/node/permanent_link.html:4
 msgid ""
