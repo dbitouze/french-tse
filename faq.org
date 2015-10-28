@@ -24,13 +24,16 @@ autres. Ainsi, les visiteurs trouveront ici beaucoup de questions bien posées e
 de réponses clairement formulées.
 
 ** Pourquoi mes contributions sont-elles automatiquement placées sous licence « cc-by-sa 3.0 fr » ?
+:PROPERTIES:
+:CUSTOM_ID: custom-id-license
+:END:
 
 La raison principale pour laquelle nous demandons aux utilisateurs du présent
 site d'accepter que toutes leurs contributions (questions, réponses,
 commentaires) soient publiées sous la licence [[https://creativecommons.org/licenses/by-sa/3.0/fr/][Creative Commons Partage dans les
 mêmes conditions 3.0 France (cc-by-sa 3.0 fr)]], est d'assurer que celles-ci
 pourront être exploitées ultérieurement, par exemple pour constituer ou enrichir
-une FAQ LaTeX.
+une FAQ LaTeX (bien sûr alors publiée sous la même licence).
 
 ** Pour participer à cette communauté, dois-je créer un nouveau compte ?
 

@@ -7,12 +7,13 @@
 <li><a href="#orgheadline1">1.1. En quoi ce site de questions/réponses diffère-t-il d&rsquo;un forum typique ?</a></li>
 <li><a href="#orgheadline2">1.2. Qui anime cette communauté ?</a></li>
 <li><a href="#orgheadline3">1.3. Pourquoi d&rsquo;autres personnes peuvent-elles modifier mes contributions (questions/réponses/commentaires) ?</a></li>
-<li><a href="#orgheadline4">1.4. Pour participer à cette communauté, dois-je créer un nouveau compte ?</a></li>
-<li><a href="#custom-id-points">1.5. Comment fonctionne le système de points ?</a></li>
-<li><a href="#orgheadline5">1.6. Qu&rsquo;est-ce qu&rsquo;un « gravatar » ?</a></li>
-<li><a href="#orgheadline6">1.7. Pourquoi les notifications par courriel sont-elles si importantes ?</a></li>
-<li><a href="#orgheadline7">1.8. Comment modifier mon profil, par exemple mes notifications par courriel ?</a></li>
-<li><a href="#orgheadline8">1.9. Et maintenant ?</a></li>
+<li><a href="#custom-id-license">1.4. Pourquoi mes contributions sont-elles automatiquement placées sous licence « cc-by-sa 3.0 fr » ?</a></li>
+<li><a href="#orgheadline4">1.5. Pour participer à cette communauté, dois-je créer un nouveau compte ?</a></li>
+<li><a href="#custom-id-points">1.6. Comment fonctionne le système de points ?</a></li>
+<li><a href="#orgheadline5">1.7. Qu&rsquo;est-ce qu&rsquo;un « gravatar » ?</a></li>
+<li><a href="#orgheadline6">1.8. Pourquoi les notifications par courriel sont-elles si importantes ?</a></li>
+<li><a href="#orgheadline7">1.9. Comment modifier mon profil, par exemple mes notifications par courriel ?</a></li>
+<li><a href="#orgheadline8">1.10. Et maintenant ?</a></li>
 </ul>
 </li>
 <li><a href="#custom-id-fond">2. Fond des contributions</a>
@@ -94,6 +95,15 @@ Pour améliorer la qualité globale de la base de connaissances de ce site, les
 membres expérimentés de sa communauté peuvent de remanier les contributions des
 autres. Ainsi, les visiteurs trouveront ici beaucoup de questions bien posées et
 de réponses clairement formulées.
+
+## Pourquoi mes contributions sont-elles automatiquement placées sous licence « cc-by-sa 3.0 fr » ?<a id="custom-id-license"></a>
+
+La raison principale pour laquelle nous demandons aux utilisateurs du présent
+site d&rsquo;accepter que toutes leurs contributions (questions, réponses,
+commentaires) soient publiées sous la licence [Creative Commons Partage dans les
+mêmes conditions 3.0 France (cc-by-sa 3.0 fr)](https://creativecommons.org/licenses/by-sa/3.0/fr/), est d&rsquo;assurer que celles-ci
+pourront être exploitées ultérieurement, par exemple pour constituer ou enrichir
+une FAQ LaTeX.
 
 ## Pour participer à cette communauté, dois-je créer un nouveau compte ?<a id="orgheadline4"></a>
 
