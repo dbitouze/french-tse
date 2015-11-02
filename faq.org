@@ -245,17 +245,17 @@ Et n'oubliez pas : « Aide-toi, [[http://texnique.fr/][texnique.fr]] t'aidera. �
 :CUSTOM_ID: custom-id-que-faire-si-reponse
 :END:
 
-Si la réponse vous semble :
+Si la *réponse* vous semble :
 - *non satisfaisante*, notamment si elle ne solutionne pas (complètement) votre
-  problème ou si vous souhaitez par exemple qu'elle soit plus développée ou
-  davantage détaillée, *ajoutez un commentaire* en cliquant sur le lien
-  correspondant sous cette réponse ;
+  problème ou si vous souhaitez par exemple qu'elle soit davantage détaillée,
+  *ajoutez un commentaire* en cliquant sur le lien correspondant sous cette
+  réponse ;
 - *satisfaisante*, veillez à *le faire savoir* :
-   - *[[custom-id-contributions-utiles][pas* au moyen d'*un commentaire]]* ;
+   - [[#custom-id-contributions-utiles][*pas* au moyen d'*un commentaire*]] ;
    - *en « acceptant » cette réponse* : pour cela, il suffit de cliquer sur
      l'icône correspondante : [[/osqa/m/default/media/images/vote-accepted.png]] →
      [[/osqa/m/default/media/images/vote-accepted-on.png]] ;
-   - *en votant* pour cette réponse.
+   - *en votant* (positivement) pour cette réponse.
 
 *** J'ai accepté une réponse à ma question mais une autre qui vient d'être publiée est également satisfaisante. Pourquoi ne puis-je pas l'accepter aussi ?
 

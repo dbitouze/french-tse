@@ -302,18 +302,18 @@ Et n&rsquo;oubliez pas : « Aide-toi, [texnique.fr](http://texnique.fr/) t&rsquo
 
 ### Que dois-je faire quand une réponse à ma question a été postée ?<a id="custom-id-que-faire-si-reponse"></a>
 
-Si la réponse vous semble :
+Si la **réponse** vous semble :
 
 -   **non satisfaisante**, notamment si elle ne solutionne pas (complètement) votre
-    problème ou si vous souhaitez par exemple qu&rsquo;elle soit plus développée ou
-    davantage détaillée, **ajoutez un commentaire** en cliquant sur le lien
-    correspondant sous cette réponse ;
+    problème ou si vous souhaitez par exemple qu&rsquo;elle soit davantage détaillée,
+    **ajoutez un commentaire** en cliquant sur le lien correspondant sous cette
+    réponse ;
 -   **satisfaisante**, veillez à **le faire savoir** :
-    -   **[[custom-id-contributions-utiles][pas** au moyen d&rsquo;**un commentaire]]** ;
+    -   [**pas** au moyen d'**un commentaire**](#custom-id-contributions-utiles) ;
     -   **en « acceptant » cette réponse** : pour cela, il suffit de cliquer sur
         l&rsquo;icône correspondante : ![img](/osqa/m/default/media/images/vote-accepted.png) →
         ![img](/osqa/m/default/media/images/vote-accepted-on.png) ;
-    -   **en votant** pour cette réponse.
+    -   **en votant** (positivement) pour cette réponse.
 
 ### J&rsquo;ai accepté une réponse à ma question mais une autre qui vient d&rsquo;être publiée est également satisfaisante. Pourquoi ne puis-je pas l&rsquo;accepter aussi ?<a id="orgheadline13"></a>
 
