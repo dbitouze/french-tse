@@ -198,18 +198,29 @@ contributions.
 
 ### Comment rendre mes contributions aussi utiles que possible ?<a id="custom-id-contributions-utiles"></a>
 
-1.  Soyez **informatif.** En particulier, **évitez** :
-    -   **les formules de politesse** (« Bonjour », « Merci », etc.) ou marques
-        d&rsquo;opinion (« +1 », etc.) qui ne sont en rien utiles et ont tendance
-        à rendre moins lisible, voire brouillent, ce que d&rsquo;autres personnes
-        chercheront ici : des solutions (et seulement des solutions) optimales
-        à des questions concernant (La)TeX ;
-    -   **les signatures** qui sont redondantes : votre nom est automatiquement
-        affiché en dessous de votre contribution.
-2.  Soyez **clair**, **précis**, **concis**.
-3.  Si possible, **illustrez** vos questions et réponses d&rsquo;un ou plusieurs **[ECM](#custom-id-ecm)**&#x2026;
+-   Soyez **informatif** : **veillez** à ce que vos **contributions enrichissent** (et
+    **uniquement** enrichissent) la **base de connaissances (La)TeX** car c&rsquo;est ce que
+    d&rsquo;autres personnes chercheront ici : des solutions (et seulement des
+    solutions) optimales à des questions concernant (La)TeX. Vos **contributions**
+    doivent donc **contenir** :
+    
+    -   **de l'information utile** ;
+    -   ***seulement* de l'information utile**.
+    
+    En particulier, **évitez** de faire figurer (et *surtout* de ne faire figurer que) :
+    
+    -   des **formules de politesse** (« Bonjour », « Merci », etc.) ;
+    -   des **marques d'opinion** (« +1 », etc.) ;
+    -   des **confirmations de solution** (notamment les commentaires) : si une
+        réponse fournit la (meilleure) solution à une question, inutile de le
+        dire : il suffit de (et il faut) [*accepter* cette réponse](#custom-id-que-faire-si-reponse) ;
+    -   votre **signature** qui est redondante : votre nom d&rsquo;utilisateur est
+        automatiquement affiché en dessous de vos contributions.
+
+-   Soyez **clair**, **précis**, **concis**.
+-   Si possible, **illustrez** vos questions et réponses d&rsquo;un ou plusieurs **[ECM](#custom-id-ecm)**&#x2026;
     voire d&rsquo;[images illustrant ces ECM](#custom-id-image-pdf-dvi).
-4.  N&rsquo;hésitez pas à [**modifier** vos contributions](#custom-id-peaufinage) **pour** les **peaufiner**.
+-   N&rsquo;hésitez pas à [**modifier** vos contributions](#custom-id-peaufinage) **pour** les **peaufiner**.
 
 ### Je viens de constater que ma contribution n&rsquo;a pas été très clairement formulée. Puis-je la modifier ?<a id="custom-id-peaufinage"></a>
 
@@ -298,7 +309,7 @@ Si la réponse vous semble :
     davantage détaillée, **ajoutez un commentaire** en cliquant sur le lien
     correspondant sous cette réponse ;
 -   **satisfaisante**, veillez à **le faire savoir** :
-    -   **pas** au moyen d&rsquo;**un commentaire** ;
+    -   **[[custom-id-contributions-utiles][pas** au moyen d&rsquo;**un commentaire]]** ;
     -   **en « acceptant » cette réponse** : pour cela, il suffit de cliquer sur
         l&rsquo;icône correspondante : ![img](/osqa/m/default/media/images/vote-accepted.png) →
         ![img](/osqa/m/default/media/images/vote-accepted-on.png) ;
