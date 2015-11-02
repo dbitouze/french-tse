@@ -198,7 +198,8 @@ contributions.
 
 ### Comment rendre mes contributions aussi utiles que possible ?<a id="custom-id-contributions-utiles"></a>
 
-1.  Soyez **clair**, **précis**, **concis**. En particulier, **évitez** :
+1.  Soyez **clair**, **précis**, **concis**.
+2.  Soyez **informatif.** En particulier, **évitez** :
     -   **les formules de politesse** (« Bonjour », « Merci », etc.) ou marques
         d&rsquo;opinion (« +1 », etc.) qui ne sont en rien utiles et ont tendance
         à rendre moins lisible, voire brouillent, ce que d&rsquo;autres personnes
@@ -206,9 +207,9 @@ contributions.
         à des questions concernant (La)TeX ;
     -   **les signatures** qui sont redondantes : votre nom est automatiquement
         affiché en dessous de votre contribution.
-2.  Si possible, **illustrez** vos questions et réponses d&rsquo;un ou plusieurs **[ECM](#custom-id-ecm)**&#x2026;
+3.  Si possible, **illustrez** vos questions et réponses d&rsquo;un ou plusieurs **[ECM](#custom-id-ecm)**&#x2026;
     voire d&rsquo;[images illustrant ces ECM](#custom-id-image-pdf-dvi).
-3.  N&rsquo;hésitez pas à [**modifier** vos contributions](#custom-id-peaufinage) **pour** les **peaufiner**.
+4.  N&rsquo;hésitez pas à [**modifier** vos contributions](#custom-id-peaufinage) **pour** les **peaufiner**.
 
 ### Je viens de constater que ma contribution n&rsquo;a pas été très clairement formulée. Puis-je la modifier ?<a id="custom-id-peaufinage"></a>
 

@@ -135,7 +135,8 @@ contributions.
 :CUSTOM_ID: custom-id-contributions-utiles
 :END:
 
-1. Soyez *clair*, *précis*, *concis*. En particulier, *évitez* :
+1. Soyez *clair*, *précis*, *concis*.
+2. Soyez *informatif.* En particulier, *évitez* :
    - *les formules de politesse* (« Bonjour », « Merci », etc.) ou marques
      d'opinion (« +1 », etc.) qui ne sont en rien utiles et ont tendance
      à rendre moins lisible, voire brouillent, ce que d'autres personnes
@@ -143,9 +144,9 @@ contributions.
      à des questions concernant (La)TeX ;
    - *les signatures* qui sont redondantes : votre nom est automatiquement
      affiché en dessous de votre contribution.
-2. Si possible, *illustrez* vos questions et réponses d'un ou plusieurs *[[#custom-id-ecm][ECM]]*...
+3. Si possible, *illustrez* vos questions et réponses d'un ou plusieurs *[[#custom-id-ecm][ECM]]*...
    voire d'[[#custom-id-image-pdf-dvi][images illustrant ces ECM]].
-3. N'hésitez pas à [[#custom-id-peaufinage][*modifier* vos contributions]] *pour* les *peaufiner*.
+4. N'hésitez pas à [[#custom-id-peaufinage][*modifier* vos contributions]] *pour* les *peaufiner*.
 
 *** Je viens de constater que ma contribution n'a pas été très clairement formulée. Puis-je la modifier ?
 :PROPERTIES:
