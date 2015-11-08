@@ -41,11 +41,11 @@
 <li><a href="#orgheadline16">2.3.2. Je pense pouvoir répondre à une question mais je ne suis pas certain de l&rsquo;avoir bien comprise. Que puis-je faire ?</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline20">2.4. Commentaires</a>
+<li><a href="#orgheadline19">2.4. Commentaires</a>
 <ul>
 <li><a href="#orgheadline18">2.4.1. Quel type de commentaires puis-je poster ici ?</a></li>
 <li><a href="#custom-id-commentaire-reponse">2.4.2. En quoi un commentaire diffère-t-il d&rsquo;une réponse ?</a></li>
-<li><a href="#orgheadline19">2.4.3. Qu&rsquo;est-ce que ces « <code>@⟨nom⟩</code> » qui introduisent les commentaires et pourquoi devrais-je y recourir ?</a></li>
+<li><a href="#custom-id-destinataire-commentaire">2.4.3. Qu&rsquo;est-ce que ces « <code>@⟨nom⟩</code> » qui introduisent les commentaires et pourquoi devrais-je y recourir ?</a></li>
 </ul>
 </li>
 </ul>
@@ -53,19 +53,19 @@
 <li><a href="#custom-id-forme">3. Forme des contributions</a>
 <ul>
 <li><a href="#custom-id-mise-en-forme">3.1. Comment mettre en forme ma contribution ?</a></li>
-<li><a href="#orgheadline21">3.2. Comment insérer le (un extrait de) code d&rsquo;un fichier <code>.tex</code> (ou autre) ?</a></li>
-<li><a href="#orgheadline22">3.3. Dans un paragraphe de texte, comment faire ressortir une commande (La)TeX ou le nom d&rsquo;un package ?</a></li>
-<li><a href="#orgheadline23">3.4. Dans une liste, comment ajouter un nouvel item et comment en sortir ?</a></li>
+<li><a href="#orgheadline20">3.2. Comment insérer le (un extrait de) code d&rsquo;un fichier <code>.tex</code> (ou autre) ?</a></li>
+<li><a href="#orgheadline21">3.3. Dans un paragraphe de texte, comment faire ressortir une commande (La)TeX ou le nom d&rsquo;un package ?</a></li>
+<li><a href="#orgheadline22">3.4. Dans une liste, comment ajouter un nouvel item et comment en sortir ?</a></li>
 <li><a href="#custom-id-image-pdf-dvi">3.5. Comment faire figurer une image du fichier <code>.pdf</code> (ou <code>.dvi</code>) que j&rsquo;obtiens pour que les autres voient immédiatement le problème que je rencontre ou la solution que je propose ?</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline28">4. Divers</a>
+<li><a href="#orgheadline27">4. Divers</a>
 <ul>
-<li><a href="#orgheadline24">4.1. À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?</a></li>
+<li><a href="#orgheadline23">4.1. À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?</a></li>
 <li><a href="#custom-id-editeur">4.2. Je voudrais tester un ECM illustrant une question ou une réponse mais (La)TeX n&rsquo;est pas installé sur la machine que j&rsquo;utilise actuellement. Que puis-je faire ?</a></li>
-<li><a href="#orgheadline25">4.3. Que signifie le taux d&rsquo;acceptation figurant à côté des noms d&rsquo;utilisateurs ?</a></li>
-<li><a href="#orgheadline26">4.4. Que signifient les losanges figurant à côté de certains noms d&rsquo;utilisateurs ?</a></li>
-<li><a href="#orgheadline27">4.5. Que signifient les différents codes couleurs du site ?</a></li>
+<li><a href="#orgheadline24">4.3. Que signifie le taux d&rsquo;acceptation figurant à côté des noms d&rsquo;utilisateurs ?</a></li>
+<li><a href="#orgheadline25">4.4. Que signifient les losanges figurant à côté de certains noms d&rsquo;utilisateurs ?</a></li>
+<li><a href="#orgheadline26">4.5. Que signifient les différents codes couleurs du site ?</a></li>
 </ul>
 </li>
 </ul>
@@ -227,7 +227,7 @@ contributions.
 Tout à fait, l&rsquo;idée étant d&rsquo;améliorer autant que possible la qualité globale du
 site. Vous pouvez donc **peaufiner vos contributions** en cliquant sur :
 
--   le lien « éditer » pour les questions et réponses ;
+-   le lien « Modifier » pour les questions et réponses ;
 -   l&rsquo;icône ![img](/osqa/m/default/media/images/comment-edit.png) pour les
     commentaires.
 
@@ -339,11 +339,11 @@ Si la **réponse** vous semble :
 ### Je pense pouvoir répondre à une question mais je ne suis pas certain de l&rsquo;avoir bien comprise. Que puis-je faire ?<a id="orgheadline16"></a>
 
 Si une question ne vous semble pas claire, n&rsquo;hésitez pas à y ajouter un
-commentaire pour demander à l&rsquo;auteur de l&rsquo;éditer pour la préciser ou de la
+commentaire pour demander à l&rsquo;auteur de la modifier pour la préciser ou de la
 rendre plus parlante en y ajoutant un ECM, voire une image illustrant ce qu&rsquo;il
 obtient lui sur sa propre machine.
 
-## Commentaires<a id="orgheadline20"></a>
+## Commentaires<a id="orgheadline19"></a>
 
 ### Quel type de commentaires puis-je poster ici ?<a id="orgheadline18"></a>
 
@@ -366,7 +366,7 @@ Veillez à *ne pas confondre* **réponses** et **commentaires** :
     cliquant sur le lien « **ajouter un commentaire** » sous la question ou la
     réponse correspondante.
 
-### Qu&rsquo;est-ce que ces « `@⟨nom⟩` » qui introduisent les commentaires et pourquoi devrais-je y recourir ?<a id="orgheadline19"></a>
+### Qu&rsquo;est-ce que ces « `@⟨nom⟩` » qui introduisent les commentaires et pourquoi devrais-je y recourir ?<a id="custom-id-destinataire-commentaire"></a>
 
 La mention « `@⟨nom⟩` » indique le `⟨nom⟩` (et est un lien menant au profil) de la
 personne à qui s&rsquo;adresse le commentaire : « `@` » signifie « *at* » soit « à ».
@@ -405,14 +405,18 @@ réponses et commentaires).
     -   **liens** :
         -   raccourci : <kbd>Ctrl</kbd>+<kbd>l</kbd>
         -   syntaxe : cf. <http://daringfireball.net/projects/markdown/syntax#link>
-    -   **code** sous forme soit « **en ligne** » (court extrait à l&rsquo;intérieur d&rsquo;un
-        paragraphe de texte), soit « **hors texte** » (bloc détaché des paragraphes
-        pour afficher le source d&rsquo;un fichier `.tex` ou autre) :
-        -   raccourci : <kbd>Ctrl</kbd>+<kbd>k</kbd>
-        -   syntaxe :
-            -   code **en ligne** : `` `code` ``
-            -   code **hors texte** : laisser 4 espaces en début de chaque ligne (8 espaces
-                si le code se trouve dans un item de liste)
+    -   **code** sous forme :
+        -   soit « **en ligne** » (court extrait à l&rsquo;intérieur d&rsquo;un
+            paragraphe de texte) :
+            -   raccourci : <kbd>Ctrl</kbd>+<kbd>k</kbd>
+            -   syntaxe : `` `code` ``
+        -   soit « **hors texte** » (bloc détaché des paragraphes pour afficher le source
+            d&rsquo;un fichier `.tex` ou autre) : le code doit être préalablement saisi (ou
+            collé) en étant séparé du reste par une ligne vide *avant* et une ligne vide
+            *après*, puis :
+            -   raccourci : <kbd>Ctrl</kbd>+<kbd>k</kbd>
+            -   syntaxe : laisser 4 espaces en début de chaque ligne (8 espaces si le
+                code se trouve dans un item de liste)
     -   **image** :
         -   raccourci : <kbd>Ctrl</kbd>+<kbd>g</kbd>
         -   syntaxe : cf. <http://daringfireball.net/projects/markdown/syntax#img>
@@ -440,7 +444,7 @@ fait au moyen des raccourcis :
 -   **annulation** : <kbd>Ctrl</kbd>+<kbd>z</kbd>
 -   **rétablissement** : <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>z</kbd>
 
-## Comment insérer le (un extrait de) code d&rsquo;un fichier `.tex` (ou autre) ?<a id="orgheadline21"></a>
+## Comment insérer le (un extrait de) code d&rsquo;un fichier `.tex` (ou autre) ?<a id="orgheadline20"></a>
 
 Pour insérer le code d&rsquo;un fichier `.tex` (ou autre) dans une zone de texte dédiée
 aux questions ou réponses, il suffit de :
@@ -452,7 +456,7 @@ aux questions ou réponses, il suffit de :
     code (« Code Sample&#x2026; »).
 5.  Laisser une ligne vide après le code (sauf en fin de contribution).
 
-## Dans un paragraphe de texte, comment faire ressortir une commande (La)TeX ou le nom d&rsquo;un package ?<a id="orgheadline22"></a>
+## Dans un paragraphe de texte, comment faire ressortir une commande (La)TeX ou le nom d&rsquo;un package ?<a id="orgheadline21"></a>
 
 Il suffit de les afficher en tant qu&rsquo;extrait de code. Pour cela, recourir au
 raccourci <kbd>Ctrl</kbd>+<kbd>k</kbd> ou cliquer sur le bouton de code (« Code
@@ -461,7 +465,7 @@ Sample&#x2026; »), ce qui est à faire ressortir étant saisi :
 -   soit après ;
 -   soit avant, mais alors étant préalablement sélectionné.
 
-## Dans une liste, comment ajouter un nouvel item et comment en sortir ?<a id="orgheadline23"></a>
+## Dans une liste, comment ajouter un nouvel item et comment en sortir ?<a id="orgheadline22"></a>
 
 Dans une liste :
 
@@ -499,9 +503,9 @@ compilé avec `pdflatex` lancé avec l&rsquo;option `-shell-escape`, génère le
 Au cas où cette méthode échoue (ou ne soit pas adaptée en raison des points
 ci-dessus), [d'autres possibilités existent](http://tex.stackexchange.com/q/11866/18401).
 
-# Divers<a id="orgheadline28"></a>
+# Divers<a id="orgheadline27"></a>
 
-## À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?<a id="orgheadline24"></a>
+## À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?<a id="orgheadline23"></a>
 
 Une fois connecté, vous pouvez **participer à la vie** de ce site en :
 
@@ -529,21 +533,21 @@ de cet ECM : son code source sera alors ouvert puis automatiquement compilé et
 le PDF correspondant affiché sur le [Overleaf](https://www.overleaf.com/). Ce site permet notamment l&rsquo;édition
 (éventuellement collaborative) et la compilation en ligne de fichiers LaTeX.
 
-## Que signifie le taux d&rsquo;acceptation figurant à côté des noms d&rsquo;utilisateurs ?<a id="orgheadline25"></a>
+## Que signifie le taux d&rsquo;acceptation figurant à côté des noms d&rsquo;utilisateurs ?<a id="orgheadline24"></a>
 
 Pour un utilisateur donné, ce taux indique, parmi toutes les réponses qu&rsquo;il
 a proposées, le pourcentage de celles acceptées par les auteurs des
 questions. Ce chiffre peut être un peu biaisé puisque certains auteurs de questions
 [omettent d'accepter les réponses qu'on leur fournit](#custom-id-que-faire-si-reponse).
 
-## Que signifient les losanges figurant à côté de certains noms d&rsquo;utilisateurs ?<a id="orgheadline26"></a>
+## Que signifient les losanges figurant à côté de certains noms d&rsquo;utilisateurs ?<a id="orgheadline25"></a>
 
 Ces losanges (ou « diamants ») indiquent :
 
 -   un membre de l&rsquo;équipe s&rsquo;ils sont uniques ;
 -   un administrateur s&rsquo;ils sont doubles.
 
-## Que signifient les différents codes couleurs du site ?<a id="orgheadline27"></a>
+## Que signifient les différents codes couleurs du site ?<a id="orgheadline26"></a>
 
 1.  Sur la [page d&rsquo;accueil](/osqa), les boîtes contenant le nombre de réponses figurant en regard des questions
     ont leurs fonds colorés en :

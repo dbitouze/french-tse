@@ -308,6 +308,9 @@ Veillez à /ne pas confondre/ *réponses* et *commentaires* :
   réponse correspondante.
 
 *** Qu'est-ce que ces « =@⟨nom⟩= » qui introduisent les commentaires et pourquoi devrais-je y recourir ?
+:PROPERTIES:
+:CUSTOM_ID: custom-id-destinataire-commentaire
+:END:
 
 La mention « =@⟨nom⟩= » indique le =⟨nom⟩= (et est un lien menant au profil) de la
 personne à qui s'adresse le commentaire : « =@= » signifie « /at/ » soit « à ».
