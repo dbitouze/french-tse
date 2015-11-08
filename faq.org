@@ -351,14 +351,18 @@ réponses et commentaires).
   - *liens* :
     - raccourci : <kbd>Ctrl</kbd>+<kbd>l</kbd>
     - syntaxe : cf. [[http://daringfireball.net/projects/markdown/syntax#link]]
-  - *code* sous forme soit « *en ligne* » (court extrait à l'intérieur d'un
-    paragraphe de texte), soit « *hors texte* » (bloc détaché des paragraphes
-    pour afficher le source d'un fichier =.tex= ou autre) :
-    - raccourci : <kbd>Ctrl</kbd>+<kbd>k</kbd>
-    - syntaxe :
-      - code *en ligne* : =`code`=
-      - code *hors texte* : laisser 4 espaces en début de chaque ligne (8 espaces
-        si le code se trouve dans un item de liste)
+  - *code* sous forme :
+    - soit « *en ligne* » (court extrait à l'intérieur d'un
+      paragraphe de texte) :
+      - raccourci : <kbd>Ctrl</kbd>+<kbd>k</kbd>
+      - syntaxe : =`code`=
+    - soit « *hors texte* » (bloc détaché des paragraphes pour afficher le source
+      d'un fichier =.tex= ou autre) : le code doit être préalablement saisi (ou
+      collé) en étant séparé du reste par une ligne vide /avant/ et une ligne vide
+      /après/, puis :
+      - raccourci : <kbd>Ctrl</kbd>+<kbd>k</kbd>
+      - syntaxe : laisser 4 espaces en début de chaque ligne (8 espaces si le
+        code se trouve dans un item de liste)
   - *image* :
     - raccourci : <kbd>Ctrl</kbd>+<kbd>g</kbd>
     - syntaxe : cf. [[http://daringfireball.net/projects/markdown/syntax#img]]
