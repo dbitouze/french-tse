@@ -163,7 +163,7 @@ contributions.
 
 Tout à fait, l'idée étant d'améliorer autant que possible la qualité globale du
 site. Vous pouvez donc *peaufiner vos contributions* en cliquant sur :
-   - le lien « éditer » pour les questions et réponses ;
+   - le lien « Modifier » pour les questions et réponses ;
    - l'icône [[/osqa/m/default/media/images/comment-edit.png]] pour les
      commentaires.
 
@@ -280,7 +280,7 @@ Si la *réponse* vous semble :
 *** Je pense pouvoir répondre à une question mais je ne suis pas certain de l'avoir bien comprise. Que puis-je faire ?
 
 Si une question ne vous semble pas claire, n'hésitez pas à y ajouter un
-commentaire pour demander à l'auteur de l'éditer pour la préciser ou de la
+commentaire pour demander à l'auteur de la modifier pour la préciser ou de la
 rendre plus parlante en y ajoutant un ECM, voire une image illustrant ce qu'il
 obtient lui sur sa propre machine.
 
