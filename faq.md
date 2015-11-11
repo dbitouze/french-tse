@@ -544,8 +544,8 @@ questions. Ce chiffre peut être un peu biaisé puisque certains auteurs de ques
 
 Ces losanges (ou « diamants ») indiquent :
 
--   un membre de l&rsquo;équipe s&rsquo;ils sont uniques ;
--   un administrateur s&rsquo;ils sont doubles.
+-   un membre de l&rsquo;équipe s&rsquo;ils sont uniques (♦) ;
+-   un administrateur s&rsquo;ils sont doubles (♦♦).
 
 ## Que signifient les différents codes couleurs du site ?<a id="orgheadline26"></a>
 
