@@ -492,6 +492,9 @@ questions. Ce chiffre peut être un peu biaisé puisque certains auteurs de ques
 [[#custom-id-que-faire-si-reponse][omettent d'accepter les réponses qu'on leur fournit]].
 
 ** Que signifient les losanges figurant à côté de certains noms d'utilisateurs ?
+:PROPERTIES:
+:CUSTOM_ID: custom-id-rhombi
+:END:
 
 Ces losanges (ou « diamants ») indiquent :
 

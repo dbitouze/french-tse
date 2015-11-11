@@ -59,13 +59,13 @@
 <li><a href="#custom-id-image-pdf-dvi">3.5. Comment faire figurer une image du fichier <code>.pdf</code> (ou <code>.dvi</code>) que j&rsquo;obtiens pour que les autres voient immédiatement le problème que je rencontre ou la solution que je propose ?</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline27">4. Divers</a>
+<li><a href="#orgheadline26">4. Divers</a>
 <ul>
 <li><a href="#orgheadline23">4.1. À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?</a></li>
 <li><a href="#custom-id-editeur">4.2. Je voudrais tester un ECM illustrant une question ou une réponse mais (La)TeX n&rsquo;est pas installé sur la machine que j&rsquo;utilise actuellement. Que puis-je faire ?</a></li>
 <li><a href="#orgheadline24">4.3. Que signifie le taux d&rsquo;acceptation figurant à côté des noms d&rsquo;utilisateurs ?</a></li>
-<li><a href="#orgheadline25">4.4. Que signifient les losanges figurant à côté de certains noms d&rsquo;utilisateurs ?</a></li>
-<li><a href="#orgheadline26">4.5. Que signifient les différents codes couleurs du site ?</a></li>
+<li><a href="#custom-id-rhombi">4.4. Que signifient les losanges figurant à côté de certains noms d&rsquo;utilisateurs ?</a></li>
+<li><a href="#orgheadline25">4.5. Que signifient les différents codes couleurs du site ?</a></li>
 </ul>
 </li>
 </ul>
@@ -503,7 +503,7 @@ compilé avec `pdflatex` lancé avec l&rsquo;option `-shell-escape`, génère le
 Au cas où cette méthode échoue (ou ne soit pas adaptée en raison des points
 ci-dessus), [d'autres possibilités existent](http://tex.stackexchange.com/q/11866/18401).
 
-# Divers<a id="orgheadline27"></a>
+# Divers<a id="orgheadline26"></a>
 
 ## À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?<a id="orgheadline23"></a>
 
@@ -540,14 +540,14 @@ a proposées, le pourcentage de celles acceptées par les auteurs des
 questions. Ce chiffre peut être un peu biaisé puisque certains auteurs de questions
 [omettent d'accepter les réponses qu'on leur fournit](#custom-id-que-faire-si-reponse).
 
-## Que signifient les losanges figurant à côté de certains noms d&rsquo;utilisateurs ?<a id="orgheadline25"></a>
+## Que signifient les losanges figurant à côté de certains noms d&rsquo;utilisateurs ?<a id="custom-id-rhombi"></a>
 
 Ces losanges (ou « diamants ») indiquent :
 
 -   un membre de l&rsquo;équipe s&rsquo;ils sont uniques (♦) ;
 -   un administrateur s&rsquo;ils sont doubles (♦♦).
 
-## Que signifient les différents codes couleurs du site ?<a id="orgheadline26"></a>
+## Que signifient les différents codes couleurs du site ?<a id="orgheadline25"></a>
 
 1.  Sur la [page d&rsquo;accueil](/osqa), les boîtes contenant le nombre de réponses figurant en regard des questions
     ont leurs fonds colorés en :
