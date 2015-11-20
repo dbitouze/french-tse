@@ -143,11 +143,15 @@ contributions.
     - *de l'information utile* ;
     - */seulement/ de l'information utile*.
     En particulier, *évitez* de faire figurer (et /surtout/ de ne faire figurer que) :
-    - des *formules de politesse* (« Bonjour », « Merci », etc.) ;
-    - des *marques d'opinion* (« +1 », etc.) ;
-    - des *confirmations de solution* (notamment les commentaires) : si une
-        réponse fournit la (meilleure) solution à une question, inutile de le
-        dire : il suffit de (et il faut) [[#custom-id-que-faire-si-reponse][/accepter/ cette réponse]] ;
+    - des *formules de politesse* (« Bonjour », « Merci d'avance », etc.) ;
+    - des *marques d'opinion* (« Merci », « +1 », etc.) ou des *confirmations de
+      solution* (notamment dans les commentaires) :
+      - si une contribution vous a été utile, inutile de le dire : il suffit de
+        (et il faut) [[#custom-id-utile-inutile][voter (positivement)]] pour
+        elle ;
+      - si une réponse fournit la (meilleure) solution à une question, inutile
+        de le dire : il suffit de (et il faut)
+        [[#custom-id-que-faire-si-reponse][/accepter/ cette réponse]] ;
     - votre *signature* qui est redondante : votre nom d'utilisateur est
         automatiquement affiché en dessous de vos contributions.
 
@@ -455,25 +459,46 @@ ci-dessus), [[http://tex.stackexchange.com/q/11866/18401][d'autres possibilités
 
 * Divers
 
+** Une contribution (question, réponse et commentaire) me paraît (in)utile. Puis-je le faire savoir ?
+:PROPERTIES:
+:CUSTOM_ID: custom-id-utile-inutile
+:END:
+
+Oui mais en évitant de le formuler, sauf s'il vous paraît important d'en
+expliquer la raison. En général, il suffit de :
+
+1. *voter* (choix réversibles à tout moment en cliquant à nouveau sur les
+   icônes) :
+   1. pour les différentes questions et réponses, *positivement* :
+      [[/osqa/m/default/media/images/vote-arrow-up.png]] →
+      [[/osqa/m/default/media/images/vote-arrow-up-on.png]] ou
+      *négativement* [[/osqa/m/default/media/images/vote-arrow-down.png]] →
+      [[/osqa/m/default/media/images/vote-arrow-down-on.png]] ;
+   2. pour les commentaires qui vous semblent utiles (*positivement* :
+     [[/osqa/m/default/media/images/comment-like.png]] →
+     [[/osqa/m/default/media/images/comment-like-on.png]]) ;
+2. *accepter* [[#custom-id-que-faire-si-reponse][/accepter/ une réponse]] si
+   elle fournit la (meilleure) solution à une question.
+
+
 ** À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?
+:PROPERTIES:
+:CUSTOM_ID: custom-id-a-faire
+:END:
 
 Une fois connecté, vous pouvez *participer à la vie* de ce site en :
-1. *votant* pour les différentes questions et réponses *positivement* :
-   [[/osqa/m/default/media/images/vote-arrow-up.png]] →
-   [[/osqa/m/default/media/images/vote-arrow-up-on.png]] ou
-   *négativement* [[/osqa/m/default/media/images/vote-arrow-down.png]] →
-   [[/osqa/m/default/media/images/vote-arrow-down-on.png]], choix
-   réversibles à tout moment en cliquant à nouveau sur ces icônes ;
+1. [[#custom-id-utile-inutile][*votant*]] pour les différentes contributions ;
 2. *aidant les novices* à mieux l'utiliser, notamment par le biais de commentaires
    pour expliquer par exemple :
    - comment mieux poser les questions ;
    - qu'il ne faut pas confondre réponses et commentaires ;
    - qu'il faut penser :
-      - à accepter une réponse si elle est satisfaisante ;
-      - à voter pour les questions ou réponses, /y compris/ celles postées par
-        d'autres ;
-3. *le modérant* (si vous avez acquis suffisamment de points pour cela), les
-   différentes actions de modération étant listées [[#custom-id-points][ici]].
+     - à accepter une réponse si elle est satisfaisante ;
+     - à voter pour les questions ou réponses, /y compris/ celles postées par
+       d'autres ;
+3. *modérant* les contributions (si vous avez acquis suffisamment de points pour
+   cela), les différentes actions de modération étant listées
+   [[#custom-id-points][ici]].
 
 ** Je voudrais tester un [[#custom-id-ecm][ECM]] illustrant une question ou une réponse mais (La)TeX n'est pas installé sur la machine que j'utilise actuellement. Que puis-je faire ?
 :PROPERTIES:

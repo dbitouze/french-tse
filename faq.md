@@ -59,13 +59,14 @@
 <li><a href="#custom-id-image-pdf-dvi">3.5. Comment faire figurer une image du fichier <code>.pdf</code> (ou <code>.dvi</code>) que j&rsquo;obtiens pour que les autres voient immédiatement le problème que je rencontre ou la solution que je propose ?</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline26">4. Divers</a>
+<li><a href="#orgheadline25">4. Divers</a>
 <ul>
-<li><a href="#orgheadline23">4.1. À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?</a></li>
-<li><a href="#custom-id-editeur">4.2. Je voudrais tester un ECM illustrant une question ou une réponse mais (La)TeX n&rsquo;est pas installé sur la machine que j&rsquo;utilise actuellement. Que puis-je faire ?</a></li>
-<li><a href="#orgheadline24">4.3. Que signifie le taux d&rsquo;acceptation figurant à côté des noms d&rsquo;utilisateurs ?</a></li>
-<li><a href="#custom-id-rhombi">4.4. Que signifient les losanges figurant à côté de certains noms d&rsquo;utilisateurs ?</a></li>
-<li><a href="#orgheadline25">4.5. Que signifient les différents codes couleurs du site ?</a></li>
+<li><a href="#custom-id-utile-inutile">4.1. Une contribution (question, réponse et commentaire) me paraît (in)utile. Puis-je le faire savoir ?</a></li>
+<li><a href="#custom-id-a-faire">4.2. À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?</a></li>
+<li><a href="#custom-id-editeur">4.3. Je voudrais tester un ECM illustrant une question ou une réponse mais (La)TeX n&rsquo;est pas installé sur la machine que j&rsquo;utilise actuellement. Que puis-je faire ?</a></li>
+<li><a href="#orgheadline23">4.4. Que signifie le taux d&rsquo;acceptation figurant à côté des noms d&rsquo;utilisateurs ?</a></li>
+<li><a href="#custom-id-rhombi">4.5. Que signifient les losanges figurant à côté de certains noms d&rsquo;utilisateurs ?</a></li>
+<li><a href="#orgheadline24">4.6. Que signifient les différents codes couleurs du site ?</a></li>
 </ul>
 </li>
 </ul>
@@ -209,11 +210,15 @@ contributions.
     
     En particulier, **évitez** de faire figurer (et *surtout* de ne faire figurer que) :
     
-    -   des **formules de politesse** (« Bonjour », « Merci », etc.) ;
-    -   des **marques d'opinion** (« +1 », etc.) ;
-    -   des **confirmations de solution** (notamment les commentaires) : si une
-        réponse fournit la (meilleure) solution à une question, inutile de le
-        dire : il suffit de (et il faut) [*accepter* cette réponse](#custom-id-que-faire-si-reponse) ;
+    -   des **formules de politesse** (« Bonjour », « Merci d&rsquo;avance », etc.) ;
+    -   des **marques d'opinion** (« Merci », « +1 », etc.) ou des **confirmations de
+        solution** (notamment dans les commentaires) :
+        -   si une contribution vous a été utile, inutile de le dire : il suffit de
+            (et il faut) [voter (positivement)](#custom-id-utile-inutile) pour
+            elle ;
+        -   si une réponse fournit la (meilleure) solution à une question, inutile
+            de le dire : il suffit de (et il faut)
+            [*accepter* cette réponse](#custom-id-que-faire-si-reponse) ;
     -   votre **signature** qui est redondante : votre nom d&rsquo;utilisateur est
         automatiquement affiché en dessous de vos contributions.
 
@@ -503,18 +508,31 @@ compilé avec `pdflatex` lancé avec l&rsquo;option `-shell-escape`, génère le
 Au cas où cette méthode échoue (ou ne soit pas adaptée en raison des points
 ci-dessus), [d'autres possibilités existent](http://tex.stackexchange.com/q/11866/18401).
 
-# Divers<a id="orgheadline26"></a>
+# Divers<a id="orgheadline25"></a>
 
-## À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?<a id="orgheadline23"></a>
+## Une contribution (question, réponse et commentaire) me paraît (in)utile. Puis-je le faire savoir ?<a id="custom-id-utile-inutile"></a>
+
+Oui mais en évitant de le formuler, sauf s&rsquo;il vous paraît important d&rsquo;en
+expliquer la raison. En général, il suffit de :
+
+1.  **voter** (choix réversibles à tout moment en cliquant à nouveau sur les
+    icônes) :
+    1.  pour les différentes questions et réponses, **positivement** :
+        ![img](/osqa/m/default/media/images/vote-arrow-up.png) →
+        ![img](/osqa/m/default/media/images/vote-arrow-up-on.png) ou
+        **négativement** ![img](/osqa/m/default/media/images/vote-arrow-down.png) →
+        ![img](/osqa/m/default/media/images/vote-arrow-down-on.png) ;
+    2.  pour les commentaires qui vous semblent utiles (**positivement** :
+        ![img](/osqa/m/default/media/images/comment-like.png) →
+        ![img](/osqa/m/default/media/images/comment-like-on.png)) ;
+2.  **accepter** [*accepter* une réponse](#custom-id-que-faire-si-reponse) si
+    elle fournit la (meilleure) solution à une question.
+
+## À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?<a id="custom-id-a-faire"></a>
 
 Une fois connecté, vous pouvez **participer à la vie** de ce site en :
 
-1.  **votant** pour les différentes questions et réponses **positivement** :
-    ![img](/osqa/m/default/media/images/vote-arrow-up.png) →
-    ![img](/osqa/m/default/media/images/vote-arrow-up-on.png) ou
-    **négativement** ![img](/osqa/m/default/media/images/vote-arrow-down.png) →
-    ![img](/osqa/m/default/media/images/vote-arrow-down-on.png), choix
-    réversibles à tout moment en cliquant à nouveau sur ces icônes ;
+1.  [**votant**](#custom-id-utile-inutile) pour les différentes contributions ;
 2.  **aidant les novices** à mieux l&rsquo;utiliser, notamment par le biais de commentaires
     pour expliquer par exemple :
     -   comment mieux poser les questions ;
@@ -523,8 +541,9 @@ Une fois connecté, vous pouvez **participer à la vie** de ce site en :
         -   à accepter une réponse si elle est satisfaisante ;
         -   à voter pour les questions ou réponses, *y compris* celles postées par
             d&rsquo;autres ;
-3.  **le modérant** (si vous avez acquis suffisamment de points pour cela), les
-    différentes actions de modération étant listées [ici](#custom-id-points).
+3.  **modérant** les contributions (si vous avez acquis suffisamment de points pour
+    cela), les différentes actions de modération étant listées
+    [ici](#custom-id-points).
 
 ## Je voudrais tester un [ECM](#custom-id-ecm) illustrant une question ou une réponse mais (La)TeX n&rsquo;est pas installé sur la machine que j&rsquo;utilise actuellement. Que puis-je faire ?<a id="custom-id-editeur"></a>
 
@@ -533,7 +552,7 @@ de cet ECM : son code source sera alors ouvert puis automatiquement compilé et
 le PDF correspondant affiché sur le [Overleaf](https://www.overleaf.com/). Ce site permet notamment l&rsquo;édition
 (éventuellement collaborative) et la compilation en ligne de fichiers LaTeX.
 
-## Que signifie le taux d&rsquo;acceptation figurant à côté des noms d&rsquo;utilisateurs ?<a id="orgheadline24"></a>
+## Que signifie le taux d&rsquo;acceptation figurant à côté des noms d&rsquo;utilisateurs ?<a id="orgheadline23"></a>
 
 Pour un utilisateur donné, ce taux indique, parmi toutes les réponses qu&rsquo;il
 a proposées, le pourcentage de celles acceptées par les auteurs des
@@ -547,7 +566,7 @@ Ces losanges (ou « diamants ») indiquent :
 -   un membre de l&rsquo;équipe s&rsquo;ils sont uniques (♦) ;
 -   un administrateur s&rsquo;ils sont doubles (♦♦).
 
-## Que signifient les différents codes couleurs du site ?<a id="orgheadline25"></a>
+## Que signifient les différents codes couleurs du site ?<a id="orgheadline24"></a>
 
 1.  Sur la [page d&rsquo;accueil](/osqa), les boîtes contenant le nombre de réponses figurant en regard des questions
     ont leurs fonds colorés en :
