@@ -481,22 +481,22 @@ Dans une liste :
 
 Il suffit de générer une image `.png` du `.pdf` (ou `.dvi`) obtenu.
 
-Pour cela, un moyen consiste à recourir à la classe `standalone` avec l&rsquo;option
-`convert` et de compiler le fichier `.tex` avec l&rsquo;option `-shell-escape`. Par exemple,
+Pour cela, un moyen consiste à recourir à la classe `standalone` avec les options
+`convert` et `varwith`, et à compiler le fichier `.tex` avec l&rsquo;option `-shell-escape`. Par exemple,
 le fichier (disons `test.tex`) suivant :
 
-    \documentclass[convert]{standalone}
+    \documentclass[convert,varwidth]{standalone}
+    \usepackage[multiple]{footmisc}
     \begin{document}
-        \begin{tabular}{|*{3}{p{.5cm}|}}
-            \multicolumn{1}{c}{A} & \multicolumn{1}{c}{EA} & \multicolumn{1}{c}{NA} \\\hline
-                                  &                        &                        \\\hline
-        \end{tabular}
+    Foo\footnote{Blah}\footnote{Bleh}\footnote{Blih}
+    
+    Foo\textsuperscript{1,2,3}
     \end{document}
 
 compilé avec `pdflatex` lancé avec l&rsquo;option `-shell-escape`, génère le fichier
 `test.png` suivant :
 
-![img](/osqa/upfiles/test.png "Cases à cocher")
+![img](/osqa/upfiles/test_nzt03BJ.png "Cases à cocher")
 
 **Attention !** deux points sont à noter. La classe `standalone` avec l&rsquo;option
 `convert` :

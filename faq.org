@@ -428,17 +428,17 @@ Dans une liste :
 
 Il suffit de générer une image =.png= du =.pdf= (ou =.dvi=) obtenu.
 
-Pour cela, un moyen consiste à recourir à la classe =standalone= avec l'option
-=convert= et de compiler le fichier =.tex= avec l'option =-shell-escape=. Par exemple,
+Pour cela, un moyen consiste à recourir à la classe =standalone= avec les options
+=convert= et =varwith=, et à compiler le fichier =.tex= avec l'option =-shell-escape=. Par exemple,
 le fichier (disons =test.tex=) suivant :
 
 #+BEGIN_SRC latex :exports code
-\documentclass[convert]{standalone}
+\documentclass[convert,varwidth]{standalone}
+\usepackage[multiple]{footmisc}
 \begin{document}
-    \begin{tabular}{|*{3}{p{.5cm}|}}
-        \multicolumn{1}{c}{A} & \multicolumn{1}{c}{EA} & \multicolumn{1}{c}{NA} \\\hline
-                              &                        &                        \\\hline
-    \end{tabular}
+Foo\footnote{Blah}\footnote{Bleh}\footnote{Blih}
+
+Foo\textsuperscript{1,2,3}
 \end{document}
 #+END_SRC
 
@@ -446,7 +446,7 @@ compilé avec =pdflatex= lancé avec l'option =-shell-escape=, génère le fichi
 =test.png= suivant :
 
 #+CAPTION: Cases à cocher
-[[/osqa/upfiles/test.png]]
+[[/osqa/upfiles/test_nzt03BJ.png]]
 
 *Attention !* deux points sont à noter. La classe =standalone= avec l'option
 =convert= :
