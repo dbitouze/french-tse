@@ -31,8 +31,10 @@
 <li><a href="#custom-id-question-unique">2.2.3. Pourquoi est-il si important de ne poser qu&rsquo;une question à la fois ?</a></li>
 <li><a href="#custom-id-titre-question">2.2.4. On me demande de reformuler le titre de ma question sous forme interrogative. Pourquoi ?</a></li>
 <li><a href="#custom-id-ecm">2.2.5. Qu&rsquo;est-ce qu&rsquo;un ECM et pourquoi est-il si important d&rsquo;en fournir un ?</a></li>
-<li><a href="#custom-id-que-faire-si-reponse">2.2.6. Que dois-je faire quand une réponse à ma question a été postée ?</a></li>
-<li><a href="#orgheadline13">2.2.7. J&rsquo;ai accepté une réponse à ma question mais une autre qui vient d&rsquo;être publiée est également satisfaisante. Pourquoi ne puis-je pas l&rsquo;accepter aussi ?</a></li>
+<li><a href="#custom-id-mwe">2.2.6. Qu&rsquo;est-ce qu&rsquo;un MWE et pourquoi est-il si important d&rsquo;en fournir un ?</a></li>
+<li><a href="#custom-id-po">2.2.7. Qu&rsquo;est-ce qu&rsquo;un PO ?</a></li>
+<li><a href="#custom-id-que-faire-si-reponse">2.2.8. Que dois-je faire quand une réponse à ma question a été postée ?</a></li>
+<li><a href="#orgheadline13">2.2.9. J&rsquo;ai accepté une réponse à ma question mais une autre qui vient d&rsquo;être publiée est également satisfaisante. Pourquoi ne puis-je pas l&rsquo;accepter aussi ?</a></li>
 </ul>
 </li>
 <li><a href="#orgheadline17">2.3. Réponses</a>
@@ -304,6 +306,18 @@ mais instructif et souvent suffisant pour résoudre le problème. N&rsquo;hésit
 effectivement *complet* et *minimal*.
 
 Et n&rsquo;oubliez pas : « Aide-toi, [texnique.fr](http://texnique.fr/) t&rsquo;aidera. » :-)
+
+### Qu&rsquo;est-ce qu&rsquo;un MWE et pourquoi est-il si important d&rsquo;en fournir un ?<a id="custom-id-mwe"></a>
+
+Un **MWE**, de l&rsquo;anglais *minimal working example*, est un **ECM**, tout
+simplement - c&rsquo;est-à-dire un **exemple complet minimal** : voir ci-dessus.
+
+### Qu&rsquo;est-ce qu&rsquo;un PO ?<a id="custom-id-po"></a>
+
+**PO** signifie *post original*. Cela vient de l&rsquo;anglais **OP**, pour *original
+post*, c&rsquo;est-à-dire « message d&rsquo;origine ». Mais **OP** est parfois utilisé dans
+le sens de *original poster*, c&rsquo;est-à-dire « utilisateur ayant posé la question
+originale ».
 
 ### Que dois-je faire quand une réponse à ma question a été postée ?<a id="custom-id-que-faire-si-reponse"></a>
 

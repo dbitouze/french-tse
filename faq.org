@@ -244,6 +244,24 @@ effectivement /complet/ et /minimal/.
 
 Et n'oubliez pas : « Aide-toi, [[http://texnique.fr/][texnique.fr]] t'aidera. » :-)
 
+*** Qu'est-ce qu'un MWE et pourquoi est-il si important d'en fournir un ?
+:PROPERTIES:
+:CUSTOM_ID: custom-id-mwe
+:END:
+
+Un *MWE*, de l'anglais /minimal working example/, est un *ECM*, tout
+simplement - c'est-à-dire un *exemple complet minimal* : voir ci-dessus.
+
+*** Qu'est-ce qu'un PO ?
+:PROPERTIES:
+:CUSTOM_ID: custom-id-po
+:END:
+
+*PO* signifie /post original/. Cela vient de l'anglais *OP*, pour /original
+post/, c'est-à-dire « message d'origine ». Mais *OP* est parfois utilisé dans
+le sens de /original poster/, c'est-à-dire « utilisateur ayant posé la question
+originale ».
+
 *** Que dois-je faire quand une réponse à ma question a été postée ?
 :PROPERTIES:
 :CUSTOM_ID: custom-id-que-faire-si-reponse
