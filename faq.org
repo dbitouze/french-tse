@@ -415,12 +415,15 @@ fait au moyen des raccourcis :
 - *rétablissement* : <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>z</kbd>
 
 ** Comment insérer le (un extrait de) code d'un fichier =.tex= (ou autre) ?
+:PROPERTIES:
+:CUSTOM_ID: custom-id-code
+:END:
 
 Pour insérer le code d'un fichier =.tex= (ou autre) dans une zone de texte dédiée
 aux questions ou réponses, il suffit de :
 1. Laisser une ligne vide.
 2. Coller le code préalablement copié.
-3. Sélectionner ce code.
+3. Sélectionner *toutes les lignes* de ce code.
 4. Saisir le raccourci <kbd>Ctrl</kbd>+<kbd>k</kbd> ou cliquer sur le bouton de
    code (« Code Sample... »).
 5. Laisser une ligne vide après le code (sauf en fin de contribution).

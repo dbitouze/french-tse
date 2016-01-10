@@ -55,20 +55,20 @@
 <li><a href="#custom-id-forme">3. Forme des contributions</a>
 <ul>
 <li><a href="#custom-id-mise-en-forme">3.1. Comment mettre en forme ma contribution ?</a></li>
-<li><a href="#orgheadline20">3.2. Comment insérer le (un extrait de) code d&rsquo;un fichier <code>.tex</code> (ou autre) ?</a></li>
-<li><a href="#orgheadline21">3.3. Dans un paragraphe de texte, comment faire ressortir une commande (La)TeX ou le nom d&rsquo;un package ?</a></li>
-<li><a href="#orgheadline22">3.4. Dans une liste, comment ajouter un nouvel item et comment en sortir ?</a></li>
+<li><a href="#custom-id-code">3.2. Comment insérer le (un extrait de) code d&rsquo;un fichier <code>.tex</code> (ou autre) ?</a></li>
+<li><a href="#orgheadline20">3.3. Dans un paragraphe de texte, comment faire ressortir une commande (La)TeX ou le nom d&rsquo;un package ?</a></li>
+<li><a href="#orgheadline21">3.4. Dans une liste, comment ajouter un nouvel item et comment en sortir ?</a></li>
 <li><a href="#custom-id-image-pdf-dvi">3.5. Comment faire figurer une image du fichier <code>.pdf</code> (ou <code>.dvi</code>) que j&rsquo;obtiens pour que les autres voient immédiatement le problème que je rencontre ou la solution que je propose ?</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline25">4. Divers</a>
+<li><a href="#orgheadline24">4. Divers</a>
 <ul>
 <li><a href="#custom-id-utile-inutile">4.1. Une contribution (question, réponse et commentaire) me paraît (in)utile. Puis-je le faire savoir ?</a></li>
 <li><a href="#custom-id-a-faire">4.2. À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?</a></li>
 <li><a href="#custom-id-editeur">4.3. Je voudrais tester un ECM illustrant une question ou une réponse mais (La)TeX n&rsquo;est pas installé sur la machine que j&rsquo;utilise actuellement. Que puis-je faire ?</a></li>
-<li><a href="#orgheadline23">4.4. Que signifie le taux d&rsquo;acceptation figurant à côté des noms d&rsquo;utilisateurs ?</a></li>
+<li><a href="#orgheadline22">4.4. Que signifie le taux d&rsquo;acceptation figurant à côté des noms d&rsquo;utilisateurs ?</a></li>
 <li><a href="#custom-id-rhombi">4.5. Que signifient les losanges figurant à côté de certains noms d&rsquo;utilisateurs ?</a></li>
-<li><a href="#orgheadline24">4.6. Que signifient les différents codes couleurs du site ?</a></li>
+<li><a href="#orgheadline23">4.6. Que signifient les différents codes couleurs du site ?</a></li>
 </ul>
 </li>
 </ul>
@@ -463,19 +463,19 @@ fait au moyen des raccourcis :
 -   **annulation** : <kbd>Ctrl</kbd>+<kbd>z</kbd>
 -   **rétablissement** : <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>z</kbd>
 
-## Comment insérer le (un extrait de) code d&rsquo;un fichier `.tex` (ou autre) ?<a id="orgheadline20"></a>
+## Comment insérer le (un extrait de) code d&rsquo;un fichier `.tex` (ou autre) ?<a id="custom-id-code"></a>
 
 Pour insérer le code d&rsquo;un fichier `.tex` (ou autre) dans une zone de texte dédiée
 aux questions ou réponses, il suffit de :
 
 1.  Laisser une ligne vide.
 2.  Coller le code préalablement copié.
-3.  Sélectionner ce code.
+3.  Sélectionner **toutes les lignes** de ce code.
 4.  Saisir le raccourci <kbd>Ctrl</kbd>+<kbd>k</kbd> ou cliquer sur le bouton de
     code (« Code Sample&#x2026; »).
 5.  Laisser une ligne vide après le code (sauf en fin de contribution).
 
-## Dans un paragraphe de texte, comment faire ressortir une commande (La)TeX ou le nom d&rsquo;un package ?<a id="orgheadline21"></a>
+## Dans un paragraphe de texte, comment faire ressortir une commande (La)TeX ou le nom d&rsquo;un package ?<a id="orgheadline20"></a>
 
 Il suffit de les afficher en tant qu&rsquo;extrait de code. Pour cela, recourir au
 raccourci <kbd>Ctrl</kbd>+<kbd>k</kbd> ou cliquer sur le bouton de code (« Code
@@ -484,7 +484,7 @@ Sample&#x2026; »), ce qui est à faire ressortir étant saisi :
 -   soit après ;
 -   soit avant, mais alors étant préalablement sélectionné.
 
-## Dans une liste, comment ajouter un nouvel item et comment en sortir ?<a id="orgheadline22"></a>
+## Dans une liste, comment ajouter un nouvel item et comment en sortir ?<a id="orgheadline21"></a>
 
 Dans une liste :
 
@@ -522,7 +522,7 @@ compilé avec `pdflatex` lancé avec l&rsquo;option `-shell-escape`, génère le
 Au cas où cette méthode échoue (ou ne soit pas adaptée en raison des points
 ci-dessus), [d'autres possibilités existent](http://tex.stackexchange.com/q/11866/18401).
 
-# Divers<a id="orgheadline25"></a>
+# Divers<a id="orgheadline24"></a>
 
 ## Une contribution (question, réponse et commentaire) me paraît (in)utile. Puis-je le faire savoir ?<a id="custom-id-utile-inutile"></a>
 
@@ -566,7 +566,7 @@ de cet ECM : son code source sera alors ouvert puis automatiquement compilé et
 le PDF correspondant affiché sur le [Overleaf](https://www.overleaf.com/). Ce site permet notamment l&rsquo;édition
 (éventuellement collaborative) et la compilation en ligne de fichiers LaTeX.
 
-## Que signifie le taux d&rsquo;acceptation figurant à côté des noms d&rsquo;utilisateurs ?<a id="orgheadline23"></a>
+## Que signifie le taux d&rsquo;acceptation figurant à côté des noms d&rsquo;utilisateurs ?<a id="orgheadline22"></a>
 
 Pour un utilisateur donné, ce taux indique, parmi toutes les réponses qu&rsquo;il
 a proposées, le pourcentage de celles acceptées par les auteurs des
@@ -580,7 +580,7 @@ Ces losanges (ou « diamants ») indiquent :
 -   un membre de l&rsquo;équipe s&rsquo;ils sont uniques (♦) ;
 -   un administrateur s&rsquo;ils sont doubles (♦♦).
 
-## Que signifient les différents codes couleurs du site ?<a id="orgheadline24"></a>
+## Que signifient les différents codes couleurs du site ?<a id="orgheadline23"></a>
 
 1.  Sur la [page d&rsquo;accueil](/osqa), les boîtes contenant le nombre de réponses figurant en regard des questions
     ont leurs fonds colorés en :
