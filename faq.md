@@ -22,6 +22,7 @@
 <ul>
 <li><a href="#custom-id-contributions-utiles">2.1.1. Comment rendre mes contributions aussi utiles que possible ?</a></li>
 <li><a href="#custom-id-peaufinage">2.1.2. Je viens de constater que ma contribution n&rsquo;a pas été très clairement formulée. Puis-je la modifier ?</a></li>
+<li><a href="#custom-id-xyz">2.1.3. On me dit d&rsquo;éviter le syndrome XYZ. Que cela signifie-t-il ?</a></li>
 </ul>
 </li>
 <li><a href="#orgheadline14">2.2. Questions</a>
@@ -237,6 +238,15 @@ site. Vous pouvez donc **peaufiner vos contributions** en cliquant sur :
 -   le lien « Modifier » pour les questions et réponses ;
 -   l&rsquo;icône ![img](/osqa/m/default/media/images/comment-edit.png) pour les
     commentaires.
+
+### On me dit d&rsquo;éviter le syndrome XYZ. Que cela signifie-t-il ?<a id="custom-id-xyz"></a>
+
+Vous êtes atteint du syndrome XYZ lorsque vous avez un problème X pour lequel
+vous **croyez** que la solution passe par Y. Ayant un problème pour faire Y, vous
+demandez une solution à ce problème Y sans évoquer X. Or une bonne solution pour
+X passe en fait par Z qui n&rsquo;a rien à voir avec Y !
+
+Autrement dit, lorsque vous posez une question, indiquez-en le contexte.
 
 ## Questions<a id="orgheadline14"></a>
 
