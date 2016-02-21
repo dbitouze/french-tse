@@ -255,7 +255,10 @@ En résumé, en fournissant un ECM :
 La production d'un ECM est un exercice certes pas facile (surtout au début),
 mais instructif et souvent suffisant pour résoudre le problème. N'hésitez pas
 à commenter/décommenter des portions de code pour que votre /exemple/ devienne
-effectivement /complet/ et /minimal/.
+effectivement /complet/ et /minimal/. Pour mettre en évidence un problème lié
+à l'inclusion de graphiques, vous pouvez vous aider du package
+[[http://ctan.org/pkg/mwe][=mwe=]] qui fournit des images dont les autres
+disposeront également.
 
 Et n'oubliez pas : « Aide-toi, [[http://texnique.fr/][texnique.fr]] t'aidera. » :-)
 
