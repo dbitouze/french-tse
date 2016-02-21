@@ -17,6 +17,9 @@ utilisateurs. Un système de points (cf. ci-dessous) permet aux utilisateurs
 d'acquérir certaines compétences de modération.
 
 ** Pourquoi d'autres personnes peuvent-elles modifier mes contributions (questions/réponses/commentaires) ?
+:PROPERTIES:
+:CUSTOM_ID: custom-id-modifications
+:END:
 
 Pour améliorer la qualité globale de la base de connaissances de ce site, les
 membres expérimentés de sa communauté peuvent de remanier les contributions des
