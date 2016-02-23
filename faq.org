@@ -3,6 +3,9 @@
 * À propos de ce site
 
 ** En quoi ce site de questions/réponses diffère-t-il d'un forum typique ?
+:PROPERTIES:
+:CUSTOM_ID: custom-id-different-forum
+:END:
 
 Nous nous concentrons ici sur la recherche de réponses aux questions de nos
 membres, et cherchons à proposer des solutions (et seulement des solutions)
