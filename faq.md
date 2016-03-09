@@ -552,7 +552,7 @@ expliquer la raison. En général, il suffit de :
     2.  pour les commentaires qui vous semblent utiles (**positivement** :
         ![img](/osqa/m/default/media/images/comment-like.png) →
         ![img](/osqa/m/default/media/images/comment-like-on.png)) ;
-2.  **accepter** [*accepter* une réponse](#custom-id-que-faire-si-reponse) si
+2.  [**accepter** une réponse](#custom-id-que-faire-si-reponse) si
     elle fournit la (meilleure) solution à une question.
 
 ## À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?<a id="custom-id-a-faire"></a>

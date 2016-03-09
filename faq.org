@@ -519,7 +519,7 @@ expliquer la raison. En général, il suffit de :
    2. pour les commentaires qui vous semblent utiles (*positivement* :
      [[/osqa/m/default/media/images/comment-like.png]] →
      [[/osqa/m/default/media/images/comment-like-on.png]]) ;
-2. *accepter* [[#custom-id-que-faire-si-reponse][/accepter/ une réponse]] si
+2. [[#custom-id-que-faire-si-reponse][*accepter* une réponse]] si
    elle fournit la (meilleure) solution à une question.
 
 
