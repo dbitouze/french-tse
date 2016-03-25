@@ -412,6 +412,7 @@ réponses et commentaires).
   - *image* :
     - raccourci : <kbd>Ctrl</kbd>+<kbd>g</kbd>
     - syntaxe : cf. [[http://daringfireball.net/projects/markdown/syntax#img]]
+    En cas de problème, cf. [[#custom-id-image-trop-large][cette question]].
   - *liste numérotée (/ordered/)* :
     - raccourci : <kbd>Ctrl</kbd>+<kbd>o</kbd>
     - syntaxe : cf. [[http://daringfireball.net/projects/markdown/syntax#list]]
@@ -500,7 +501,6 @@ Au cas où cette méthode échoue (ou ne soit pas adaptée en raison des points
 ci-dessus), [[http://tex.stackexchange.com/q/11866/18401][d'autres possibilités existent]].
 
 * Divers
-
 ** Une contribution (question, réponse et commentaire) me paraît (in)utile. Puis-je le faire savoir ?
 :PROPERTIES:
 :CUSTOM_ID: custom-id-utile-inutile
@@ -519,9 +519,8 @@ expliquer la raison. En général, il suffit de :
    2. pour les commentaires qui vous semblent utiles (*positivement* :
      [[/osqa/m/default/media/images/comment-like.png]] →
      [[/osqa/m/default/media/images/comment-like-on.png]]) ;
-2. [[#custom-id-que-faire-si-reponse][*accepter* une réponse]] si
-   elle fournit la (meilleure) solution à une question.
-
+2. [[#custom-id-que-faire-si-reponse][*accepter* une réponse]] si elle fournit la (meilleure) solution à une
+   question.
 
 ** À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?
 :PROPERTIES:
@@ -551,6 +550,7 @@ Il suffit de cliquer sur le lien « Ouvrir dans l'éditeur » situé juste au-de
 de cet ECM : son code source sera alors ouvert puis automatiquement compilé et
 le PDF correspondant affiché sur le [[https://www.overleaf.com/][Overleaf]]. Ce site permet notamment l'édition
 (éventuellement collaborative) et la compilation en ligne de fichiers LaTeX.
+
 ** Que signifie le taux d'acceptation figurant à côté des noms d'utilisateurs ?
 
 Pour un utilisateur donné, ce taux indique, parmi toutes les réponses qu'il
@@ -580,3 +580,17 @@ Ces losanges (ou « diamants ») indiquent :
 2. Sur la page d'une question, le fond d'une réponse est coloré en :
    1. vert si elle a été acceptée par l'auteur de la question ;
    2. bleu si son auteur est aussi l'auteur de la question.
+* Problèmes
+** J'ai inséré une image mais elle est trop large. Comment ajuster sa taille ?
+:PROPERTIES:
+:CUSTOM_ID: custom-id-image-trop-large
+:END:
+
+Si une image est insérée comme indiqué à la question « [[#custom-id-mise-en-forme][Comment mettre en forme
+ma contribution ?]] », il se peut qu'elle déborde en largeur. Dans ce cas, il faut
+l'insérer en recourant à l'instruction HTML :
+#+BEGIN_SRC html
+<img src="/upfiles/⟨fichier⟩.png" style="width: 100%;"/>
+     #+END_SRC
+où =⟨fichier⟩= est le nom du
+fichier image utilisé.

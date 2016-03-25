@@ -72,6 +72,11 @@
 <li><a href="#orgheadline21">4.6. Que signifient les différents codes couleurs du site ?</a></li>
 </ul>
 </li>
+<li><a href="#orgheadline23">5. Problèmes</a>
+<ul>
+<li><a href="#custom-id-image-trop-large">5.1. J&rsquo;ai inséré une image mais elle est trop large. Comment ajuster sa taille ?</a></li>
+</ul>
+</li>
 </ul>
 </div>
 </div>
@@ -208,13 +213,13 @@ contributions.
     solutions) optimales à des questions concernant (La)TeX. Vos **contributions**
     doivent donc **contenir** :
     
-    -   **de l'information utile** ;
-    -   ***seulement* de l'information utile**.
+    -   **de l&rsquo;information utile** ;
+    -   ***seulement* de l&rsquo;information utile**.
     
     En particulier, **évitez** de faire figurer (et *surtout* de ne faire figurer que) :
     
     -   des **formules de politesse** (« Bonjour », « Merci d&rsquo;avance », etc.) ;
-    -   des **marques d'opinion** (« Merci », « +1 », etc.) ou des **confirmations de
+    -   des **marques d&rsquo;opinion** (« Merci », « +1 », etc.) ou des **confirmations de
         solution** (notamment dans les commentaires) :
         -   si une contribution vous a été utile, inutile de le dire : il suffit de
             (et il faut) [voter (positivement)](#custom-id-utile-inutile) pour
@@ -341,7 +346,7 @@ Si la **réponse** vous semble :
     **ajoutez un commentaire** en cliquant sur le lien correspondant sous cette
     réponse ;
 -   **satisfaisante**, veillez à **le faire savoir** :
-    -   [**pas** au moyen d'**un commentaire**](#custom-id-contributions-utiles) ;
+    -   [**pas** au moyen d&rsquo;**un commentaire**](#custom-id-contributions-utiles) ;
     -   **en « acceptant » cette réponse** : pour cela, il suffit de cliquer sur
         l&rsquo;icône correspondante : ![img](/osqa/m/default/media/images/vote-accepted.png) →
         ![img](/osqa/m/default/media/images/vote-accepted-on.png) ;
@@ -450,8 +455,11 @@ réponses et commentaires).
             -   syntaxe : laisser 4 espaces en début de chaque ligne (8 espaces si le
                 code se trouve dans un item de liste)
     -   **image** :
+        
         -   raccourci : <kbd>Ctrl</kbd>+<kbd>g</kbd>
         -   syntaxe : cf. <http://daringfireball.net/projects/markdown/syntax#img>
+        
+        En cas de problème, cf. [cette question](#custom-id-image-trop-large).
     -   **liste numérotée (*ordered*)** :
         -   raccourci : <kbd>Ctrl</kbd>+<kbd>o</kbd>
         -   syntaxe : cf. <http://daringfireball.net/projects/markdown/syntax#list>
@@ -533,7 +541,7 @@ compilé avec `pdflatex` lancé avec l&rsquo;option `-shell-escape`, génère le
     `babel` (mais il existe [un contournement](http://tex.stackexchange.com/q/263985/18401)).
 
 Au cas où cette méthode échoue (ou ne soit pas adaptée en raison des points
-ci-dessus), [d'autres possibilités existent](http://tex.stackexchange.com/q/11866/18401).
+ci-dessus), [d&rsquo;autres possibilités existent](http://tex.stackexchange.com/q/11866/18401).
 
 # Divers<a id="orgheadline22"></a>
 
@@ -552,8 +560,8 @@ expliquer la raison. En général, il suffit de :
     2.  pour les commentaires qui vous semblent utiles (**positivement** :
         ![img](/osqa/m/default/media/images/comment-like.png) →
         ![img](/osqa/m/default/media/images/comment-like-on.png)) ;
-2.  [**accepter** une réponse](#custom-id-que-faire-si-reponse) si
-    elle fournit la (meilleure) solution à une question.
+2.  [**accepter** une réponse](#custom-id-que-faire-si-reponse) si elle fournit la (meilleure) solution à une
+    question.
 
 ## À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?<a id="custom-id-a-faire"></a>
 
@@ -584,7 +592,7 @@ le PDF correspondant affiché sur le [Overleaf](https://www.overleaf.com/). Ce s
 Pour un utilisateur donné, ce taux indique, parmi toutes les réponses qu&rsquo;il
 a proposées, le pourcentage de celles acceptées par les auteurs des
 questions. Ce chiffre peut être un peu biaisé puisque certains auteurs de questions
-[omettent d'accepter les réponses qu'on leur fournit](#custom-id-que-faire-si-reponse).
+[omettent d&rsquo;accepter les réponses qu&rsquo;on leur fournit](#custom-id-que-faire-si-reponse).
 
 ## Que signifient les losanges figurant à côté de certains noms d&rsquo;utilisateurs ?<a id="custom-id-rhombi"></a>
 
@@ -605,3 +613,16 @@ Ces losanges (ou « diamants ») indiquent :
 2.  Sur la page d&rsquo;une question, le fond d&rsquo;une réponse est coloré en :
     1.  vert si elle a été acceptée par l&rsquo;auteur de la question ;
     2.  bleu si son auteur est aussi l&rsquo;auteur de la question.
+
+# Problèmes<a id="orgheadline23"></a>
+
+## J&rsquo;ai inséré une image mais elle est trop large. Comment ajuster sa taille ?<a id="custom-id-image-trop-large"></a>
+
+Si une image est insérée comme indiqué à la question « [Comment mettre en forme
+ma contribution ?](#custom-id-mise-en-forme) », il se peut qu&rsquo;elle déborde en largeur. Dans ce cas, il faut
+l&rsquo;insérer en recourant à l&rsquo;instruction HTML :
+
+    <img src="/upfiles/⟨fichier⟩.png" style="width: 100%;"/>
+
+où `⟨fichier⟩` est le nom du
+fichier image utilisé.
