@@ -369,6 +369,18 @@ Pour faire figurer ce type de mention, saisissez simplement « =@= » suivi
 (immédiatement) du nom qui apparaît en signature du commentaire auquel vous
 voulez répondre.
 
+*** Que dois-je éviter dans mes commentaires ?
+:PROPERTIES:
+:CUSTOM_ID: custom-id-a-eviter-dans-commentaires
+:END:
+
+Bien que cela relève davantage de la forme que du fond, nous signalons ici que
+les « [[#custom-id-mise-en-forme][codes « *hors texte* »]] » sont *à proscrire*
+dans les commentaires ( cf. la question
+« [[#custom-id-commentaires-invisibles][Une contribution est indiquée comme
+agrémentée d'un certain nombre de commentaires mais tous ne sont pas
+visibles. Pourquoi ?]] »).
+
 * Forme des contributions
 :PROPERTIES:
 :CUSTOM_ID: custom-id-forme
@@ -398,21 +410,23 @@ réponses et commentaires).
     - raccourci : <kbd>Ctrl</kbd>+<kbd>l</kbd>
     - syntaxe : cf. [[http://daringfireball.net/projects/markdown/syntax#link]]
   - *code* sous forme :
-    - soit « *en ligne* » (court extrait à l'intérieur d'un
-      paragraphe de texte) :
+    - soit « *en ligne* » c.-à-d. sous la forme d'un court extrait à l'intérieur
+      d'un paragraphe de texte :
       - raccourci : <kbd>Ctrl</kbd>+<kbd>k</kbd>
       - syntaxe : =`code`=
-    - soit « *hors texte* » (bloc détaché des paragraphes pour afficher le source
-      d'un fichier =.tex= ou autre) : le code doit être préalablement saisi (ou
-      collé) en étant séparé du reste par une ligne vide /avant/ et une ligne vide
-      /après/, puis :
+    - soit « *hors texte* » c.-à-d. sous la forme de bloc détaché des
+      paragraphes pour afficher le source d'un fichier =.tex= ou autre
+      (attention, les codes « hors texte » sont
+      [[#custom-id-commentaires-invisibles][*à proscrire* dans les
+      commentaires]]) : le code doit être préalablement (1) saisi (ou
+      copié-collé), (2) séparé du reste par une ligne vide /avant/ et une ligne
+      vide /après/, (3) sélectionné, puis :
       - raccourci : <kbd>Ctrl</kbd>+<kbd>k</kbd>
       - syntaxe : laisser 4 espaces en début de chaque ligne (8 espaces si le
         code se trouve dans un item de liste)
-  - *image* :
+  - *image* (en cas de problème, cf. [[#custom-id-image-trop-large][cette question]]) :
     - raccourci : <kbd>Ctrl</kbd>+<kbd>g</kbd>
     - syntaxe : cf. [[http://daringfireball.net/projects/markdown/syntax#img]]
-    En cas de problème, cf. [[#custom-id-image-trop-large][cette question]].
   - *liste numérotée (/ordered/)* :
     - raccourci : <kbd>Ctrl</kbd>+<kbd>o</kbd>
     - syntaxe : cf. [[http://daringfireball.net/projects/markdown/syntax#list]]
@@ -429,7 +443,9 @@ réponses et commentaires).
     - syntaxe : =---=
 - *Commentaires* : dans les zones de texte dédiées aux commentaires, les boutons
   et raccourcis ne sont pas disponibles mais il est toujours possible de mettre
-  en forme soi-même au moyen de la syntaxe indiquée ci-dessus.
+  en forme soi-même au moyen de la syntaxe indiquée ci-dessus. *Attention :* les
+  codes « hors texte » sont à proscrire dans les commentaires
+  (cf. [[#custom-id-commentaires-invisibles][cette question]])
 
 Dans *tous les cas*, il est possible d'annuler et de rétablir ce qui vient d'être
 fait au moyen des raccourcis :
@@ -594,3 +610,27 @@ l'insérer en recourant à l'instruction HTML :
      #+END_SRC
 où =⟨fichier⟩= est le nom du
 fichier image utilisé.
+
+** Une contribution est indiquée comme agrémentée d'un certain nombre de commentaires mais tous ne sont pas visibles. Pourquoi ?
+:PROPERTIES:
+:CUSTOM_ID: custom-id-commentaires-invisibles
+:END:
+
+Ce problème est un bogue du logiciel,
+[[http://www.dzonesoftware.com/products/open-source-question-answer-software][OSQA]],
+utilisé pour ce site de questions et réponses. Il se produit lorsqu'un
+contributeur insère dans un /commentaire/ du code « /hors texte/ » : tous les
+commentaires suivants sont alors invisibles. En attendant que ce bogue soit
+réglé (compétences et bonnes volontés
+[[http://texnique.fr/osqa/contact/][bienvenues]] !), il est demandé aux
+contributeurs de *proscrire* les [[#custom-id-mise-en-forme][codes « *hors
+texte* »]] dans leurs commentaires.
+
+** J'ai ajouté un nouveau commentaire mais il reste invisible. Pourquoi ?
+:PROPERTIES:
+:CUSTOM_ID: custom-id-mon-commentaire-invisible
+:END:
+
+Cf. la question « [[#custom-id-commentaires-invisibles][Une contribution est
+indiquée comme agrémentée d'un certain nombre
+de commentaires mais tous ne sont pas visibles. Pourquoi ?]] »

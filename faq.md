@@ -49,6 +49,7 @@
 <li><a href="#orgheadline16">2.4.1. Quel type de commentaires puis-je poster ici ?</a></li>
 <li><a href="#custom-id-commentaire-reponse">2.4.2. En quoi un commentaire diffère-t-il d&rsquo;une réponse ?</a></li>
 <li><a href="#custom-id-destinataire-commentaire">2.4.3. Qu&rsquo;est-ce que ces « <code>@⟨nom⟩</code> » qui introduisent les commentaires et pourquoi devrais-je y recourir ?</a></li>
+<li><a href="#custom-id-a-eviter-dans-commentaires">2.4.4. Que dois-je éviter dans mes commentaires ?</a></li>
 </ul>
 </li>
 </ul>
@@ -75,6 +76,8 @@
 <li><a href="#orgheadline23">5. Problèmes</a>
 <ul>
 <li><a href="#custom-id-image-trop-large">5.1. J&rsquo;ai inséré une image mais elle est trop large. Comment ajuster sa taille ?</a></li>
+<li><a href="#custom-id-commentaires-invisibles">5.2. Une contribution est indiquée comme agrémentée d&rsquo;un certain nombre de commentaires mais tous ne sont pas visibles. Pourquoi ?</a></li>
+<li><a href="#custom-id-mon-commentaire-invisible">5.3. J&rsquo;ai ajouté un nouveau commentaire mais il reste invisible. Pourquoi ?</a></li>
 </ul>
 </li>
 </ul>
@@ -420,6 +423,15 @@ Pour faire figurer ce type de mention, saisissez simplement « `@` » suivi
 (immédiatement) du nom qui apparaît en signature du commentaire auquel vous
 voulez répondre.
 
+### Que dois-je éviter dans mes commentaires ?<a id="custom-id-a-eviter-dans-commentaires"></a>
+
+Bien que cela relève davantage de la forme que du fond, nous signalons ici que
+les « [codes « **hors texte** »](#custom-id-mise-en-forme) » sont **à proscrire**
+dans les commentaires ( cf. la question
+« [Une contribution est indiquée comme
+agrémentée d&rsquo;un certain nombre de commentaires mais tous ne sont pas
+visibles. Pourquoi ?](#custom-id-commentaires-invisibles) »).
+
 # Forme des contributions<a id="custom-id-forme"></a>
 
 Veillez à vous assurer de la *lisibilité* de vos contributions (questions,
@@ -443,23 +455,23 @@ réponses et commentaires).
         -   raccourci : <kbd>Ctrl</kbd>+<kbd>l</kbd>
         -   syntaxe : cf. <http://daringfireball.net/projects/markdown/syntax#link>
     -   **code** sous forme :
-        -   soit « **en ligne** » (court extrait à l&rsquo;intérieur d&rsquo;un
-            paragraphe de texte) :
+        -   soit « **en ligne** » c.-à-d. sous la forme d&rsquo;un court extrait à l&rsquo;intérieur
+            d&rsquo;un paragraphe de texte :
             -   raccourci : <kbd>Ctrl</kbd>+<kbd>k</kbd>
             -   syntaxe : `` `code` ``
-        -   soit « **hors texte** » (bloc détaché des paragraphes pour afficher le source
-            d&rsquo;un fichier `.tex` ou autre) : le code doit être préalablement saisi (ou
-            collé) en étant séparé du reste par une ligne vide *avant* et une ligne vide
-            *après*, puis :
+        -   soit « **hors texte** » c.-à-d. sous la forme de bloc détaché des
+            paragraphes pour afficher le source d&rsquo;un fichier `.tex` ou autre
+            (attention, les codes « hors texte » sont
+            [**à proscrire** dans les
+            commentaires](#custom-id-commentaires-invisibles)) : le code doit être préalablement (1) saisi (ou
+            copié-collé), (2) séparé du reste par une ligne vide *avant* et une ligne
+            vide *après*, (3) sélectionné, puis :
             -   raccourci : <kbd>Ctrl</kbd>+<kbd>k</kbd>
             -   syntaxe : laisser 4 espaces en début de chaque ligne (8 espaces si le
                 code se trouve dans un item de liste)
-    -   **image** :
-        
+    -   **image** (en cas de problème, cf. [cette question](#custom-id-image-trop-large)) :
         -   raccourci : <kbd>Ctrl</kbd>+<kbd>g</kbd>
         -   syntaxe : cf. <http://daringfireball.net/projects/markdown/syntax#img>
-        
-        En cas de problème, cf. [cette question](#custom-id-image-trop-large).
     -   **liste numérotée (*ordered*)** :
         -   raccourci : <kbd>Ctrl</kbd>+<kbd>o</kbd>
         -   syntaxe : cf. <http://daringfireball.net/projects/markdown/syntax#list>
@@ -476,7 +488,9 @@ réponses et commentaires).
         -   syntaxe : `---`
 -   **Commentaires** : dans les zones de texte dédiées aux commentaires, les boutons
     et raccourcis ne sont pas disponibles mais il est toujours possible de mettre
-    en forme soi-même au moyen de la syntaxe indiquée ci-dessus.
+    en forme soi-même au moyen de la syntaxe indiquée ci-dessus. **Attention :** les
+    codes « hors texte » sont à proscrire dans les commentaires
+    (cf. [cette question](#custom-id-commentaires-invisibles))
 
 Dans **tous les cas**, il est possible d&rsquo;annuler et de rétablir ce qui vient d&rsquo;être
 fait au moyen des raccourcis :
@@ -626,3 +640,21 @@ l&rsquo;insérer en recourant à l&rsquo;instruction HTML :
 
 où `⟨fichier⟩` est le nom du
 fichier image utilisé.
+
+## Une contribution est indiquée comme agrémentée d&rsquo;un certain nombre de commentaires mais tous ne sont pas visibles. Pourquoi ?<a id="custom-id-commentaires-invisibles"></a>
+
+Ce problème est un bogue du logiciel,
+[OSQA](http://www.dzonesoftware.com/products/open-source-question-answer-software),
+utilisé pour ce site de questions et réponses. Il se produit lorsqu&rsquo;un
+contributeur insère dans un *commentaire* du code « *hors texte* » : tous les
+commentaires suivants sont alors invisibles. En attendant que ce bogue soit
+réglé (compétences et bonnes volontés
+[bienvenues](http://texnique.fr/osqa/contact/) !), il est demandé aux
+contributeurs de **proscrire** les [codes « **hors
+texte** »](#custom-id-mise-en-forme) dans leurs commentaires.
+
+## J&rsquo;ai ajouté un nouveau commentaire mais il reste invisible. Pourquoi ?<a id="custom-id-mon-commentaire-invisible"></a>
+
+Cf. la question « [Une contribution est
+indiquée comme agrémentée d&rsquo;un certain nombre
+de commentaires mais tous ne sont pas visibles. Pourquoi ?](#custom-id-commentaires-invisibles) »
