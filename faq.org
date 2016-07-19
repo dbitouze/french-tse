@@ -376,7 +376,7 @@ voulez répondre.
 
 Bien que cela relève davantage de la forme que du fond, nous signalons ici que
 les « [[#custom-id-mise-en-forme][codes « *hors texte* »]] » sont *à proscrire*
-dans les commentaires ( cf. la question
+dans les commentaires (cf. la question
 « [[#custom-id-commentaires-invisibles][Une contribution est indiquée comme
 agrémentée d'un certain nombre de commentaires mais tous ne sont pas
 visibles. Pourquoi ?]] »).
