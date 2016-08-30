@@ -1,16 +1,16 @@
 #+LANGUAGE: fr
 #+OPTIONS: ^:{}
 
-Vous pouvez ici *poser* et *répondre* à des questions sur *(La)TeX*, ainsi
-que *commenter* et *voter* pour les questions et réponses des autres. Tant
-les questions et que les réponses *peuvent être rémaniées* pour être
-améliorées. Les questions peuvent être *marquées* avec des mots-clés
-pertinents afin d'en simplifier l'accès futur et d'organiser le contenu
-accumulé.
+Vous pouvez ici *poser* et *répondre* à des questions sur *(La)TeX*, ainsi que
+*commenter* et *voter* pour les questions et réponses des autres. Tant les questions
+que les réponses *peuvent être rémaniées* pour être améliorées. Les questions
+peuvent être *marquées* avec des mots-clés pertinents afin d'en simplifier l'accès
+futur et d'organiser le contenu accumulé.
 
 La licence s'appliquant à toutes les contributions (questions, réponses,
-commentaires) des utilisateurs du présent site est la licence [[https://creativecommons.org/licenses/by-sa/3.0/fr/][Creative Commons
-Partage dans les mêmes conditions 3.0 France]] (cc-by-sa 3.0 fr).
+commentaires) des utilisateurs du présent site est la licence
+[[https://creativecommons.org/licenses/by-sa/3.0/fr/][Creative Commons Partage
+dans les mêmes conditions 3.0 France]] (cc-by-sa 3.0 fr).
 
 Ce site de « /questions & answers/ » (/Q & A/), soit en français « questions &
 réponses » (« Q & R »), est animé par ses membres dont, nous l'espérons,
