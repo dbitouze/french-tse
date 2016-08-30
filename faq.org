@@ -16,7 +16,7 @@ souvent plus subjectifs.
 ** Qui anime cette communauté ?
 
 La réponse courte est : vous... et nous. Ce site est animé par ses
-utilisateurs. Un système de points (cf. ci-dessous) permet aux utilisateurs
+utilisateurs. Un [[#custom-id-points][système de points]] permet aux utilisateurs
 d'acquérir certaines compétences de modération.
 
 ** Pourquoi d'autres personnes peuvent-elles modifier mes contributions (questions/réponses/commentaires) ?
@@ -67,7 +67,6 @@ atteint par une question ou une réponse. La liste suivante indique le seuil min
 de karma pour obtenir chaque compétence de modération.
 
 - Ajouter des commentaires → |REP\under{}TO\under{}COMMENT|
-- Supprimer les commentaires → |REP\under{}TO\under{}DELETE\under{}COMMENTS|
 - Fermer ses propres questions → |REP\under{}TO\under{}CLOSE\under{}OWN|
 - Rouvrir ses propres questions → |REP\under{}TO\under{}REOPEN\under{}OWN|
 - Changer les mots-clés d'une question → |REP\under{}TO\under{}RETAG|
