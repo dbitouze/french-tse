@@ -98,7 +98,7 @@ souvent plus subjectifs.
 ## Qui anime cette communauté ?<a id="orgheadline1"></a>
 
 La réponse courte est : vous&#x2026; et nous. Ce site est animé par ses
-utilisateurs. Un système de points (cf. ci-dessous) permet aux utilisateurs
+utilisateurs. Un [système de points](#custom-id-points) permet aux utilisateurs
 d&rsquo;acquérir certaines compétences de modération.
 
 ## Pourquoi d&rsquo;autres personnes peuvent-elles modifier mes contributions (questions/réponses/commentaires) ?<a id="custom-id-modifications"></a>
@@ -140,7 +140,6 @@ atteint par une question ou une réponse. La liste suivante indique le seuil min
 de karma pour obtenir chaque compétence de modération.
 
 -   Ajouter des commentaires → |REP_TO_COMMENT|
--   Supprimer les commentaires → |REP_TO_DELETE_COMMENTS|
 -   Fermer ses propres questions → |REP_TO_CLOSE_OWN|
 -   Rouvrir ses propres questions → |REP_TO_REOPEN_OWN|
 -   Changer les mots-clés d&rsquo;une question → |REP_TO_RETAG|
@@ -427,7 +426,7 @@ voulez répondre.
 
 Bien que cela relève davantage de la forme que du fond, nous signalons ici que
 les « [codes « **hors texte** »](#custom-id-mise-en-forme) » sont **à proscrire**
-dans les commentaires ( cf. la question
+dans les commentaires (cf. la question
 « [Une contribution est indiquée comme
 agrémentée d&rsquo;un certain nombre de commentaires mais tous ne sont pas
 visibles. Pourquoi ?](#custom-id-commentaires-invisibles) »).
