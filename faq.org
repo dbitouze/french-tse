@@ -25,7 +25,7 @@ d'acquérir certaines compétences de modération.
 :END:
 
 Pour améliorer la qualité globale de la base de connaissances de ce site, les
-membres expérimentés de sa communauté peuvent de remanier les contributions des
+membres expérimentés de sa communauté peuvent remanier les contributions des
 autres. Ainsi, les visiteurs trouveront ici beaucoup de questions bien posées et
 de réponses clairement formulées.
 
