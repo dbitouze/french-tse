@@ -336,6 +336,17 @@ Utilisez les commentaires sur les questions ou réponses par exemple pour :
 - indiquer (gentiment) à l'auteur de la question ou réponse comment il pourrait
   mieux formuler sa contribution.
 
+*** Que dois-je éviter dans mes commentaires ?
+:PROPERTIES:
+:CUSTOM_ID: custom-id-a-eviter-dans-commentaires
+:END:
+
+Ceci est un site de questions et réponses et pas un groupe de discussion. Nous
+vous prions donc de *proscrire* dans vos commentaires les *débats* et les
+*jugements de valeurs* sur les contributions des autres car cela rend moins
+lisible ce que d’autres personnes chercheront ici : des solutions (et seulement
+des solutions) optimales à des questions concernant (La)TeX.
+
 *** En quoi un commentaire diffère-t-il d'une réponse ?
 :PROPERTIES:
 :CUSTOM_ID: custom-id-commentaire-reponse
@@ -368,17 +379,15 @@ Pour faire figurer ce type de mention, saisissez simplement « =@= » suivi
 (immédiatement) du nom qui apparaît en signature du commentaire auquel vous
 voulez répondre.
 
-*** Que dois-je éviter dans mes commentaires ?
+*** Puis-je faire figurer du code dans mes commentaires ?
 :PROPERTIES:
-:CUSTOM_ID: custom-id-a-eviter-dans-commentaires
+:CUSTOM_ID: custom-id-code-dans-commentaires
 :END:
 
 Bien que cela relève davantage de la forme que du fond, nous signalons ici que
-les « [[#custom-id-mise-en-forme][codes « *hors texte* »]] » sont *à proscrire*
-dans les commentaires (cf. la question
-« [[#custom-id-commentaires-invisibles][Une contribution est indiquée comme
-agrémentée d'un certain nombre de commentaires mais tous ne sont pas
-visibles. Pourquoi ?]] »).
+les « [[#custom-id-mise-en-forme][codes « *hors texte* »]] » sont *à proscrire* dans les commentaires (cf. la
+question « [[#custom-id-commentaires-invisibles][Une contribution est indiquée comme agrémentée d'un certain nombre de
+commentaires mais tous ne sont pas visibles. Pourquoi ?]] »).
 
 * Forme des contributions
 :PROPERTIES:
