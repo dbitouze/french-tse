@@ -181,12 +181,17 @@ site. Vous pouvez donc *peaufiner vos contributions* en cliquant sur :
 :CUSTOM_ID: custom-id-xyz
 :END:
 
-Vous êtes atteint du syndrome XYZ lorsque vous avez un problème X pour lequel
-vous *croyez* que la solution passe par Y. Ayant un problème pour faire Y, vous
-demandez une solution à ce problème Y sans évoquer X. Or une bonne solution pour
-X passe en fait par Z qui n'a rien à voir avec Y !
+Vous êtes atteint du syndrome *XYZ* lorsque :
 
-Autrement dit, lorsque vous posez une question, indiquez-en le contexte.
+1. vous voulez faire *X* ;
+2. vous /croyez/ que la solution passe par *Y* ;
+3. vous ne parvenez pas à mettre en œuvre *Y* ;
+4. vous demandez de l'aide pour *Y*, sans mentionner *X* ;
+5. or la solution à *X* est en fait *Z* (qui n'a rien à voir avec *Y*) !
+
+*NB*. Indiquer le contexte (*X*) dès le début fait gagner du temps :
+- à ceux qui m'aident ;
+- à moi-même.
 
 ** Questions
 *** Quelles questions puis-je poser ici ?
