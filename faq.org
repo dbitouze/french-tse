@@ -229,6 +229,8 @@ les questions soient intitulées sous forme de... questions !  Cela aide
 également ceux qui sont disposés à vous aider : ils savent ainsi précisément
 à quelle /question/ répondre.
 
+À ce sujet, n'hésitez pas à placer une capitale initiale au premier mot du titre.
+
 *** Qu'est-ce qu'un ECM et pourquoi est-il si important d'en fournir un ?
 :PROPERTIES:
 :CUSTOM_ID: custom-id-ecm
@@ -264,8 +266,11 @@ mais instructif et souvent suffisant pour résoudre le problème. N'hésitez pas
 à commenter/décommenter des portions de code pour que votre /exemple/ devienne
 effectivement /complet/ et /minimal/. Pour mettre en évidence un problème lié
 à l'inclusion de graphiques, vous pouvez vous aider du package
-[[http://ctan.org/pkg/mwe][=mwe=]] qui fournit des images dont les autres
-disposeront également.
+[[http://ctan.org/pkg/mwe][=mwe=]] qui :
+
+- fournit des images dont les autres disposeront également ;
+- inclut le package [[http://mirrors.ctan.org/macros/latex/contrib/lipsum/lipsum.pdf][=lipsum=]] permettant l'inclusion de faux-texte, ce qui peut
+  être utile.
 
 Et n'oubliez pas : « Aide-toi, [[http://texnique.fr/][texnique.fr]] t'aidera. » :-)
 
@@ -407,6 +412,8 @@ réponses et commentaires).
 :CUSTOM_ID: custom-id-mise-en-forme
 :END:
 
+
+- *Titre :* prière de placer une capitale initiale au premier mot du titre.
 - *Questions ou réponses :* dans les zones dédiées aux questions ou réponses, une
   mise en forme basique du texte est possible, et facilitée par des raccourcis
   claviers et boutons :
