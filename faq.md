@@ -1,92 +1,62 @@
-<div id="table-of-contents">
-<h2>Table des matières</h2>
-<div id="text-table-of-contents">
-<ul>
-<li><a href="#orge94a54a">1. À propos de ce site</a>
-<ul>
-<li><a href="#custom-id-different-forum">1.1. En quoi ce site de questions/réponses diffère-t-il d&rsquo;un forum typique ?</a></li>
-<li><a href="#org67592a5">1.2. Qui anime cette communauté ?</a></li>
-<li><a href="#custom-id-modifications">1.3. Pourquoi d&rsquo;autres personnes peuvent-elles modifier mes contributions (questions/réponses/commentaires) ?</a></li>
-<li><a href="#custom-id-license">1.4. Pourquoi mes contributions sont-elles automatiquement placées sous licence « cc-by-sa 3.0 fr » ?</a></li>
-<li><a href="#org617215e">1.5. Pour participer à cette communauté, dois-je créer un nouveau compte ?</a></li>
-<li><a href="#custom-id-points">1.6. Comment fonctionne le système de points ?</a></li>
-<li><a href="#orga9e17d0">1.7. Qu&rsquo;est-ce qu&rsquo;un « gravatar » ?</a></li>
-<li><a href="#orgb5338cb">1.8. Pourquoi les notifications par courriel sont-elles si importantes ?</a></li>
-<li><a href="#org9298045">1.9. Comment modifier mon profil, par exemple mes notifications par courriel ?</a></li>
-<li><a href="#orgf1ba9b7">1.10. Et maintenant ?</a></li>
-</ul>
-</li>
-<li><a href="#custom-id-fond">2. Fond des contributions</a>
-<ul>
-<li><a href="#orgbc624bc">2.1. En général</a>
-<ul>
-<li><a href="#custom-id-contributions-utiles">2.1.1. Comment rendre mes contributions aussi utiles que possible ?</a></li>
-<li><a href="#custom-id-peaufinage">2.1.2. Je viens de constater que ma contribution n&rsquo;a pas été très clairement formulée. Puis-je la modifier ?</a></li>
-<li><a href="#custom-id-xyz">2.1.3. On me dit d&rsquo;éviter le syndrome XYZ. Que cela signifie-t-il ?</a></li>
-</ul>
-</li>
-<li><a href="#org1abe4a3">2.2. Questions</a>
-<ul>
-<li><a href="#org8e52d00">2.2.1. Quelles questions puis-je poser ici ?</a></li>
-<li><a href="#org3bfb295">2.2.2. Quelles questions devraient être évitées ?</a></li>
-<li><a href="#custom-id-question-unique">2.2.3. Pourquoi est-il si important de ne poser qu&rsquo;une question à la fois ?</a></li>
-<li><a href="#custom-id-titre-question">2.2.4. On me demande de reformuler le titre de ma question sous forme interrogative. Pourquoi ?</a></li>
-<li><a href="#custom-id-ecm">2.2.5. Qu&rsquo;est-ce qu&rsquo;un ECM et pourquoi est-il si important d&rsquo;en fournir un ?</a></li>
-<li><a href="#custom-id-mwe">2.2.6. Qu&rsquo;est-ce qu&rsquo;un MWE et pourquoi est-il si important d&rsquo;en fournir un ?</a></li>
-<li><a href="#custom-id-po">2.2.7. Qu&rsquo;est-ce qu&rsquo;un PO ?</a></li>
-<li><a href="#custom-id-que-faire-si-reponse">2.2.8. Que dois-je faire quand une réponse à ma question a été postée ?</a></li>
-<li><a href="#orgc098253">2.2.9. J&rsquo;ai accepté une réponse à ma question mais une autre qui vient d&rsquo;être publiée est également satisfaisante. Pourquoi ne puis-je pas l&rsquo;accepter aussi ?</a></li>
-</ul>
-</li>
-<li><a href="#orgd643dc0">2.3. Réponses</a>
-<ul>
-<li><a href="#org557e3c7">2.3.1. Que dois-je éviter dans mes réponses ?</a></li>
-<li><a href="#org0cc3846">2.3.2. Je pense pouvoir répondre à une question mais je ne suis pas certain de l&rsquo;avoir bien comprise. Que puis-je faire ?</a></li>
-</ul>
-</li>
-<li><a href="#org45b6420">2.4. Commentaires</a>
-<ul>
-<li><a href="#orgaba164f">2.4.1. Quel type de commentaires puis-je poster ici ?</a></li>
-<li><a href="#custom-id-a-eviter-dans-commentaires">2.4.2. Que dois-je éviter dans mes commentaires ?</a></li>
-<li><a href="#custom-id-commentaire-reponse">2.4.3. En quoi un commentaire diffère-t-il d&rsquo;une réponse ?</a></li>
-<li><a href="#custom-id-destinataire-commentaire">2.4.4. Qu&rsquo;est-ce que ces « <code>@⟨nom⟩</code> » qui introduisent les commentaires et pourquoi devrais-je y recourir ?</a></li>
-<li><a href="#custom-id-code-dans-commentaires">2.4.5. Puis-je faire figurer du code dans mes commentaires ?</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#custom-id-forme">3. Forme des contributions</a>
-<ul>
-<li><a href="#custom-id-mise-en-forme">3.1. Comment mettre en forme ma contribution ?</a></li>
-<li><a href="#custom-id-code">3.2. Comment insérer le (un extrait de) code d&rsquo;un fichier <code>.tex</code> (ou autre) ?</a></li>
-<li><a href="#orgba000f6">3.3. Dans un paragraphe de texte, comment faire ressortir une commande (La)TeX ou le nom d&rsquo;un package ?</a></li>
-<li><a href="#org868e9d3">3.4. Dans une liste, comment ajouter un nouvel item et comment en sortir ?</a></li>
-<li><a href="#custom-id-image-pdf-dvi">3.5. Comment faire figurer une image du fichier <code>.pdf</code> (ou <code>.dvi</code>) que j&rsquo;obtiens pour que les autres voient immédiatement le problème que je rencontre ou la solution que je propose ?</a></li>
-</ul>
-</li>
-<li><a href="#org0eee264">4. Divers</a>
-<ul>
-<li><a href="#custom-id-utile-inutile">4.1. Une contribution (question, réponse et commentaire) me paraît (in)utile. Puis-je le faire savoir ?</a></li>
-<li><a href="#custom-id-a-faire">4.2. À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?</a></li>
-<li><a href="#custom-id-editeur">4.3. Je voudrais tester un ECM illustrant une question ou une réponse mais (La)TeX n&rsquo;est pas installé sur la machine que j&rsquo;utilise actuellement. Que puis-je faire ?</a></li>
-<li><a href="#orgc67b2bf">4.4. Que signifie le taux d&rsquo;acceptation figurant à côté des noms d&rsquo;utilisateurs ?</a></li>
-<li><a href="#custom-id-rhombi">4.5. Que signifient les losanges figurant à côté de certains noms d&rsquo;utilisateurs ?</a></li>
-<li><a href="#org95e7032">4.6. Que signifient les différents codes couleurs du site ?</a></li>
-</ul>
-</li>
-<li><a href="#orge2fdf5d">5. Problèmes</a>
-<ul>
-<li><a href="#custom-id-image-trop-large">5.1. J&rsquo;ai inséré une image mais elle est trop large. Comment ajuster sa taille ?</a></li>
-<li><a href="#custom-id-commentaires-invisibles">5.2. Une contribution est indiquée comme agrémentée d&rsquo;un certain nombre de commentaires mais tous ne sont pas visibles. Pourquoi ?</a></li>
-<li><a href="#custom-id-mon-commentaire-invisible">5.3. J&rsquo;ai ajouté un nouveau commentaire mais il reste invisible. Pourquoi ?</a></li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
+
+# Table des matières
+
+1.  [À propos de ce site](#org9ef2f79)
+    1.  [En quoi ce site de questions/réponses diffère-t-il d&rsquo;un forum typique ?](#custom-id-different-forum)
+    2.  [Qui anime cette communauté ?](#org4bc3042)
+    3.  [Pourquoi d&rsquo;autres personnes peuvent-elles modifier mes contributions (questions/réponses/commentaires) ?](#custom-id-modifications)
+    4.  [Pourquoi mes contributions sont-elles automatiquement placées sous licence « cc-by-sa 3.0 fr » ?](#custom-id-license)
+    5.  [Pour participer à cette communauté, dois-je créer un nouveau compte ?](#org6048c81)
+    6.  [Comment fonctionne le système de points ?](#custom-id-points)
+    7.  [Qu&rsquo;est-ce qu&rsquo;un « gravatar » ?](#org7a79b3b)
+    8.  [Pourquoi les notifications par courriel sont-elles si importantes ?](#orgd573435)
+    9.  [Comment modifier mon profil, par exemple mes notifications par courriel ?](#org982770d)
+    10. [Et maintenant ?](#org94d666d)
+2.  [Fond des contributions](#custom-id-fond)
+    1.  [En général](#orge8c9ef0)
+        1.  [Comment rendre mes contributions aussi utiles que possible ?](#custom-id-contributions-utiles)
+        2.  [Je viens de constater que ma contribution n&rsquo;a pas été très clairement formulée. Puis-je la modifier ?](#custom-id-peaufinage)
+        3.  [On me dit d&rsquo;éviter le syndrome XYZ. Que cela signifie-t-il ?](#custom-id-xyz)
+    2.  [Questions](#org1f6d9d2)
+        1.  [Quelles questions puis-je poser ici ?](#org6d3206c)
+        2.  [Quelles questions devraient être évitées ?](#orge155d1e)
+        3.  [Pourquoi est-il si important de ne poser qu&rsquo;une question à la fois ?](#custom-id-question-unique)
+        4.  [On me demande de reformuler le titre de ma question sous forme interrogative. Pourquoi ?](#custom-id-titre-question)
+        5.  [Qu&rsquo;est-ce qu&rsquo;un ECM et pourquoi est-il si important d&rsquo;en fournir un ?](#custom-id-ecm)
+        6.  [Qu&rsquo;est-ce qu&rsquo;un MWE et pourquoi est-il si important d&rsquo;en fournir un ?](#custom-id-mwe)
+        7.  [Qu&rsquo;est-ce qu&rsquo;un PO ?](#custom-id-po)
+        8.  [Que dois-je faire quand une réponse à ma question a été postée ?](#custom-id-que-faire-si-reponse)
+        9.  [J&rsquo;ai accepté une réponse à ma question mais une autre qui vient d&rsquo;être publiée est également satisfaisante. Pourquoi ne puis-je pas l&rsquo;accepter aussi ?](#orgcf29b1e)
+    3.  [Réponses](#org3fabacd)
+        1.  [Que dois-je éviter dans mes réponses ?](#org7884086)
+        2.  [Je pense pouvoir répondre à une question mais je ne suis pas certain de l&rsquo;avoir bien comprise. Que puis-je faire ?](#orge4b990b)
+    4.  [Commentaires](#org7fe9eb1)
+        1.  [Quel type de commentaires puis-je poster ici ?](#orgeabd358)
+        2.  [Que dois-je éviter dans mes commentaires ?](#custom-id-a-eviter-dans-commentaires)
+        3.  [En quoi un commentaire diffère-t-il d&rsquo;une réponse ?](#custom-id-commentaire-reponse)
+        4.  [Qu&rsquo;est-ce que ces « `@⟨nom⟩` » qui introduisent les commentaires et pourquoi devrais-je y recourir ?](#custom-id-destinataire-commentaire)
+        5.  [Puis-je faire figurer du code dans mes commentaires ?](#custom-id-code-dans-commentaires)
+3.  [Forme des contributions](#custom-id-forme)
+    1.  [Comment mettre en forme ma contribution ?](#custom-id-mise-en-forme)
+    2.  [Comment insérer le (un extrait de) code d&rsquo;un fichier `.tex` (ou autre) ?](#custom-id-code)
+    3.  [Dans un paragraphe de texte, comment faire ressortir une commande (La)TeX ou le nom d&rsquo;un package ?](#org894f871)
+    4.  [Dans une liste, comment ajouter un nouvel item et comment en sortir ?](#org007420a)
+    5.  [Comment faire figurer une image du fichier `.pdf` (ou `.dvi`) que j&rsquo;obtiens pour que les autres voient immédiatement le problème que je rencontre ou la solution que je propose ?](#custom-id-image-pdf-dvi)
+4.  [Divers](#orgfbb67fe)
+    1.  [Une contribution (question, réponse et commentaire) me paraît (in)utile. Puis-je le faire savoir ?](#custom-id-utile-inutile)
+    2.  [À part lire ou poster des questions, réponses et commentaires, que puis-je faire ici ?](#custom-id-a-faire)
+    3.  [Je voudrais tester un ECM illustrant une question ou une réponse mais (La)TeX n&rsquo;est pas installé sur la machine que j&rsquo;utilise actuellement. Que puis-je faire ?](#custom-id-editeur)
+    4.  [Que signifie le taux d&rsquo;acceptation figurant à côté des noms d&rsquo;utilisateurs ?](#org47eea8d)
+    5.  [Que signifient les losanges figurant à côté de certains noms d&rsquo;utilisateurs ?](#custom-id-rhombi)
+    6.  [Que signifient les différents codes couleurs du site ?](#org27139b2)
+5.  [Problèmes](#org50a97d6)
+    1.  [J&rsquo;ai inséré une image mais elle est trop large. Comment ajuster sa taille ?](#custom-id-image-trop-large)
+    2.  [Une contribution est indiquée comme agrémentée d&rsquo;un certain nombre de commentaires mais tous ne sont pas visibles. Pourquoi ?](#custom-id-commentaires-invisibles)
+    3.  [J&rsquo;ai ajouté un nouveau commentaire mais il reste invisible. Pourquoi ?](#custom-id-mon-commentaire-invisible)
 
 
-<a id="orge94a54a"></a>
+
+<a id="org9ef2f79"></a>
 
 # À propos de ce site
 
@@ -102,7 +72,7 @@ discussion, où les membres partagent leurs opinions et les sujets discutés son
 souvent plus subjectifs.
 
 
-<a id="org67592a5"></a>
+<a id="org4bc3042"></a>
 
 ## Qui anime cette communauté ?
 
@@ -133,7 +103,7 @@ pourront être exploitées ultérieurement, par exemple pour constituer ou enric
 une FAQ LaTeX (bien sûr alors publiée sous la même licence).
 
 
-<a id="org617215e"></a>
+<a id="org6048c81"></a>
 
 ## Pour participer à cette communauté, dois-je créer un nouveau compte ?
 
@@ -169,7 +139,7 @@ de karma pour obtenir chaque compétence de modération.
 -   Supprimer tout commentaire → |REP_TO_DELETE_COMMENTS|
 
 
-<a id="orga9e17d0"></a>
+<a id="org7a79b3b"></a>
 
 ## Qu&rsquo;est-ce qu&rsquo;un « gravatar » ?
 
@@ -187,7 +157,7 @@ anglophones, la page <https://apps.ghostery.com/fr/apps/gravatar>&#x2026; ainsi 
 les serveurs de [automattic.com](http://automattic.com), société mère de [gravatar.com](http://gravatar.com).
 
 
-<a id="orgb5338cb"></a>
+<a id="orgd573435"></a>
 
 ## Pourquoi les notifications par courriel sont-elles si importantes ?
 
@@ -211,7 +181,7 @@ courriel, vous pouvez le faire [ici](http://texnique.fr/osqa/compte/valider/).  
 communauté, vous pouvez la rejoindre en vous [inscrivant](http://texnique.fr/osqa/compte/local/inscription/).
 
 
-<a id="org9298045"></a>
+<a id="org982770d"></a>
 
 ## Comment modifier mon profil, par exemple mes notifications par courriel ?
 
@@ -221,7 +191,7 @@ modifications que vous souhaitez, par exemple « configuration des notifications
 par courriel ».
 
 
-<a id="orgf1ba9b7"></a>
+<a id="org94d666d"></a>
 
 ## Et maintenant ?
 
@@ -242,7 +212,7 @@ contributions.
 # Fond des contributions
 
 
-<a id="orgbc624bc"></a>
+<a id="orge8c9ef0"></a>
 
 ## En général
 
@@ -296,20 +266,26 @@ site. Vous pouvez donc **peaufiner vos contributions** en cliquant sur :
 
 ### On me dit d&rsquo;éviter le syndrome XYZ. Que cela signifie-t-il ?
 
-Vous êtes atteint du syndrome XYZ lorsque vous avez un problème X pour lequel
-vous **croyez** que la solution passe par Y. Ayant un problème pour faire Y, vous
-demandez une solution à ce problème Y sans évoquer X. Or une bonne solution pour
-X passe en fait par Z qui n&rsquo;a rien à voir avec Y !
+Vous êtes atteint du syndrome **XYZ** lorsque :
 
-Autrement dit, lorsque vous posez une question, indiquez-en le contexte.
+1.  vous voulez faire **X** ;
+2.  vous *croyez* que la solution passe par **Y** ;
+3.  vous ne parvenez pas à mettre en œuvre **Y** ;
+4.  vous demandez de l&rsquo;aide pour **Y**, sans mentionner **X** ;
+5.  or la solution à **X** est en fait **Z** (qui n&rsquo;a rien à voir avec **Y**) !
+
+**NB**. Indiquer le contexte (**X**) dès le début fait gagner du temps :
+
+-   à ceux qui m&rsquo;aident ;
+-   à moi-même.
 
 
-<a id="org1abe4a3"></a>
+<a id="org1f6d9d2"></a>
 
 ## Questions
 
 
-<a id="org8e52d00"></a>
+<a id="org6d3206c"></a>
 
 ### Quelles questions puis-je poser ici ?
 
@@ -320,7 +296,7 @@ site. Vous pouvez rechercher des questions par leur titre, leur contenu ou leurs
 mots-clés (*tags*).
 
 
-<a id="org3bfb295"></a>
+<a id="orge155d1e"></a>
 
 ### Quelles questions devraient être évitées ?
 
@@ -349,6 +325,8 @@ Vous êtes ici sur un site de *questions* et *réponses* et il est donc logique 
 les questions soient intitulées sous forme de&#x2026; questions !  Cela aide
 également ceux qui sont disposés à vous aider : ils savent ainsi précisément
 à quelle *question* répondre.
+
+À ce sujet, n&rsquo;hésitez pas à placer une capitale initiale au premier mot du titre.
 
 
 <a id="custom-id-ecm"></a>
@@ -388,8 +366,11 @@ mais instructif et souvent suffisant pour résoudre le problème. N&rsquo;hésit
 à commenter/décommenter des portions de code pour que votre *exemple* devienne
 effectivement *complet* et *minimal*. Pour mettre en évidence un problème lié
 à l&rsquo;inclusion de graphiques, vous pouvez vous aider du package
-[`mwe`](http://ctan.org/pkg/mwe) qui fournit des images dont les autres
-disposeront également.
+[`mwe`](http://ctan.org/pkg/mwe) qui :
+
+-   fournit des images dont les autres disposeront également ;
+-   inclut le package [`lipsum`](http://mirrors.ctan.org/macros/latex/contrib/lipsum/lipsum.pdf) permettant l&rsquo;inclusion de faux-texte, ce qui peut
+    être utile.
 
 Et n&rsquo;oubliez pas : « Aide-toi, [texnique.fr](http://texnique.fr/) t&rsquo;aidera. » :-)
 
@@ -430,7 +411,7 @@ Si la **réponse** vous semble :
     -   **en votant** (positivement) pour cette réponse.
 
 
-<a id="orgc098253"></a>
+<a id="orgcf29b1e"></a>
 
 ### J&rsquo;ai accepté une réponse à ma question mais une autre qui vient d&rsquo;être publiée est également satisfaisante. Pourquoi ne puis-je pas l&rsquo;accepter aussi ?
 
@@ -442,12 +423,12 @@ Si la **réponse** vous semble :
     satisfaisantes en votant positivement pour chacune d&rsquo;elles.
 
 
-<a id="orgd643dc0"></a>
+<a id="org3fabacd"></a>
 
 ## Réponses
 
 
-<a id="org557e3c7"></a>
+<a id="org7884086"></a>
 
 ### Que dois-je éviter dans mes réponses ?
 
@@ -460,7 +441,7 @@ Si la **réponse** vous semble :
     commentaires.
 
 
-<a id="org0cc3846"></a>
+<a id="orge4b990b"></a>
 
 ### Je pense pouvoir répondre à une question mais je ne suis pas certain de l&rsquo;avoir bien comprise. Que puis-je faire ?
 
@@ -470,12 +451,12 @@ rendre plus parlante en y ajoutant un ECM, voire une image illustrant ce qu&rsqu
 obtient lui sur sa propre machine.
 
 
-<a id="org45b6420"></a>
+<a id="org7fe9eb1"></a>
 
 ## Commentaires
 
 
-<a id="orgaba164f"></a>
+<a id="orgeabd358"></a>
 
 ### Quel type de commentaires puis-je poster ici ?
 
@@ -555,6 +536,7 @@ réponses et commentaires).
 
 ## Comment mettre en forme ma contribution ?
 
+-   **Titre :** prière de placer une capitale initiale au premier mot du titre.
 -   **Questions ou réponses :** dans les zones dédiées aux questions ou réponses, une
     mise en forme basique du texte est possible, et facilitée par des raccourcis
     claviers et boutons :
@@ -630,7 +612,7 @@ aux questions ou réponses, il suffit de :
 5.  Laisser une ligne vide après le code (sauf en fin de contribution).
 
 
-<a id="orgba000f6"></a>
+<a id="org894f871"></a>
 
 ## Dans un paragraphe de texte, comment faire ressortir une commande (La)TeX ou le nom d&rsquo;un package ?
 
@@ -642,7 +624,7 @@ Sample&#x2026; »), ce qui est à faire ressortir étant saisi :
 -   soit avant, mais alors étant préalablement sélectionné.
 
 
-<a id="org868e9d3"></a>
+<a id="org007420a"></a>
 
 ## Dans une liste, comment ajouter un nouvel item et comment en sortir ?
 
@@ -686,7 +668,7 @@ Au cas où cette méthode échoue (ou ne soit pas adaptée en raison des points
 ci-dessus), [d&rsquo;autres possibilités existent](http://tex.stackexchange.com/q/11866/18401).
 
 
-<a id="org0eee264"></a>
+<a id="orgfbb67fe"></a>
 
 # Divers
 
@@ -742,7 +724,7 @@ le PDF correspondant affiché sur le [Overleaf](https://www.overleaf.com/). Ce s
 (éventuellement collaborative) et la compilation en ligne de fichiers LaTeX.
 
 
-<a id="orgc67b2bf"></a>
+<a id="org47eea8d"></a>
 
 ## Que signifie le taux d&rsquo;acceptation figurant à côté des noms d&rsquo;utilisateurs ?
 
@@ -762,7 +744,7 @@ Ces losanges (ou « diamants ») indiquent :
 -   un administrateur s&rsquo;ils sont doubles (♦♦).
 
 
-<a id="org95e7032"></a>
+<a id="org27139b2"></a>
 
 ## Que signifient les différents codes couleurs du site ?
 
@@ -778,7 +760,7 @@ Ces losanges (ou « diamants ») indiquent :
     2.  bleu si son auteur est aussi l&rsquo;auteur de la question.
 
 
-<a id="orge2fdf5d"></a>
+<a id="org50a97d6"></a>
 
 # Problèmes
 
