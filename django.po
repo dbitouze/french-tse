@@ -1,5 +1,5 @@
 # French translation file for the OSQA application.
-# Copyright (C) 2010, 2015
+# Copyright (C) 2010, 2015, 2020
 # This file is distributed under the same license as the OSQA package.
 #
 # Laurent Raufaste <analogue@glop.org>, 2010.
@@ -1054,7 +1054,7 @@ msgstr "Désolé, il n'y a pas d'utilisateur avec ce nom"
 #: forum/forms/general.py:52
 msgid "sorry, we have a serious error - user name is taken by several users"
 msgstr ""
-"Désolé, nous avons un probleme sérieux : ce nom d'utilisateur est déjàpris "
+"Désolé, nous avons un probleme sérieux : ce nom d'utilisateur est déjà pris"
 "par plusieurs utilisateurs"
 
 #: forum/forms/general.py:53
