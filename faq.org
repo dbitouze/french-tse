@@ -187,7 +187,8 @@ Vous êtes atteint du syndrome *XYZ* lorsque :
 2. vous /croyez/ que la solution passe par *Y* ;
 3. vous ne parvenez pas à mettre en œuvre *Y* ;
 4. vous demandez de l'aide pour *Y*, sans mentionner *X* ;
-5. or la solution à *X* est en fait *Z* (qui n'a rien à voir avec *Y*) !
+5. tout le monde perd du temps à tenter de mettre en œuvre Y ;
+6. or la solution à *X* est en fait *Z* (qui n'a rien à voir avec *Y*) !
 
 *NB*. Indiquer le contexte (*X*) dès le début fait gagner du temps :
 - à ceux qui m'aident ;
@@ -245,8 +246,9 @@ Un *exemple complet minimal* (*ECM*) est un fichier source :
   la question posée :
   - *packages* (sauf éventuellement =inputenc=, =fontenc=, =lmodern= et, dans une
     moindre mesure, =babel=) ;
-  - *définitions* de macros personnelles ;
   - *texte* ;
+  - *définitions* de macros personnelles ;
+  - *commandes* de *configuration* ;
   - etc.
 
 Que ce soit ici ou sur tout autre lieu d’entraide à LaTeX, il est important que
