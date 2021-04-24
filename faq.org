@@ -187,7 +187,7 @@ Vous êtes atteint du syndrome *XYZ* lorsque :
 2. vous /croyez/ que la solution passe par *Y* ;
 3. vous ne parvenez pas à mettre en œuvre *Y* ;
 4. vous demandez de l'aide pour *Y*, sans mentionner *X* ;
-5. tout le monde perd du temps à tenter de mettre en œuvre Y ;
+5. tout le monde perd du temps à tenter de mettre en œuvre *Y* ;
 6. or la solution à *X* est en fait *Z* (qui n'a rien à voir avec *Y*) !
 
 *NB*. Indiquer le contexte (*X*) dès le début fait gagner du temps :
@@ -529,14 +529,11 @@ compilé avec =pdflatex= lancé avec l'option =-shell-escape=, génère le fichi
 #+CAPTION: Cases à cocher
 [[/osqa/upfiles/test_nzt03BJ.png]]
 
-*Attention !* deux points sont à noter. La classe =standalone= avec l'option
-=convert= :
-1. ne doit pas être employée avec le package =geometry= ;
-2. est actuellement sujette à un [[https://bitbucket.org/martin_scharrer/standalone/issues/16/convert-option-and-babel-package#comment-None][bogue]] qui la rend incompatible avec le package
-   =babel= (mais il existe [[http://tex.stackexchange.com/q/263985/18401][un contournement]]).
+*Attention !* La classe =standalone= avec l'option =convert= ne doit pas être
+employée avec le package =geometry=.
 
-Au cas où cette méthode échoue (ou ne soit pas adaptée en raison des points
-ci-dessus), [[http://tex.stackexchange.com/q/11866/18401][d'autres possibilités existent]].
+Au cas où cette méthode échoue (ou ne soit pas adaptée en raison de
+l'avertissement ci-dessus), [[http://tex.stackexchange.com/q/11866/18401][d'autres possibilités existent]].
 
 * Divers
 ** Une contribution (question, réponse et commentaire) me paraît (in)utile. Puis-je le faire savoir ?
