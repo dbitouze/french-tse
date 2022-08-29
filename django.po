@@ -57,7 +57,7 @@ msgstr "Commentaire de %(cauthor)s sur %(qora)s de %(pauthor)s"
 #: forum/skins/default/templates/question_list/item.html:15
 #: forum/views/writers.py:268 forum_modules/akismet/startup.py:76
 msgid "answer"
-msgstr "réponse"
+msgstr "Réponse"
 
 #: forum/feed.py:118 forum/models/question.py:17
 #: forum/skins/default/templates/osqaadmin/dashboard.html:19
@@ -2937,7 +2937,7 @@ msgstr "donner des réponses"
 
 #: forum/settings/users.py:72
 msgid "make comments"
-msgstr "faire des commentaires"
+msgstr "poster des commentaires"
 
 #: forum/settings/users.py:72
 msgid "report posts"
@@ -4367,7 +4367,7 @@ msgstr ""
 #: forum/skins/default/templates/question_list/item.html:15
 #: forum/views/users.py:56
 msgid "answers"
-msgstr "Réponses"
+msgstr "réponses"
 
 #: forum/skins/default/templates/question_summary_list_roll.html:14
 #: forum/skins/default/templates/question_list/item.html:11
@@ -7548,7 +7548,7 @@ msgstr "Questions suivies par %s"
 
 #: forum/views/readers.py:212
 msgid "Questions"
-msgstr "Questions"
+msgstr "questions"
 
 #: forum/views/readers.py:280 forum/views/readers.py:281
 msgid "ranking"
