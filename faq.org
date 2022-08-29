@@ -43,9 +43,9 @@ une FAQ LaTeX (bien sûr alors publiée sous la même licence).
 
 ** Pour participer à cette communauté, dois-je créer un nouveau compte ?
 
-- Si vous possédez déjà un [[http://openid.net/get-an-openid/what-is-openid/][OpenID]], vous pouvez [[http://texnique.fr/osqa/compte/connexion/][directement vous connecter au
+- Si vous possédez déjà un [[http://openid.net/get-an-openid/what-is-openid/][OpenID]], vous pouvez [[https://texnique.fr/osqa/compte/connexion/][directement vous connecter au
   site]] par ce biais-là.
-- Sinon, vous devez vous créer préalablement un [[http://texnique.fr/osqa/compte/local/inscription/][nouveau compte]].
+- Sinon, vous devez vous créer préalablement un [[https://texnique.fr/osqa/compte/local/inscription/][nouveau compte]].
 
 ** Comment fonctionne le système de points ?
 :PROPERTIES:
@@ -107,8 +107,8 @@ intéressant. Voilà pourquoi nous considérons une adresse de courriel valide
 comme nécessaire pour participer à la communauté et rendre ce site vivant.
 
 Si vous êtes déjà membre de cette communauté et n'avez pas validé votre adresse
-courriel, vous pouvez le faire [[http://texnique.fr/osqa/compte/valider/][ici]].  Si vous n'êtes pas encore membre de cette
-communauté, vous pouvez la rejoindre en vous [[http://texnique.fr/osqa/compte/local/inscription/][inscrivant]].
+courriel, vous pouvez le faire [[https://texnique.fr/osqa/compte/valider/][ici]].  Si vous n'êtes pas encore membre de cette
+communauté, vous pouvez la rejoindre en vous [[https://texnique.fr/osqa/compte/local/inscription/][inscrivant]].
 
 ** Comment modifier mon profil, par exemple mes notifications par courriel ?
 
@@ -122,8 +122,8 @@ par courriel ».
 Vous pouvez nous aider à améliorer notre site et enrichir la base de
 connaissance sur (La)TeX en :
 
-- [[http://texnique.fr/osqa/questions/][trouvant une question]] à laquelle répondre ;
-- [[http://texnique.fr/osqa/questions/demandez/][posant une question]].
+- [[https://texnique.fr/osqa/questions/][trouvant une question]] à laquelle répondre ;
+- [[https://texnique.fr/osqa/questions/demandez/][posant une question]].
 
 Un élément important de ce site étant la qualité (clarté, concision, précision,
 etc.) des questions, réponses et commentaires, n'hésitez pas à consulter les
@@ -274,7 +274,7 @@ effectivement /complet/ et /minimal/. Pour mettre en évidence un problème lié
 - inclut le package [[http://mirrors.ctan.org/macros/latex/contrib/lipsum/lipsum.pdf][=lipsum=]] permettant l'inclusion de faux-texte, ce qui peut
   être utile.
 
-Et n'oubliez pas : « Aide-toi, [[http://texnique.fr/][texnique.fr]] t'aidera. » :-)
+Et n'oubliez pas : « Aide-toi, [[https://texnique.fr/][texnique.fr]] t'aidera. » :-)
 
 *** Qu'est-ce qu'un MWE et pourquoi est-il si important d'en fournir un ?
 :PROPERTIES:
@@ -641,7 +641,7 @@ utilisé pour ce site de questions et réponses. Il se produit lorsqu'un
 contributeur insère dans un /commentaire/ du code « /hors texte/ » : tous les
 commentaires suivants sont alors invisibles. En attendant que ce bogue soit
 réglé (compétences et bonnes volontés
-[[http://texnique.fr/osqa/contact/][bienvenues]] !), il est demandé aux
+[[https://texnique.fr/osqa/contact/][bienvenues]] !), il est demandé aux
 contributeurs de *proscrire* les [[#custom-id-mise-en-forme][codes « *hors
 texte* »]] dans leurs commentaires.
 
