@@ -43,9 +43,9 @@ une FAQ LaTeX (bien sûr alors publiée sous la même licence).
 
 ** Pour participer à cette communauté, dois-je créer un nouveau compte ?
 
-- Si vous possédez déjà un [[http://openid.net/get-an-openid/what-is-openid/][OpenID]], vous pouvez [[https://texnique.fr/osqa/compte/connexion/][directement vous connecter au
+- Si vous possédez déjà un [[http://openid.net/get-an-openid/what-is-openid/][OpenID]], vous pouvez [[https://texnique.fr/osqa/account/signin/][directement vous connecter au
   site]] par ce biais-là.
-- Sinon, vous devez vous créer préalablement un [[https://texnique.fr/osqa/compte/local/inscription/][nouveau compte]].
+- Sinon, vous devez vous créer préalablement un [[https://texnique.fr/osqa/account/local/register/][nouveau compte]].
 
 ** Comment fonctionne le système de points ?
 :PROPERTIES:
@@ -108,7 +108,7 @@ comme nécessaire pour participer à la communauté et rendre ce site vivant.
 
 Si vous êtes déjà membre de cette communauté et n'avez pas validé votre adresse
 courriel, vous pouvez le faire [[https://texnique.fr/osqa/compte/valider/][ici]].  Si vous n'êtes pas encore membre de cette
-communauté, vous pouvez la rejoindre en vous [[https://texnique.fr/osqa/compte/local/inscription/][inscrivant]].
+communauté, vous pouvez la rejoindre en vous [[https://texnique.fr/osqa/account/local/register/][inscrivant]].
 
 ** Comment modifier mon profil, par exemple mes notifications par courriel ?
 
@@ -123,7 +123,7 @@ Vous pouvez nous aider à améliorer notre site et enrichir la base de
 connaissance sur (La)TeX en :
 
 - [[https://texnique.fr/osqa/questions/][trouvant une question]] à laquelle répondre ;
-- [[https://texnique.fr/osqa/questions/demandez/][posant une question]].
+- [[https://texnique.fr/osqa/questions/ask/][posant une question]].
 
 Un élément important de ce site étant la qualité (clarté, concision, précision,
 etc.) des questions, réponses et commentaires, n'hésitez pas à consulter les
